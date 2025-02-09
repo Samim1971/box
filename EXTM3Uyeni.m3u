@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1739064364&st=aCzw7gT1Dpbv-VeDBxV6dQ&sid=759fo9wnu4yj&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=nN3SN3TFn4xrccN6wX0t4w&e=1739138197&ppid=7f009bbcb7b3e74be94cee1fb0e2b1c2&gdpr=0
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV [Kynk 2]"tvg-id="ATV [Kynk 2]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 2]
