@@ -9,6 +9,8 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u
 https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 tvg-name="KanalD.tr 2"tvg-id="KanalD.tr 2"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 2
+https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=75ho80xdmlkz&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-name="Show TV.tr"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal7.tr"tvg-id="Kanal7.tr"tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal 7
@@ -2553,7 +2555,7 @@ https://s2.imglink.info/mi/FTSlpaxhHT90qTIlYwZhZwNjAP5PGSIFDIxhZGN4ZUNhESIOGNd0z
 https://s24.imageshub.pro/mm/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
 #EXTINF:-1 tvg-name="Harry Potter 6 Melez Prens"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-harry-potter-ve-melez-prens-filmini-full-hd-izle.webp"group-title="HARRY POTTER":http-referrer="":http-user-agent="",Harry Potter 6
 https://s24.imglink.info/mr/FTSlpaxhHT90qTIlYwLhZwNjBF5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5cozMis0xi24vr1
-#EXTINF:-1 tvg-name="Kirpi Sonic 3 "tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/kirpi-sonic-3-sonic-the-hedgehog-3-67169.webp"group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",Kirpi Sonic 3 
+#EXTINF:-1 tvg-name="Kirpi Sonic 3 "tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/kirpi-sonic-3-sonic-the-hedgehog-3-67169.webp"group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",Kirpi Sonic 3
 https://s13.pixtureup.org/mr/H29hnJZhITuyYxuyMTqynT9aYwZhZwNlAP4kZQtjpP5KEHWFnDd0zxpTy4qUIlMKIjYz9lMjs0xi13vr1
 #EXTINF:-1 tvg-name="Karayip Korsanları 1 Siyah İncinin Laneti"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-karayip-korsanlari-1-siyah-incinin-laneti-izle.webp"group-title="KARAYİP KORSANLARI":http-referrer="":http-user-agent="",Karayip Korsanları 1 Siyah İncinin Laneti
 https://s1.imagehub.pics/mp/F2SlLKycpP5Yo3WmLJ5fLKWcYwRhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi1vr1
@@ -2575,6 +2577,8 @@ https://vs2.photour.org/mc/MUy1rQyioJZlq2Rkd0zxpTuiqT91pv5ipzps0xi2vr1
 https://vs3.photofunny.org/mm/pKx5paAdMTM0nUq4d0zxpTuiqT9zqJ5hrF5ipzps0xi3vr1
 #EXTINF:-1 tvg-name="Titanik ALTYAZILI"tvg-id=""tvg-logo="https://www.hdfilmizle.to/v/6875/poster/watch/titanik-izle.webp"group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",Titanik ALTYAZILI
 https://vs4.photomag.biz/md/rapjpKS5pJgwnzuwd0zxpTuiqT9gLJphLzy6s0xi4vr1
+#EXTINF:-1 tvg-name="Yabancı (Outlander)"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/yabanci-outlander-izle-hd.webp"group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",Yabancı (Outlander)
+https://vs14.photoflix.org/v/Sebastian.Fitzeks.Der.Heimweg.2025.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
 #EXTINF:-1 tvg-name="3 Idiots (2009)"tvg-id=""tvg-logo=""group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",3 Idiots (2009)
 http://115759.fly66.be:80/movie/mevlutcelik/2gkUty6rv/272312.mkv
 #EXTINF:-1 tvg-name="Nosferatu (2024)"tvg-id=""tvg-logo=""group-title="YABANCI FILMLER":http-referrer="":http-user-agent="",Nosferatu (2024)
