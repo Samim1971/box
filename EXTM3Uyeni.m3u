@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=nN3SN3TFn4xrccN6wX0t4w&e=1739138197&ppid=7f009bbcb7b3e74be94cee1fb0e2b1c2&gdpr=0
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1739264188&st=4u1bTaXm27p4fRcL_LLLxQ&sid=75horis4fsyd&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 tvg-name="out"tvg-id="out"tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",out
+https://sithmanifest.com/server/outlander/1/1/Y295RmwwZUhkbW0ydXhnb3ZtejFZOTVjWFU1YUI4NE9XbzFWdFZNMGh4dXdQOG9QZUxPSWFkaGNQa0tVd2wzTA/360.m3u8?__=1739220500
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV [Kynk 2]"tvg-id="ATV [Kynk 2]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 2]
