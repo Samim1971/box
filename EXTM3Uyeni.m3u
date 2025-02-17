@@ -7,8 +7,10 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
 #EXTINF:-1 tvg-name="NOW.tr"tvg-id="Now_tv"tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png"group-title="Ulusal":http-referrer="":http-user-agent="",Now TV ➾[Kynk 3]
 https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr 1"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 1
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr 2"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 2
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=23e8fdd7520857a595ad30b91d4f96e7
 #EXTINF:-1 tvg-name="Show TV.tr"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal7.tr"tvg-id="Kanal7.tr"tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal 7
