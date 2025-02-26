@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
-https://iatv.tmgrup.com.tr/site/v2/c/stream.css?v=19417
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=YsCROUg8HFjsEJvk_mNxjg&e=1740033657
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV [Kynk 2]"tvg-id="ATV [Kynk 2]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 2]
@@ -10040,6 +10040,28 @@ https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/088_meb/eskiya_dunyaya_h
 https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/089_tmd1/eskiya_dunyaya_hukumdar_olmaz_089.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:-1 tvg-name="eskiya 90 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/22db57/959/566/0/0/959/566?u=https://iatv.tmgrup.com.tr/video/thumbnails/2018/02/13/959x566/1518420048075.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 90 .bölüm
 https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/090_tm10/eskiya_dunyaya_hukumdar_olmaz_090.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 91 .bölüm"tvg-id=""tvg-logo="https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/092_sdtb/eskiya_dunyaya_hukumdar_olmaz_092.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 91 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/091_brky2/eskiya_dunyaya_hukumdar_olmaz_091.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 92 .bölüm"tvg-id=""tvg-logo="https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/092_sdtb/eskiya_dunyaya_hukumdar_olmaz_092.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 92 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/092_sdtb/eskiya_dunyaya_hukumdar_olmaz_092.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 93 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/990248/960/565/0/0/960/565?u=https://iatv.tmgrup.com.tr/video/thumbnails/2018/03/06/960x565/1520234681071.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 93 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/093_yay7/eskiya_dunyaya_hukumdar_olmaz_093.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 94 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/77e18b/960/565/0/159/2048/1365?u=https://iatv.tmgrup.com.tr/2018/03/14/eskiya-dunyaya-hukumdar-olmaz-1521019589740.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 94 .bölüm
+https://atv-vod.ercdn.net/video/dizi/eskiya-dunyaya-hukumdar-olmaz/94_wmga/998989d1-7541-42f8-bb1a-edb08ec47d50.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 95 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/3aff5d/960/565/0/0/2048/1205?u=https://iatv.tmgrup.com.tr/2018/03/19/eskiya-dunyaya-hukumdar-olmaz-1521447026146.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 95 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/095_grkn/eskiya_dunyaya_hukumdar_olmaz_095.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 96 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/5c2a64/960/565/0/0/1280/753?u=https://iatv.tmgrup.com.tr/2018/03/26/eskiya-dunyaya-hukumdar-olmaz-1522049049784.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 96 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/096_brky/eskiya_dunyaya_hukumdar_olmaz_096.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 97 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/013648/960/565/84/0/1920/1080?u=https://iatv.tmgrup.com.tr/2018/04/02/eskiya-dunyaya-hukumdar-olmaz-1522656190595.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 97 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/097_ncr4/eskiya_dunyaya_hukumdar_olmaz_097.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 98 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/7afe1d/960/565/0/154/2048/1360?u=https://iatv.tmgrup.com.tr/2018/04/09/eskiya-dunyaya-hukumdar-olmaz-1523258764182.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 98 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/098_meb1/eskiya_dunyaya_hukumdar_olmaz_098.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 99 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/e37ef0/960/565/0/165/1087/804?u=https://iatv.tmgrup.com.tr/2018/04/16/eskiya-dunyaya-hukumdar-olmaz-1523864668847.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 99 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/099_grkn/eskiya_dunyaya_hukumdar_olmaz_099.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 100 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/a42ed6/960/565/0/99/1280/853?u=https://iatv.tmgrup.com.tr/2018/04/23/eskiya-dunyaya-hukumdar-olmaz-1524471310570.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 100 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/100_edho/eskiya_dunyaya_hukumdar_olmaz_100.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+#EXTINF:-1 tvg-name="eskiya 101 .bölüm"tvg-id=""tvg-logo="https://iaatv.tmgrup.com.tr/05c7ae/960/565/0/99/1280/853?u=https://iatv.tmgrup.com.tr/2018/04/30/eskiya-dunyaya-hukumdar-olmaz-1525073674869.jpg"group-title="eskiya":http-referrer="":http-user-agent="",eskiya 101 .bölüm
+https://atv-vod.ercdn.net/eskiya_dunyaya_hukumdar_olmaz/101_ncr5/eskiya_dunyaya_hukumdar_olmaz_101.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
 #EXTINF:-1 tvg-name="Sezon 1 Bölüm 1"tvg-id=""tvg-logo="https://mo.ciner.com.tr/video/2024/03/29/ver1726038663/79AF5D51F4EB949B61B8957EC71333C3_320x180.jpg"group-title="CUKUR":http-referrer="":http-user-agent="",Sezon 1 Bölüm 1
 https://vmcdn.ciner.com.tr/ht/2024/03/29/85C5E77130795CE2F051D40E56884DFF/85C5E77130795CE2F051D40E56884DFF.m3u8
 #EXTINF:-1 tvg-name="Sezon 1 Bölüm 2"tvg-id=""tvg-logo="https://mo.ciner.com.tr/video/2024/03/29/ver1726038663/2712D43B83EA323892467C7A48EB1FAE_320x180.jpg"group-title="CUKUR":http-referrer="":http-user-agent="",Sezon 1 Bölüm 2
