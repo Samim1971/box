@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name="deneme"tvg-id=""tvg-logo=""group-title="deneme":http-referrer="":http-user-agent="",
+ftp://192.168.1.1/2022/Müslüm.mp4
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
