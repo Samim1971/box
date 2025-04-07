@@ -167,6 +167,454 @@ http://stream.tvcdn.net/spor/tjk-tv.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-name="FB TV"tvg-id="Spor_FBTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg"group-title="Spor":http-referrer="":http-user-agent="",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2245084.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",6 Süper Kahraman
+https://vidmody.com/vs/tt2245084
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",A Bug's Life
+https://vidmody.com/vs/tt0120623
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/oTAC9Htd7rAZuxrmkgTMIihtqMR.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",A Cat in Paris
+https://vidmody.com/vs/tt1673702
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jerM6xBeRfIr2rLg2pICmduzoyf.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",A Monster in Paris
+https://vidmody.com/vs/tt0961097
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kq4yLkeP4a8xWbl9eBQzndmwJQt.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",A Wizard's Tale
+https://vidmody.com/vs/tt6494344
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Abominable
+https://vidmody.com/vs/tt6324278
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YwZjhjN2UtNDYwYy00YmY2LTk0NGMtNTA5NThmYTZlZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Addams Ailesi 2
+https://vidmody.com/vs/tt11125620
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Aladdin
+https://vidmody.com/vs/tt0103639
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/30GAgK0SvrRoopHlEcrchXqD0hf.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",All Star Superman
+https://vidmody.com/vs/tt1699114
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Alvin and the Chipmunks: Chipwrecked
+https://vidmody.com/vs/tt1615918
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8HWrT1jjmjrDwnfTBBuxHxw8G1Q.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Alvin and the Chipmunks: The Road Chip
+https://vidmody.com/vs/tt0952640
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8mdPqOga5fty15nXmaNcK1fsNMa.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Alvin and the Chipmunks: The Squeakquel
+https://vidmody.com/vs/tt1231580
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",America: The Motion Picture
+https://vidmody.com/vs/tt6733874
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Anastasia
+https://vidmody.com/vs/tt0118617
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pvpJfkzcqENTSlBKCSImi05WlXK.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Antz
+https://vidmody.com/vs/tt0120587
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/wBT40NqmBz65WYmIGhDnWcgzPcA.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Arthur 3: The War of the Two Worlds
+https://vidmody.com/vs/tt0940656
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Arthur Christmas
+https://vidmody.com/vs/tt1430607
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/oppvIr8jmTXEVkzRHtipxcmvdQ5.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Asterix: The Mansions of the Gods
+https://vidmody.com/vs/tt3759416
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_FMjpg_UX1000_.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Astro Boy
+https://vidmody.com/vs/tt0375568
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/c9siOypFgzsKL4LQI1d3EkDN6U3.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Atlantis: Milo's Return
+https://vidmody.com/vs/tt0344864
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Atlantis: The Lost Empire
+https://vidmody.com/vs/tt0230011
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1109624.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ayi Paddington
+https://vidmody.com/vs/tt1109624
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ballerina
+https://vidmody.com/vs/tt2261287
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Bambi II
+https://vidmody.com/vs/tt0447854
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/h6aSbt5z0Rzu6dIFpxy9Vt17vi8.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Barbie and Stacie to the Rescue
+https://vidmody.com/vs/tt31181357
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nCviAdChxibrKRZfvG7MZ2wsqdR.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Barbie in Princess Power
+https://vidmody.com/vs/tt4215332
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/aCKWWQpEijagMEfIOz0vW0aTDmv.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Barbie in Rock 'N Royals
+https://vidmody.com/vs/tt4955162
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/xAP0aqAMlsNN3NEvikRkjaTlmjw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Batman and Harley Quinn
+https://vidmody.com/vs/tt6556890
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Batman: Mask of the Phantasm
+https://vidmody.com/vs/tt0106364
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Batman: The Doom That Came to Gotham
+https://vidmody.com/vs/tt24223450
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Beauty and the Beast
+https://vidmody.com/vs/tt0101414
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Bee Movie
+https://vidmody.com/vs/tt0389790
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/i0zImtsknzWLl5OvAQ23Y3gfEYZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Big Top Scooby-Doo!
+https://vidmody.com/vs/tt2235542
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kOIvXIhiHIoqLDJtFu8lM3pyumQ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Boonie Bears: A Mystical Winter
+https://vidmody.com/vs/tt4412240
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Brave
+https://vidmody.com/vs/tt1217209
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/vKSmaPct5OEeMoD8ue30RisHlKD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Captain Underpants: The First Epic Movie
+https://vidmody.com/vs/tt2091256
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cars
+https://vidmody.com/vs/tt0317219
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cars 2
+https://vidmody.com/vs/tt1216475
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cars 3
+https://vidmody.com/vs/tt3606752
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kOn1mR8ZA7gZ1r7OUFAUbTMGfQ5.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cats in the Museum
+https://vidmody.com/vs/tt24069962
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3482378.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cezalandirici Yenilmezler Cok Gizli
+https://vidmody.com/vs/tt3482378
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Chicken Run: Dawn of the Nugget
+https://vidmody.com/vs/tt0120630
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cinderella
+https://vidmody.com/vs/tt0042332
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cloudy with a Chance of Meatballs 2
+https://vidmody.com/vs/tt1985966
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Coco
+https://vidmody.com/vs/tt2380307
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8J3DHTh2VU0fCWgoyUQ7zXotcxo.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Crazy Birds
+https://vidmody.com/vs/tt10691070
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Crocodile
+https://vidmody.com/vs/tt14668630
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Despicable Me 3
+https://vidmody.com/vs/tt3469046
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/fGYgPrTEwux7yUvIs3Xfe12R3M9.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Donkey X
+https://vidmody.com/vs/tt0419704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Early Man
+https://vidmody.com/vs/tt4701724
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ejderhanı Nasıl Eğitirsin 2010
+https://vidmody.com/vs/tt0892769
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/qqEkwYHrney6AhbzcEz2FXOuqEW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Elcano & Magellan: The First Voyage Around the World
+https://vidmody.com/vs/tt4991676
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Elemental
+https://vidmody.com/vs/tt15789038
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/hIgwt9wqfNrduO7seHiMFnRgzEW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ella and the Little Sorcerer
+https://vidmody.com/vs/tt14633194
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/tlou8vRlocYqqWFUDvjQa6Y47zA.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Even Mice Belong in Heaven
+https://vidmody.com/vs/tt3804810
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/15/02/25/16/31/573966.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Firildak.Ailesi.2017
+https://vidmody.com/vs/tt6409666
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Frankenweenie
+https://vidmody.com/vs/tt1142977
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pjIrYzc31kHTySiovHAt0o3qDc2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Franklin
+https://vidmody.com/vs/tt30841644
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3896198.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Galaksinin Koruyuculari 2
+https://vidmody.com/vs/tt3896198
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Garfield
+https://vidmody.com/vs/tt0356634
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/osfMaHucgLtHtsMa6TQLTooE3G7.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Garfield: A Tail of Two Kitties
+https://vidmody.com/vs/tt0455499
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/fkqcF21HKZPvCwO6BHPa3aCRaxz.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G-Force
+https://vidmody.com/vs/tt0436339
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/2iqCDS2F47wvKvyQc2ozJD6aWD2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Gladiators of Rome
+https://vidmody.com/vs/tt1946347
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Gnome Alone
+https://vidmody.com/vs/tt5851786
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/2VcRaG5oQAnoFvKWM9jSDeGXRQe.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Goldbeak
+https://vidmody.com/vs/tt15257928
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Happy Feet
+https://vidmody.com/vs/tt0366548
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Harold and the Purple Crayon
+https://vidmody.com/vs/tt1609486
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Hop
+https://vidmody.com/vs/tt1411704
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ppTvoDhnOYQ9uiETpbOw8A2hI5k.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Hotel Transylvania 2
+https://vidmody.com/vs/tt2510894
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Hotel Transylvania 3: Summer Vacation
+https://vidmody.com/vs/tt5220122
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Hotel Transylvania: Transformania
+https://vidmody.com/vs/tt0837562
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",How to Train Your Dragon 2
+https://vidmody.com/vs/tt1646971
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",How to Train Your Dragon: The Hidden World
+https://vidmody.com/vs/tt2386490
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ice Age: Continental Drift
+https://vidmody.com/vs/tt1667889
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYwNjM1ODkxOV5BMl5BanBnXkFtZTcwMTQyMzI5MQ@@._V1_FMjpg_UX1000_.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Igor 2008
+https://vidmody.com/vs/tt0465502
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Incredibles 2
+https://vidmody.com/vs/tt3606756
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Jungle Beat: The Movie
+https://vidmody.com/vs/tt12139700
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/crcj3IEAUtzIySVjw3HN2tS910S.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Jungle Shuffle
+https://vidmody.com/vs/tt2722786
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Justice League Dark: Apokolips War
+https://vidmody.com/vs/tt11079148
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Justice League: Crisis on Infinite Earths Part Two
+https://vidmody.com/vs/tt30150907
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/seCbcjdZYUl8SRKjeWfyi2ngzFj.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Justice League: Doom
+https://vidmody.com/vs/tt2027128
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Justice League: Throne of Atlantis
+https://vidmody.com/vs/tt3878542
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27687527.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Justice League: Warworld - Adalet Birliği: Savaş Dünyası
+https://vidmody.com/vs/tt27687527
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1621039.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kahraman Ikili
+https://vidmody.com/vs/tt1621039
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0765446.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kahraman Uzaylilar
+https://vidmody.com/vs/tt0765446
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2294629.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Karlar Ulkesi
+https://vidmody.com/vs/tt2294629
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/fuJlXADTxAzHWR0XK8tR4DEsJGb.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Katak: The Brave Beluga
+https://vidmody.com/vs/tt13952306
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/29057.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kayıp Balık Nemo
+https://vidmody.com/vs/tt0266543
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",King Tweety
+https://vidmody.com/vs/tt18951472
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3794354.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kirpi Sonic
+https://vidmody.com/vs/tt3794354
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwXGYxhcwybdTooR-0C37QW4FJU-zcipqCA&s"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kötü Kedi Şerafettin
+https://vidmody.com/vs/tt4695548
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/08/29/10/03/4865279.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kral.Sakir.Korsanlar.Diyari.2019
+https://vidmody.com/vs/tt10524746
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kyMrt0RPVC8LDpdMrk1DjN6Gqdu.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kronk's New Groove
+https://vidmody.com/vs/tt0401398
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Kung Fu Panda 4
+https://vidmody.com/vs/tt21692408
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/23/05/22/09/14/5843204.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Küçük Deniz Kızı 2023
+https://vidmody.com/vs/tt5971474
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Lady and the Tramp II: Scamp's Adventure
+https://vidmody.com/vs/tt0249677
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/6d2515LFOKzqwvhhnfcNsf3lIUe.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Lamya's Poem
+https://vidmody.com/vs/tt10346674
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Legend of the Guardians: The Owls of Ga'Hoole
+https://vidmody.com/vs/tt1219342
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Legion of Super-Heroes
+https://vidmody.com/vs/tt22769820
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ry0N6rxZCuhCPUJRSzF8l3gcwqY.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",LEGO Marvel Super Heroes: Maximum Overload
+https://vidmody.com/vs/tt3322904
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Leo
+https://vidmody.com/vs/tt5755238
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Lilo & Stitch
+https://vidmody.com/vs/tt0457993
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/g94LNU4pipIUJLkTvYIgNGfT2J2.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mars Needs Moms
+https://vidmody.com/vs/tt1305591
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1001526.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Megazeka
+https://vidmody.com/vs/tt1001526
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/34/c7/34c77e80fafdea36d4d443684972bd04.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Meraklı Kedinin 10 Yaşamı
+https://vidmody.com/vs/tt7959138
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/apQL85BMRgkBWQq6pBXKOLfCyaV.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Migration
+https://vidmody.com/vs/tt6495056
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/xE06xrZkIipJMPSgWoeelohxi9h.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mononoke the Movie: The Phantom in the Rain
+https://vidmody.com/vs/tt32574149
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster Family
+https://vidmody.com/vs/tt6572702
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/eEZJMmzDNUNKoJw6jfmGVWeqqhJ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster High: 13 Wishes
+https://vidmody.com/vs/tt3159812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/iqt6XJmJP4sPuIjYDkbcLyBVlPw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster High: Freaky Fusion
+https://vidmody.com/vs/tt3824344
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/3LuIy4Z5zI2vkjAwwkugH367HRp.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster High: Ghouls Rule
+https://vidmody.com/vs/tt2446108
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jvwpfW0xRt2pQGD5tJbqmkc9STb.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster High: Haunted
+https://vidmody.com/vs/tt4137924
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monster House
+https://vidmody.com/vs/tt0385880
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Monsters University
+https://vidmody.com/vs/tt1453405
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mortal Kombat Legends: Battle of the Realms
+https://vidmody.com/vs/tt14901058
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mortal Kombat Legends: Cage Match
+https://vidmody.com/vs/tt22698070
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4VlXER3FImHeFuUjBShFamhIp9M.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mortal Kombat Legends: Scorpion's Revenge
+https://vidmody.com/vs/tt9580138
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/xvjCiv1xNlK1kNnoe1nul899vIp.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mortal Kombat Legends: Snow Blind
+https://vidmody.com/vs/tt21477618
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Mufasa: The Lion King
+https://vidmody.com/vs/tt0110357
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/Aww9cF4uMsbald9ddhCYFoP4gBi.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Muppets from Space
+https://vidmody.com/vs/tt0158811
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5513260.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Neşeli Dalgalar 2: Dalgamanya
+https://vidmody.com/vs/tt5513260
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTUMTjkWDvr_PIMTXVedGwYwXzUCeR2u8pzD2tvppyO3GJhFVM"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Noelde Tek Dileğim 2017
+https://vidmody.com/vs/tt6678950
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Norm of the North
+https://vidmody.com/vs/tt1594972
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Olaf's Frozen Adventure
+https://vidmody.com/vs/tt5452780
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Onward
+https://vidmody.com/vs/tt7146812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/k6iHs4daxm0RQqFQsE8oE5wWJjj.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Orion and the Dark
+https://vidmody.com/vs/tt28066777
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Paddington 2
+https://vidmody.com/vs/tt4468740
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/o9qmCvnJLCqMuKsrZ0tWvSCEWTz.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Part Two
+https://vidmody.com/vs/tt24548912
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3874544.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Patron Bebek
+https://vidmody.com/vs/tt3874544
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",PAW Patrol: The Mighty Movie
+https://vidmody.com/vs/tt15837338
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",PAW Patrol: The Movie
+https://vidmody.com/vs/tt11832046
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Paws of Fury: The Legend of Hank
+https://vidmody.com/vs/tt4428398
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/gbrNsZ1dOK789NwWPyC0SuEABgr.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Penguins of Madagascar
+https://vidmody.com/vs/tt1911658
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/cBWtdp8mgce4QQkH697LpaL0Iik.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Peter Rabbit
+https://vidmody.com/vs/tt5117670
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Pinocchio
+https://vidmody.com/vs/tt0032910
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/x7Itcg3ZdExKwdKguy73WPEqosW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Planet 51
+https://vidmody.com/vs/tt0762125
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pQIKecVvsEEexALNuyPj9q4JmSN.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ploey: You Never Fly Alone
+https://vidmody.com/vs/tt2766104
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/oP6cy63jH555O35Uqyy9qHpuSXh.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Quackerz
+https://vidmody.com/vs/tt3723780
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/6BQyI5qfDNcpuSFPmJEzOfSUFOw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rabbit School: Guardians of the Golden Egg
+https://vidmody.com/vs/tt5029776
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/83/30/14/19681954.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rango
+https://vidmody.com/vs/tt1192628
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/649xP2LST4VIrZ5cLPw7Ys9movF.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ratchet & Clank
+https://vidmody.com/vs/tt2865120
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/146550.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rio 1
+https://vidmody.com/vs/tt1436562
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2357291.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rio 2
+https://vidmody.com/vs/tt2357291
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/sW4qOa9yF0Ikg7lppncQ0n5UhKX.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rise of the Guardians
+https://vidmody.com/vs/tt1446192
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Robots
+https://vidmody.com/vs/tt0358082
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rock Dog
+https://vidmody.com/vs/tt2822672
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kETYRGA15L0wkVPugSl8lKmSgFn.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rock Dog 2: Rock Around the Park
+https://vidmody.com/vs/tt11207240
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Ron's Gone Wrong
+https://vidmody.com/vs/tt7504818
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/9qAL19JR0oJ7ZlVpUE1Os2P6XXp.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Room on the Broom
+https://vidmody.com/vs/tt2484120
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Rumble
+https://vidmody.com/vs/tt8337158
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nNMAglUfOuDuyAKYSmXzFkBeNha.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",SamSam
+https://vidmody.com/vs/tt9784518
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Scoob!
+https://vidmody.com/vs/tt3152592
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/w9CpKZmgDfQvHe8WzFsvxxKCNyc.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Scooby-Doo! in Where's My Mummy?
+https://vidmody.com/vs/tt0480461
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/zER4fuEw6qlMkC3mBGcht0r2Iqw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Scooby-Doo! Legend of the Phantosaur
+https://vidmody.com/vs/tt1777608
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/qcSjTyzy1IOt2W7nR4X3uWUx2xj.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Scooby-Doo! Mask of the Blue Falcon
+https://vidmody.com/vs/tt2586070
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/yI12z4mrNDl75no6zxQS2pBswG4.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Scooby-Doo! Stage Fright
+https://vidmody.com/vs/tt3025994
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/5tGjQrYrPCbcwMCbptXTR7fUhL5.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Seal Team
+https://vidmody.com/vs/tt8456190
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2186566.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Sevimli Hayalet
+https://vidmody.com/vs/tt2186566
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/cAOyc1wykhkOJ5Vm0BdjsGrLbeD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Shaun the Sheep Movie
+https://vidmody.com/vs/tt2872750
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4R28oIV65bElWcXlavPV0kRbmSZ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Sheep & Wolves
+https://vidmody.com/vs/tt3746824
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bkaymv2mzOw8QdCZ9YllRYbXBb8.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Shimmy: The First Monkey King
+https://vidmody.com/vs/tt21448604
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/57212.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Shrek 4 Sonsuza Dek Mutlu
+https://vidmody.com/vs/tt0892791
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/i77OInTKcrnRlAozFOaB6D5mk15.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Sing: Thriller
+https://vidmody.com/vs/tt3470600
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Smallfoot
+https://vidmody.com/vs/tt6182908
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Smurfs: The Lost Village
+https://vidmody.com/vs/tt2398241
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Sonic the Hedgehog 2
+https://vidmody.com/vs/tt12412888
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pEz5aROvfy5FBW1OTlrDO3VryWO.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Soul
+https://vidmody.com/vs/tt2948372
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3554046.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Space Jam: Yeni Efsane
+https://vidmody.com/vs/tt3554046
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4zj2KfykL4qvYCrbMv46Yd5vnYM.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Spark: A Space Tail
+https://vidmody.com/vs/tt3228088
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/e7rWcrnuNej3JeVjqmRu0jVeRa4.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Spies in Disguise
+https://vidmody.com/vs/tt5814534
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11084896.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Spirit: Özgür Ruh
+https://vidmody.com/vs/tt11084896
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Spirited Away
+https://vidmody.com/vs/tt0245429
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/pwGolX8JmGJhhcUjO5SJt38Uk0m.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Storks
+https://vidmody.com/vs/tt4624424
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/43SdiZr9z9TqY5liPkY4j7GvJUt.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Strawberry Shortcake and the Beast of Berry Bog
+https://vidmody.com/vs/tt29389870
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/e7QE1i9evx4xiafS5RbD3Bdpxt3.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Strawberry Shortcake's Perfect Holiday
+https://vidmody.com/vs/tt29721553
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/6718170.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Super Mario Kardeşler Filmi
+https://vidmody.com/vs/tt6718170
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Superman vs. The Elite
+https://vidmody.com/vs/tt2224455
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Superman/Shazam!: The Return of Black Adam
+https://vidmody.com/vs/tt1701223
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Superman: Doomsday
+https://vidmody.com/vs/tt0934706
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Superman: Red Son
+https://vidmody.com/vs/tt10985510
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Superman: Unbound
+https://vidmody.com/vs/tt2617456
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.mallofantalya.com.tr/content/upload/images/large/SPER.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Süper Köpek ve Turbo Kedi 2021
+https://vidmody.com/vs/tt7531096
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczMjk5NzkxOV5BMl5BanBnXkFtZTcwNDQyNzU5Ng@@._V1_FMjpg_UX1000_.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Şirinler: Yeni Yıl Şarkısı
+https://vidmody.com/vs/tt2062677
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Tangled
+https://vidmody.com/vs/tt0398286
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Tarzan
+https://vidmody.com/vs/tt1705952
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Taz: Quest for Burger
+https://vidmody.com/vs/tt27469256
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/9ycZTJORpmD5SxrEawQCs2fepSk.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teen Titans Go! See Space Jam
+https://vidmody.com/vs/tt14851194
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teen Titans Go! To the Movies
+https://vidmody.com/vs/tt7424200
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/nuGIlNAJUati4qEAH1nrYKUA3xa.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teen Titans: The Judas Contract
+https://vidmody.com/vs/tt6315800
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/8ChIb3WzYAcza1vrXR56v510MWk.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teenage Kraken
+https://vidmody.com/vs/tt27155038
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teenage Mutant Ninja Turtles
+https://vidmody.com/vs/tt0453556
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Teenage Mutant Ninja Turtles: Mutant Mayhem
+https://vidmody.com/vs/tt8589698
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Aristocats
+https://vidmody.com/vs/tt0065421
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Bad Guys
+https://vidmody.com/vs/tt8115900
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/er0Gth3Tr279hFq1xeKdYxhcleO.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Bad Guys: A Very Bad Holiday
+https://vidmody.com/vs/tt28863512
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/epvUyxGpiaacwojju2CMa0I3Y6T.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Boss Baby: Get That Baby!
+https://vidmody.com/vs/tt12917148
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Boxtrolls
+https://vidmody.com/vs/tt0787474
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Casagrandes Movie
+https://vidmody.com/vs/tt31123288
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Croods
+https://vidmody.com/vs/tt0481499
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/vEv1FpWQntCYeLW8QUwnE0uFQXa.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Flight Before Christmas
+https://vidmody.com/vs/tt0885415
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/uTrVvEtN4Gq7l0Zxd8KRYyiTvm3.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Fox and the Hound 2
+https://vidmody.com/vs/tt0082406
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/xYduFGuch9OwbCOEUiamml18ZoB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Garfield Movie
+https://vidmody.com/vs/tt5779228
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Great Mouse Detective
+https://vidmody.com/vs/tt0091149
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/7k0fr2xLCTChjN8MnGNThTP9uEB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Hunchback of Notre Dame
+https://vidmody.com/vs/tt0116583
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Incredibles
+https://vidmody.com/vs/tt0317705
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/489kEvaylSuutUJ0GVVs6gUmirB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Inventor
+https://vidmody.com/vs/tt5822848
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/rZ0T0yRe8iDqAgeZXRNvpAJh5z1.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Jungle Bunch
+https://vidmody.com/vs/tt6314690
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Larva Island Movie
+https://vidmody.com/vs/tt12588448
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Lego Movie
+https://vidmody.com/vs/tt1490017
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Magician's Elephant
+https://vidmody.com/vs/tt2560092
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Movie
+https://vidmody.com/vs/tt10364034
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Nightmare Before Christmas
+https://vidmody.com/vs/tt0107688
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Nut Job
+https://vidmody.com/vs/tt1821658
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Pirates! In an Adventure with Scientists!
+https://vidmody.com/vs/tt1430626
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Princess and the Frog
+https://vidmody.com/vs/tt0780521
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/BwLtoQDMTgBWEeUJgYb4z2C7pw.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Princess and the Magic Mirror
+https://vidmody.com/vs/tt3644570
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/s9xg4V5EDKiphgIksVJ9gewBM11.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Secret Life of Pets 2
+https://vidmody.com/vs/tt2709768
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Secret World of Arrietty
+https://vidmody.com/vs/tt1568921
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Simpsons Movie
+https://vidmody.com/vs/tt0462538
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Smurfs 2
+https://vidmody.com/vs/tt2017020
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1gjT65lS29BbclJlmGvtwnT7hya.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Smurfs: A Christmas Carol
+https://vidmody.com/vs/tt0472181
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Son of Bigfoot
+https://vidmody.com/vs/tt5715410
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The SpongeBob SquarePants Movie
+https://vidmody.com/vs/tt0345950
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/tEbDvivUfsCupngKIfMJJ725eAD.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",The Star
+https://vidmody.com/vs/tt4587656
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
@@ -1640,13 +2088,13 @@ https://vidmody.com/vs/tt11681250
 https://vidmody.com/vs/tt15257160
 #EXTINF:-1 tvg-name="Açlık 2008"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/195/564/19556434_20130903155512219.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Açlık 2008
 https://vidmody.com/vs/tt0986233
-#EXTINF:-1 tvg-name="Açlık Oyunları - The Hunger Games 2012"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/92/87/20059905.jpg"group-title="Açlık Oyunları":http-referrer="":http-user-agent="",Açlık Oyunları - The Hunger Games 2012
+#EXTINF:-1 tvg-name="Açlık Oyunları - The Hunger Games 2012"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/92/87/20059905.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Açlık Oyunları - The Hunger Games 2012
 https://vidmody.com/vs/tt1392170
-#EXTINF:-1 tvg-name="Açlık Oyunları 2 Ateşi Yakalamak 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/210/512/21051270_20131021162051824.jpg"group-title="Açlık Oyunları":http-referrer="":http-user-agent="",Açlık Oyunları 2 Ateşi Yakalamak 2013
+#EXTINF:-1 tvg-name="Açlık Oyunları 2 Ateşi Yakalamak 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/210/512/21051270_20131021162051824.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Açlık Oyunları 2 Ateşi Yakalamak 2013
 https://vidmody.com/vs/tt1951264
-#EXTINF:-1 tvg-name="Açlık Oyunları 3 Alaycı Kuş Bölüm 1 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/11/03/15/22/530993.jpg"group-title="Açlık Oyunları":http-referrer="":http-user-agent="",Açlık Oyunları 3 Alaycı Kuş Bölüm 1 2014
+#EXTINF:-1 tvg-name="Açlık Oyunları 3 Alaycı Kuş Bölüm 1 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/11/03/15/22/530993.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Açlık Oyunları 3 Alaycı Kuş Bölüm 1 2014
 https://vidmody.com/vs/tt1951265
-#EXTINF:-1 tvg-name="Açlık Oyunları Alaycı Kuş Bölüm 2 2015"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/15/10/23/15/48/155491.jpg"group-title="Açlık Oyunları":http-referrer="":http-user-agent="",Açlık Oyunları Alaycı Kuş Bölüm 2 2015
+#EXTINF:-1 tvg-name="Açlık Oyunları Alaycı Kuş Bölüm 2 2015"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/15/10/23/15/48/155491.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Açlık Oyunları Alaycı Kuş Bölüm 2 2015
 https://vidmody.com/vs/tt1951266
 #EXTINF:-1 tvg-name="Ad Vitam 2025"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/img/4a/11/4a117a4622e98ed7cd3f3e3d76b9c1c1.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Ad Vitam 2025
 https://vidmody.com/vs/tt32138452
@@ -1726,15 +2174,15 @@ https://vidmody.com/vs/tt2226597
 https://vidmody.com/vs/tt0493464
 #EXTINF:-1 tvg-name="Arınma 2024"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/68/2017268-66306861.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma 2024
 https://vidmody.com/vs/tt23137390
-#EXTINF:-1 tvg-name="Arınma Gecesi 1 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/210/324/21032481_20130827213759056.jpg"group-title="Arınma Gecesi":http-referrer="":http-user-agent="",Arınma Gecesi 1 2013
+#EXTINF:-1 tvg-name="Arınma Gecesi 1 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/210/324/21032481_20130827213759056.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma Gecesi 1 2013
 https://vidmody.com/vs/tt2184339
-#EXTINF:-1 tvg-name="Arınma Gecesi 2 Anarşi 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/06/24/14/27/443708.jpg"group-title="Arınma Gecesi":http-referrer="":http-user-agent="",Arınma Gecesi 2 Anarşi 2014
+#EXTINF:-1 tvg-name="Arınma Gecesi 2 Anarşi 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/06/24/14/27/443708.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma Gecesi 2 Anarşi 2014
 https://vidmody.com/vs/tt2975578
-#EXTINF:-1 tvg-name="Arınma Gecesi 3 Seçim Yılı 2016"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/16/06/23/13/59/225008.jpg"group-title="Arınma Gecesi":http-referrer="":http-user-agent="",Arınma Gecesi 3 Seçim Yılı 2016
+#EXTINF:-1 tvg-name="Arınma Gecesi 3 Seçim Yılı 2016"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/16/06/23/13/59/225008.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma Gecesi 3 Seçim Yılı 2016
 https://vidmody.com/vs/tt4094724
-#EXTINF:-1 tvg-name="Arınma Gecesi 4 İlk Arınma Gecesi 2018"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/18/07/13/13/15/0080542.jpg"group-title="Arınma Gecesi":http-referrer="":http-user-agent="",Arınma Gecesi 4 İlk Arınma Gecesi 2018
+#EXTINF:-1 tvg-name="Arınma Gecesi 4 İlk Arınma Gecesi 2018"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/18/07/13/13/15/0080542.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma Gecesi 4 İlk Arınma Gecesi 2018
 https://vidmody.com/vs/tt6133466
-#EXTINF:-1 tvg-name="Arınma Gecesi: Sonsuza Dek 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/07/16/14/25/4014065.jpg"group-title="Arınma Gecesi":http-referrer="":http-user-agent="",Arınma Gecesi: Sonsuza Dek 2021
+#EXTINF:-1 tvg-name="Arınma Gecesi: Sonsuza Dek 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/07/16/14/25/4014065.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arınma Gecesi: Sonsuza Dek 2021
 https://vidmody.com/vs/tt10327252
 #EXTINF:-1 tvg-name="Arka Bahçe 2005"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/56739.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arka Bahçe 2005
 https://vidmody.com/vs/tt0387131
@@ -1742,11 +2190,11 @@ https://vidmody.com/vs/tt0387131
 https://vidmody.com/vs/tt0047396
 #EXTINF:-1 tvg-name="Arsene Lupin 2004"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkYTEwMDUtYmM5My00Yzk0LTkwY2UtZjExZDFhMDhjZGUyXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arsene Lupin 2004
 https://vidmody.com/vs/tt0373690
-#EXTINF:-1 tvg-name="Arthur 1 : Minimoylar 2006"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EyNDNjNjAtMjBmYi00OGQxLTg1NzMtOTIyZWI0MTFlZGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Arthur":http-referrer="":http-user-agent="",Arthur 1 : Minimoylar 2006
+#EXTINF:-1 tvg-name="Arthur 1 : Minimoylar 2006"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EyNDNjNjAtMjBmYi00OGQxLTg1NzMtOTIyZWI0MTFlZGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arthur 1 : Minimoylar 2006
 https://vidmody.com/vs/tt0344854
-#EXTINF:-1 tvg-name="Arthur 2: Maltazar'ın İntikamı 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NmU4MzQtZmI2MC00NGQ3LWI4MTYtNDkzMmI2ZTY3NzM0XkEyXkFqcGc@._V1_.jpg"group-title="Arthur":http-referrer="":http-user-agent="",Arthur 2: Maltazar'ın İntikamı 2010
+#EXTINF:-1 tvg-name="Arthur 2: Maltazar'ın İntikamı 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NmU4MzQtZmI2MC00NGQ3LWI4MTYtNDkzMmI2ZTY3NzM0XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arthur 2: Maltazar'ın İntikamı 2010
 https://vidmody.com/vs/tt0940657
-#EXTINF:-1 tvg-name="Arthur 3: İki Dünyanın Savaşı 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVmNWVmMDctYTYwYi00Y2FiLTk0MjYtM2JmZjZmY2JjZjJmXkEyXkFqcGc@._V1_.jpg"group-title="Arthur":http-referrer="":http-user-agent="",Arthur 3: İki Dünyanın Savaşı 2010
+#EXTINF:-1 tvg-name="Arthur 3: İki Dünyanın Savaşı 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVmNWVmMDctYTYwYi00Y2FiLTk0MjYtM2JmZjZmY2JjZjJmXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Arthur 3: İki Dünyanın Savaşı 2010
 https://vidmody.com/vs/tt0940656
 #EXTINF:-1 tvg-name="Astro Boy (2009)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Astro Boy (2009)
 https://vidmody.com/vs/tt0375568
@@ -1786,9 +2234,9 @@ https://vidmody.com/vs/tt0086510
 https://vidmody.com/vs/tt0253556
 #EXTINF:-1 tvg-name="Ateşli Oda 2010"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/65/2010865-430731629.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Ateşli Oda 2010
 https://vidmody.com/vs/tt1263750
-#EXTINF:-1 tvg-name="Avatar 2 Suyun Yolu 2022"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg"group-title="Avatar":http-referrer="":http-user-agent="",Avatar 2 Suyun Yolu 2022
+#EXTINF:-1 tvg-name="Avatar 2 Suyun Yolu 2022"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Avatar 2 Suyun Yolu 2022
 https://vidmody.com/vs/tt1630029
-#EXTINF:-1 tvg-name="Avatar 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Avatar":http-referrer="":http-user-agent="",Avatar 2009
+#EXTINF:-1 tvg-name="Avatar 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Avatar 2009
 https://vidmody.com/vs/tt0499549
 #EXTINF:-1 tvg-name="Avcı Kraven 2024"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/60/2015460-61469627.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Avcı Kraven 2024
 https://vidmody.com/vs/tt8790086
@@ -1802,11 +2250,11 @@ https://vidmody.com/vs/tt30253036
 https://vidmody.com/vs/tt0181689
 #EXTINF:-1 tvg-name="Azizler ve Askerler (2003)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDEyNjg3NV5BMl5BanBnXkFtZTYwNDMyMjk2._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Azizler ve Askerler (2003)
 https://vidmody.com/vs/tt0373283
-#EXTINF:-1 tvg-name="Baba 1 (1972)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Baba":http-referrer="":http-user-agent="",Baba 1 (1972)
+#EXTINF:-1 tvg-name="Baba 1 (1972)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Baba 1 (1972)
 https://vidmody.com/vs/tt0068646
-#EXTINF:-1 tvg-name="Baba 2 (1974)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/28201.jpg"group-title="Baba":http-referrer="":http-user-agent="",Baba 2 (1974)
+#EXTINF:-1 tvg-name="Baba 2 (1974)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/28201.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Baba 2 (1974)
 https://vidmody.com/vs/tt0071562
-#EXTINF:-1 tvg-name="Baba 3 (1990)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/6608.jpg"group-title="Baba":http-referrer="":http-user-agent="",Baba 3 (1990)
+#EXTINF:-1 tvg-name="Baba 3 (1990)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/6608.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Baba 3 (1990)
 https://vidmody.com/vs/tt0099674
 #EXTINF:-1 tvg-name="Babam İçin (1993)"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/9430.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Babam İçin (1993)
 https://vidmody.com/vs/tt0107207
@@ -1840,11 +2288,11 @@ https://vidmody.com/vs/tt15403712
 https://vidmody.com/vs/tt1375666
 #EXTINF:-1 tvg-name="Batıda Kan Var (1968)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Batıda Kan Var (1968)
 https://vidmody.com/vs/tt0064116
-#EXTINF:-1 tvg-name="Batman 2 Kara Şövalye 2008"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/69/2008169-88561463.jpg"group-title="Batman":http-referrer="":http-user-agent="",Batman 2 Kara Şövalye 2008
+#EXTINF:-1 tvg-name="Batman 2 Kara Şövalye 2008"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/69/2008169-88561463.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Batman 2 Kara Şövalye 2008
 https://vidmody.com/vs/tt0468569
-#EXTINF:-1 tvg-name="Batman 3 Kara Şövalye Yükseliyor 2012"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/85/20/56/20129570.jpg"group-title="Batman":http-referrer="":http-user-agent="",Batman 3 Kara Şövalye Yükseliyor 2012
+#EXTINF:-1 tvg-name="Batman 3 Kara Şövalye Yükseliyor 2012"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/85/20/56/20129570.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Batman 3 Kara Şövalye Yükseliyor 2012
 https://vidmody.com/vs/tt1345836
-#EXTINF:-1 tvg-name="Batman İki Yüze Karşı 2017"tvg-id=""tvg-logo="https://www.filmizlesene.pro/wp-content/uploads/2018/12/tt6142314.jpg"group-title="Batman":http-referrer="":http-user-agent="",Batman İki Yüze Karşı 2017
+#EXTINF:-1 tvg-name="Batman İki Yüze Karşı 2017"tvg-id=""tvg-logo="https://www.filmizlesene.pro/wp-content/uploads/2018/12/tt6142314.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Batman İki Yüze Karşı 2017
 https://vidmody.com/vs/tt6142314
 #EXTINF:-1 tvg-name="Batman: Pelerinli Süvarilerin Dönüşü 2016"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-batman-pelerinli-suvarilerin-donusu.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Batman: Pelerinli Süvarilerin Dönüşü 2016
 https://vidmody.com/vs/tt5973626
@@ -1892,9 +2340,9 @@ https://vidmody.com/vs/tt1517451
 https://vidmody.com/vs/tt7131622
 #EXTINF:-1 tvg-name="Bir Zamanlar Londra'da 2019"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhkYzU4N2YtZmI1My00OWZjLTlmNTQtM2RkMjRmMjhmNDU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Bir Zamanlar Londra'da 2019
 https://vidmody.com/vs/tt4444956
-#EXTINF:-1 tvg-name="Bird Box (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_.jpg"group-title="Bird Box":http-referrer="":http-user-agent="",Bird Box (2018)
+#EXTINF:-1 tvg-name="Bird Box (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Bird Box (2018)
 https://vidmody.com/vs/tt2737304
-#EXTINF:-1 tvg-name="Bird Box: Barcelona 2023"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkzZWQ1YjctNTUyZi00NmM4LTljNTEtNWFiMzQwM2YzNGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Bird Box":http-referrer="":http-user-agent="",Bird Box: Barcelona 2023
+#EXTINF:-1 tvg-name="Bird Box: Barcelona 2023"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkzZWQ1YjctNTUyZi00NmM4LTljNTEtNWFiMzQwM2YzNGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Bird Box: Barcelona 2023
 https://vidmody.com/vs/tt14400246
 #EXTINF:-1 tvg-name="Bitmeyen Kavga (2016)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwYmJkMmYtMjU2My00MTQzLWFlODQtMjIyMDQyMGQwMjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Bitmeyen Kavga (2016)
 https://vidmody.com/vs/tt4411618
@@ -2024,15 +2472,15 @@ https://vidmody.com/vs/tt21200850
 https://vidmody.com/vs/tt0098384
 #EXTINF:-1 tvg-name="Çeteler Savaşı (2000)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4OTZlOGQtMWQ4ZS00ZWViLWJhY2QtMjkxZjUyMGEwNWE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çeteler Savaşı (2000)
 https://vidmody.com/vs/tt0138946
-#EXTINF:-1 tvg-name="Çığlık 1996"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg"group-title="Çığlık":http-referrer="":http-user-agent="",Çığlık 1996
+#EXTINF:-1 tvg-name="Çığlık 1996"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlık 1996
 https://vidmody.com/vs/tt0117571
-#EXTINF:-1 tvg-name="Çığlık 2 1997"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/18102.jpg"group-title="Çığlık":http-referrer="":http-user-agent="",Çığlık 2 1997
+#EXTINF:-1 tvg-name="Çığlık 2 1997"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/18102.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlık 2 1997
 https://vidmody.com/vs/tt0120082
-#EXTINF:-1 tvg-name="Çığlık 3 2000"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/r_1280_720/medias/nmedia/18/36/12/90/18454868.jpg"group-title="Çığlık":http-referrer="":http-user-agent="",Çığlık 3 2000
+#EXTINF:-1 tvg-name="Çığlık 3 2000"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/r_1280_720/medias/nmedia/18/36/12/90/18454868.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlık 3 2000
 https://vidmody.com/vs/tt0134084
-#EXTINF:-1 tvg-name="Çığlık 4 2011"tvg-id=""tvg-logo="https://farm6.static.flickr.com/5172/5409839626_5e3649bdfc_z.jpg"group-title="Çığlık":http-referrer="":http-user-agent="",Çığlık 4 2011
+#EXTINF:-1 tvg-name="Çığlık 4 2011"tvg-id=""tvg-logo="https://farm6.static.flickr.com/5172/5409839626_5e3649bdfc_z.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlık 4 2011
 https://vidmody.com/vs/tt1262416
-#EXTINF:-1 tvg-name="Çığlık 5 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/12/24/08/10/4146367.jpg"group-title="Çığlık":http-referrer="":http-user-agent="",Çığlık 5 2021
+#EXTINF:-1 tvg-name="Çığlık 5 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/12/24/08/10/4146367.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlık 5 2021
 https://vidmody.com/vs/tt11245972
 #EXTINF:-1 tvg-name="Çığlıklar ve Fısıltılar (1972)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRjMzI3NzYtY2ZiNC00ZGMwLWI2YmUtMzZkNTI5OThkMmY1XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çığlıklar ve Fısıltılar (1972)
 https://vidmody.com/vs/tt0069467
@@ -2042,9 +2490,9 @@ https://vidmody.com/vs/tt0366627
 https://vidmody.com/vs/tt1279935
 #EXTINF:-1 tvg-name="Çılgın Bir Gece 2015"tvg-id=""tvg-logo="https://images.justwatch.com/poster/321351240/s332/onceki-gece"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çılgın Bir Gece 2015
 https://vidmody.com/vs/tt3530002
-#EXTINF:-1 tvg-name="Çılgın Max 2 (1981)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZhZWZkMTQtZGY5Mi00MmVhLTk3YzUtOTllYWY5ZjQyNTkxXkEyXkFqcGc@._V1_.jpg"group-title="Mad Max":http-referrer="":http-user-agent="",Çılgın Max 2 (1981)
+#EXTINF:-1 tvg-name="Çılgın Max 2 (1981)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZhZWZkMTQtZGY5Mi00MmVhLTk3YzUtOTllYWY5ZjQyNTkxXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çılgın Max 2 (1981)
 https://vidmody.com/vs/tt0082694
-#EXTINF:-1 tvg-name="Çılgın Max Öfkeli Yollar 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/04/27/14/48/596979.jpg"group-title="Mad Max":http-referrer="":http-user-agent="",Çılgın Max Öfkeli Yollar 2015
+#EXTINF:-1 tvg-name="Çılgın Max Öfkeli Yollar 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/04/27/14/48/596979.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çılgın Max Öfkeli Yollar 2015
 https://vidmody.com/vs/tt1392190
 #EXTINF:-1 tvg-name="Çılgın Ofis Partisi (2016)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhiMjg4ODMtYjgyNi00YjZkLWE0ZGItNjU0NGVlMzViZjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çılgın Ofis Partisi (2016)
 https://vidmody.com/vs/tt1711525
@@ -2056,7 +2504,7 @@ https://vidmody.com/vs/tt0057163
 https://vidmody.com/vs/tt2034800
 #EXTINF:-1 tvg-name="Çizgi Ötesi 1990)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2YWM2MDctNWU5My00ZDIxLWFkM2YtNzQwNTQ4OWUxYmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çizgi Ötesi 1990)
 https://vidmody.com/vs/tt0099582
-#EXTINF:-1 tvg-name="Çocuk Oyunu 6: Chucky'nin Laneti"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlkNTIzZGMtYmNlMC00NzY4LWFmYzYtYmE1MzZmMWU4MzE1XkEyXkFqcGc@._V1_.jpg"group-title="Chucky":http-referrer="":http-user-agent="",Çocuk Oyunu 6: Chucky'nin Laneti
+#EXTINF:-1 tvg-name="Çocuk Oyunu 6: Chucky'nin Laneti"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlkNTIzZGMtYmNlMC00NzY4LWFmYzYtYmE1MzZmMWU4MzE1XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çocuk Oyunu 6: Chucky'nin Laneti
 https://vidmody.com/vs/tt2230358
 #EXTINF:-1 tvg-name="Çocukların Treni (2024)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ0MzI1MjUtOWQ5OS00NWIwLWE4MDktYzhhNDI0MzNkZDE3XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Çocukların Treni (2024)
 https://vidmody.com/vs/tt29242846
@@ -2080,11 +2528,11 @@ https://vidmody.com/vs/tt2193215
 https://vidmody.com/vs/tt2193215
 #EXTINF:-1 tvg-name="Danny Collins 2015"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDAxOGUyOWEtNzM3MC00MWJjLTk2NzUtNWM1MWY1MmNjNjYyXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Danny Collins 2015
 https://vidmody.com/vs/tt1772288
-#EXTINF:-1 tvg-name="Deadpool & Wolverine 2024"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/img/c7/5b/c75ba3cfbcbe66a007debc2a6c3662b0.jpg"group-title="Deadpool":http-referrer="":http-user-agent="",Deadpool & Wolverine 2024
+#EXTINF:-1 tvg-name="Deadpool & Wolverine 2024"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/img/c7/5b/c75ba3cfbcbe66a007debc2a6c3662b0.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Deadpool & Wolverine 2024
 https://vidmody.com/vs/tt6263850
-#EXTINF:-1 tvg-name="Deadpool 1 (2016)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/16/02/10/16/04/143599.jpg"group-title="Deadpool":http-referrer="":http-user-agent="",Deadpool 1 (2016)
+#EXTINF:-1 tvg-name="Deadpool 1 (2016)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/16/02/10/16/04/143599.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Deadpool 1 (2016)
 https://vidmody.com/vs/tt1431045
-#EXTINF:-1 tvg-name="Deadpool 2 (2018)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/18/04/16/09/03/0903140.jpg"group-title="Deadpool":http-referrer="":http-user-agent="",Deadpool 2 (2018)
+#EXTINF:-1 tvg-name="Deadpool 2 (2018)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/18/04/16/09/03/0903140.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Deadpool 2 (2018)
 https://vidmody.com/vs/tt5463162
 #EXTINF:-1 tvg-name="Define Adası (1990)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA5Njk2NDk3NF5BMl5BanBnXkFtZTgwMjQzNTkwMzE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Define Adası (1990)
 https://vidmody.com/vs/tt0100813
@@ -2104,7 +2552,7 @@ https://vidmody.com/vs/tt0046816
 https://vidmody.com/vs/tt0112740
 #EXTINF:-1 tvg-name="Derin Darbe 1998"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/17617.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Derin Darbe 1998
 https://vidmody.com/vs/tt0120647
-#EXTINF:-1 tvg-name="Derin karanlık 2000"tvg-id=""tvg-logo="https://turkcealtyazi.org/images/poster/0134847.jpg"group-title="Riddick":http-referrer="":http-user-agent="",Derin karanlık 2000
+#EXTINF:-1 tvg-name="Derin karanlık 2000"tvg-id=""tvg-logo="https://turkcealtyazi.org/images/poster/0134847.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Derin karanlık 2000
 https://vidmody.com/vs/tt0134847
 #EXTINF:-1 tvg-name="Derinin Altında (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Derinin Altında (2013)
 https://vidmody.com/vs/tt1441395
@@ -2268,7 +2716,7 @@ https://vidmody.com/vs/tt1418377
 https://vidmody.com/vs/tt8847712
 #EXTINF:-1 tvg-name="Frekans 2000"tvg-id=""tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/09/51/098479.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Frekans 2000
 https://vidmody.com/vs/tt0186151
-#EXTINF:-1 tvg-name="Furiosa: Bir Mad Max Destanı 2024"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/img/f9/39/f9393cc8c94087495fc45247cdd3516d.jpg"group-title="Mad Max":http-referrer="":http-user-agent="",Furiosa: Bir Mad Max Destanı 2024
+#EXTINF:-1 tvg-name="Furiosa: Bir Mad Max Destanı 2024"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/img/f9/39/f9393cc8c94087495fc45247cdd3516d.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Furiosa: Bir Mad Max Destanı 2024
 https://vidmody.com/vs/tt12037194
 #EXTINF:-1 tvg-name="Gangsterlerin Arasında (1990)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY3ODE5ZjgtNzNhOC00ZmFkLWJiMTMtMjI1MTJiY2JmOTg5XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Gangsterlerin Arasında (1990)
 https://vidmody.com/vs/tt0100685
@@ -2280,11 +2728,11 @@ https://vidmody.com/vs/tt2199571
 https://vidmody.com/vs/tt1013743
 #EXTINF:-1 tvg-name="Gece ve Gündüz 2010"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/145368.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Gece ve Gündüz 2010
 https://vidmody.com/vs/tt1013743
-#EXTINF:-1 tvg-name="Geleceğe Dönüş 1 1985"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg"group-title="Geleceğe Dönüş ":http-referrer="":http-user-agent="",Geleceğe Dönüş 1 1985
+#EXTINF:-1 tvg-name="Geleceğe Dönüş 1 1985"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Geleceğe Dönüş 1 1985
 https://vidmody.com/vs/tt0088763
-#EXTINF:-1 tvg-name="Geleceğe Dönüş 2 1989"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/5247.jpg"group-title="Geleceğe Dönüş ":http-referrer="":http-user-agent="",Geleceğe Dönüş 2 1989
+#EXTINF:-1 tvg-name="Geleceğe Dönüş 2 1989"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/5247.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Geleceğe Dönüş 2 1989
 https://vidmody.com/vs/tt0096874
-#EXTINF:-1 tvg-name="Geleceğe Dönüş 3 1990"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/r_1280_720/pictures/14/07/09/11/59/106906.jpg"group-title="Geleceğe Dönüş ":http-referrer="":http-user-agent="",Geleceğe Dönüş 3 1990
+#EXTINF:-1 tvg-name="Geleceğe Dönüş 3 1990"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/r_1280_720/pictures/14/07/09/11/59/106906.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Geleceğe Dönüş 3 1990
 https://vidmody.com/vs/tt0099088
 #EXTINF:-1 tvg-name="Geliş 2016"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/16/10/20/14/57/553608.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Geliş 2016
 https://vidmody.com/vs/tt2543164
@@ -2318,17 +2766,17 @@ https://vidmody.com/vs/tt0280486
 https://vidmody.com/vs/tt0172495
 #EXTINF:-1 tvg-name="Gökdelen 2018"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/18/06/08/11/04/4124970.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Gökdelen 2018
 https://vidmody.com/vs/tt5758778
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 1 1996"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/15308.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 1 1996
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 1 1996"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/15308.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 1 1996
 https://vidmody.com/vs/tt0117060
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 2 2000"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 2 2000
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 2 2000"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 2 2000
 https://vidmody.com/vs/tt0120755
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 3 2006"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/28602.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 3 2006
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 3 2006"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/28602.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 3 2006
 https://vidmody.com/vs/tt0317919
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 4 Hayalet Protokol 2011"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/02/83/19862625.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 4 Hayalet Protokol 2011
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 4 Hayalet Protokol 2011"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/02/83/19862625.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 4 Hayalet Protokol 2011
 https://vidmody.com/vs/tt1229238
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 5 2015"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/15/07/05/09/59/370461.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 5 2015
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 5 2015"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/15/07/05/09/59/370461.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 5 2015
 https://vidmody.com/vs/tt2381249
-#EXTINF:-1 tvg-name="Görevimiz Tehlike 6 Yansımalar 2018"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/18/07/03/10/11/4072324.jpg"group-title="Görevimiz Tehlike ":http-referrer="":http-user-agent="",Görevimiz Tehlike 6 Yansımalar 2018
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 6 Yansımalar 2018"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/18/07/03/10/11/4072324.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görevimiz Tehlike 6 Yansımalar 2018
 https://vidmody.com/vs/tt4912910
 #EXTINF:-1 tvg-name="Görünmeyen Misafir (2016)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZmOTc5ZjctMzAyZC00YmM1LThmNWUtM2UxNzFjMDcyYjAzXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Görünmeyen Misafir (2016)
 https://vidmody.com/vs/tt4857264
@@ -2364,7 +2812,7 @@ https://vidmody.com/vs/tt0079261
 https://vidmody.com/vs/tt14961016
 #EXTINF:-1 tvg-name="Halk Düşmanları 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/11/03/09/37/088353.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Halk Düşmanları 2009
 https://vidmody.com/vs/tt1152836
-#EXTINF:-1 tvg-name="Han Solo: Bir Star Wars Hikayesi 2018"tvg-id=""tvg-logo="https://images.justwatch.com/poster/269397201/s718/han-solo-bir-star-wars-hikayesi.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Han Solo: Bir Star Wars Hikayesi 2018
+#EXTINF:-1 tvg-name="Han Solo: Bir Star Wars Hikayesi 2018"tvg-id=""tvg-logo="https://images.justwatch.com/poster/269397201/s718/han-solo-bir-star-wars-hikayesi.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Han Solo: Bir Star Wars Hikayesi 2018
 https://vidmody.com/vs/tt3778644
 #EXTINF:-1 tvg-name="Hancock (2008)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hancock (2008)
 https://vidmody.com/vs/tt0448157
@@ -2436,11 +2884,11 @@ https://vidmody.com/vs/tt0443456
 https://vidmody.com/vs/tt0840361
 #EXTINF:-1 tvg-name="Hiç Hesapta Yokken (1998)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ2YzU0ODItNGRiNC00MmVlLTg5MGMtMmNlNDgyY2M1NGVjXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hiç Hesapta Yokken (1998)
 https://vidmody.com/vs/tt0124198
-#EXTINF:-1 tvg-name="Hobbit 1 Beklenmedik Yolculuk 2012"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/85/16/28/20326471.jpg"group-title="Hobbit":http-referrer="":http-user-agent="",Hobbit 1 Beklenmedik Yolculuk 2012
+#EXTINF:-1 tvg-name="Hobbit 1 Beklenmedik Yolculuk 2012"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/85/16/28/20326471.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hobbit 1 Beklenmedik Yolculuk 2012
 https://vidmody.com/vs/tt0903624
-#EXTINF:-1 tvg-name="Hobbit 2 Smaug'un Çorak Toprakları 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/210/562/21056253_20131108151938568.jpg"group-title="Hobbit":http-referrer="":http-user-agent="",Hobbit 2 Smaug'un Çorak Toprakları 2013
+#EXTINF:-1 tvg-name="Hobbit 2 Smaug'un Çorak Toprakları 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/210/562/21056253_20131108151938568.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hobbit 2 Smaug'un Çorak Toprakları 2013
 https://vidmody.com/vs/tt1170358
-#EXTINF:-1 tvg-name="Hobbit 3 Beş Ordunun Savaşı 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/12/17/14/24/164627.jpg"group-title="Hobbit":http-referrer="":http-user-agent="",Hobbit 3 Beş Ordunun Savaşı 2014
+#EXTINF:-1 tvg-name="Hobbit 3 Beş Ordunun Savaşı 2014"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/12/17/14/24/164627.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hobbit 3 Beş Ordunun Savaşı 2014
 https://vidmody.com/vs/tt2310332
 #EXTINF:-1 tvg-name="Hook (1991)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU0ZTU3MGUtOTQwNi00N2QzLWFmMDUtZDgxMGJlNGI5NDllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Hook (1991)
 https://vidmody.com/vs/tt0102057
@@ -2518,9 +2966,9 @@ https://vidmody.com/vs/tt0120601
 https://vidmody.com/vs/tt0251160
 #EXTINF:-1 tvg-name="Joker 2019"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/19/09/11/16/43/1511539.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Joker 2019
 https://vidmody.com/vs/tt7286456
-#EXTINF:-1 tvg-name="Joker İkili Delilik 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_.jpg"group-title="Joker":http-referrer="":http-user-agent="",Joker İkili Delilik 2024
+#EXTINF:-1 tvg-name="Joker İkili Delilik 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Joker İkili Delilik 2024
 https://vidmody.com/vs/tt11315808
-#EXTINF:-1 tvg-name="Joker İkili Delilik 2024"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/img/39/58/39581e87cf32d0e405601bd68fc525d6.jpg"group-title="Joker":http-referrer="":http-user-agent="",Joker İkili Delilik 2024
+#EXTINF:-1 tvg-name="Joker İkili Delilik 2024"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/img/39/58/39581e87cf32d0e405601bd68fc525d6.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Joker İkili Delilik 2024
 https://vidmody.com/vs/tt11315808
 #EXTINF:-1 tvg-name="Joy 2015"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/15/12/15/14/46/085245.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Joy 2015
 https://vidmody.com/vs/tt2446980
@@ -2594,13 +3042,13 @@ https://vidmody.com/vs/tt0280380
 https://vidmody.com/vs/tt0215750
 #EXTINF:-1 tvg-name="Kapışma 2000"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26251.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kapışma 2000
 https://vidmody.com/vs/tt0208092
-#EXTINF:-1 tvg-name="Kaptan Amerika Cesur Yeni Dünya 2025"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Kaptan Amerika":http-referrer="":http-user-agent="",Kaptan Amerika Cesur Yeni Dünya 2025
+#EXTINF:-1 tvg-name="Kaptan Amerika Cesur Yeni Dünya 2025"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kaptan Amerika Cesur Yeni Dünya 2025
 https://vidmody.com/vs/tt14513804
-#EXTINF:-1 tvg-name="Kaptan Amerika İç Savaş 2016"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg"group-title="Kaptan Amerika":http-referrer="":http-user-agent="",Kaptan Amerika İç Savaş 2016
+#EXTINF:-1 tvg-name="Kaptan Amerika İç Savaş 2016"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kaptan Amerika İç Savaş 2016
 https://vidmody.com/vs/tt3498820
-#EXTINF:-1 tvg-name="Kaptan Amerika ilk Yenilmez 2011"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/46/2010346-366342124.jpg"group-title="Kaptan Amerika":http-referrer="":http-user-agent="",Kaptan Amerika ilk Yenilmez 2011
+#EXTINF:-1 tvg-name="Kaptan Amerika ilk Yenilmez 2011"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/46/2010346-366342124.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kaptan Amerika ilk Yenilmez 2011
 https://vidmody.com/vs/tt0458339
-#EXTINF:-1 tvg-name="Kaptan Amerika Kış Askeri 2014"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/14/02/12/09/16/252853.jpg"group-title="Kaptan Amerika":http-referrer="":http-user-agent="",Kaptan Amerika Kış Askeri 2014
+#EXTINF:-1 tvg-name="Kaptan Amerika Kış Askeri 2014"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/14/02/12/09/16/252853.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kaptan Amerika Kış Askeri 2014
 https://vidmody.com/vs/tt1843866
 #EXTINF:-1 tvg-name="Kaptan Benim! (2023)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI1OTg3MGMtZTFhMy00ZjFkLTk5YmEtY2MzMDIzNTA3MzdiXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kaptan Benim! (2023)
 https://vidmody.com/vs/tt14225838
@@ -2646,9 +3094,9 @@ https://vidmody.com/vs/tt1298650
 https://vidmody.com/vs/tt1790809
 #EXTINF:-1 tvg-name="Kardeş Gibiydiler 1996"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/15709.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kardeş Gibiydiler 1996
 https://vidmody.com/vs/tt0117665
-#EXTINF:-1 tvg-name="Karınca Adam (2015)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/07/01/11/06/239706.jpg"group-title="Karınca Adam":http-referrer="":http-user-agent="",Karınca Adam (2015)
+#EXTINF:-1 tvg-name="Karınca Adam (2015)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/07/01/11/06/239706.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Karınca Adam (2015)
 https://vidmody.com/vs/tt0478970
-#EXTINF:-1 tvg-name="Karınca Adam 2 Wasp (2018)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/18/06/08/14/41/3486597.jpg"group-title="Karınca Adam":http-referrer="":http-user-agent="",Karınca Adam 2 Wasp (2018)
+#EXTINF:-1 tvg-name="Karınca Adam 2 Wasp (2018)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/18/06/08/14/41/3486597.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Karınca Adam 2 Wasp (2018)
 https://vidmody.com/vs/tt5095030
 #EXTINF:-1 tvg-name="Karşı Atak 2025"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmExM2ZiOGItMDcxZi00NDc3LTk3MmItNGQyZWNlYzBiOTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Karşı Atak 2025
 https://vidmody.com/vs/tt23648788
@@ -2684,11 +3132,11 @@ https://vidmody.com/vs/tt1210166
 https://vidmody.com/vs/tt4072352
 #EXTINF:-1 tvg-name="Kelebek (1973)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/2613.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kelebek (1973)
 https://vidmody.com/vs/tt0070511
-#EXTINF:-1 tvg-name="Kelebek Etkisi 1 (2004)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/13/12/09/17/40/163759.jpg"group-title="Kelebek Etkisi":http-referrer="":http-user-agent="",Kelebek Etkisi 1 (2004)
+#EXTINF:-1 tvg-name="Kelebek Etkisi 1 (2004)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/13/12/09/17/40/163759.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kelebek Etkisi 1 (2004)
 https://vidmody.com/vs/tt0289879
-#EXTINF:-1 tvg-name="Kelebek Etkisi 2 2006"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/04/109693.jpg"group-title="Kelebek Etkisi":http-referrer="":http-user-agent="",Kelebek Etkisi 2 2006
+#EXTINF:-1 tvg-name="Kelebek Etkisi 2 2006"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/04/109693.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kelebek Etkisi 2 2006
 https://vidmody.com/vs/tt0457297
-#EXTINF:-1 tvg-name="Kelebek Etkisi 3: Sesler 2009"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/14/02/09/18/52/196020.jpg"group-title="Kelebek Etkisi":http-referrer="":http-user-agent="",Kelebek Etkisi 3: Sesler 2009
+#EXTINF:-1 tvg-name="Kelebek Etkisi 3: Sesler 2009"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/14/02/09/18/52/196020.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kelebek Etkisi 3: Sesler 2009
 https://vidmody.com/vs/tt1234541
 #EXTINF:-1 tvg-name="Kemik Koleksiyoncusu 1999"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/medias/04/60/91/046091_af.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Kemik Koleksiyoncusu 1999
 https://vidmody.com/vs/tt0145681
@@ -2828,15 +3276,15 @@ https://vidmody.com/vs/tt32047217
 https://vidmody.com/vs/tt3442990
 #EXTINF:-1 tvg-name="Locke 2013"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/14/06/02/09/48/576526.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Locke 2013
 https://vidmody.com/vs/tt2692904
-#EXTINF:-1 tvg-name="Logan (2017)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/17/01/31/09/54/531088.jpg"group-title="X-Men":http-referrer="":http-user-agent="",Logan (2017)
+#EXTINF:-1 tvg-name="Logan (2017)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/17/01/31/09/54/531088.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Logan (2017)
 https://vidmody.com/vs/tt3315342
 #EXTINF:-1 tvg-name="Los Angeles Sırları 1997"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/12032.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Los Angeles Sırları 1997
 https://vidmody.com/vs/tt0119488
 #EXTINF:-1 tvg-name="Lucy 2014"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/14/06/20/07/47/502900.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Lucy 2014
 https://vidmody.com/vs/tt2872732
-#EXTINF:-1 tvg-name="Mad Max 1 (1979)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_FMjpg_UX1000_.jpg"group-title="Mad Max":http-referrer="":http-user-agent="",Mad Max 1 (1979)
+#EXTINF:-1 tvg-name="Mad Max 1 (1979)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mad Max 1 (1979)
 https://vidmody.com/vs/tt0079501
-#EXTINF:-1 tvg-name="Mad Max 3 - Mad Max Beyond Thunderdome 1985"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Mad Max":http-referrer="":http-user-agent="",Mad Max 3 - Mad Max Beyond Thunderdome 1985
+#EXTINF:-1 tvg-name="Mad Max 3 - Mad Max Beyond Thunderdome 1985"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mad Max 3 - Mad Max Beyond Thunderdome 1985
 https://vidmody.com/vs/tt0089530
 #EXTINF:-1 tvg-name="Madame Web 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Madame Web 2024
 https://vidmody.com/vs/tt11057302
@@ -2928,11 +3376,11 @@ https://vidmody.com/vs/tt0327137
 https://vidmody.com/vs/tt2404435
 #EXTINF:-1 tvg-name="Mulholland Çıkmazı 2001"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1NDNkMDUtMzhlNS00NzVjLWI2N2EtMDIzYjc3N2NiZDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mulholland Çıkmazı 2001
 https://vidmody.com/vs/tt0166924
-#EXTINF:-1 tvg-name="Mumya 1 1999"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/20153.jpg"group-title="Mumya":http-referrer="":http-user-agent="",Mumya 1 1999
+#EXTINF:-1 tvg-name="Mumya 1 1999"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/20153.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mumya 1 1999
 https://vidmody.com/vs/tt0120616
-#EXTINF:-1 tvg-name="Mumya 2 Geri Dönüyor 2001"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/27430.jpg"group-title="Mumya":http-referrer="":http-user-agent="",Mumya 2 Geri Dönüyor 2001
+#EXTINF:-1 tvg-name="Mumya 2 Geri Dönüyor 2001"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/27430.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mumya 2 Geri Dönüyor 2001
 https://vidmody.com/vs/tt0209163
-#EXTINF:-1 tvg-name="Mumya 3 Ejder İmparatorunun Mezarı 2008"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/119031.jpg"group-title="Mumya":http-referrer="":http-user-agent="",Mumya 3 Ejder İmparatorunun Mezarı 2008
+#EXTINF:-1 tvg-name="Mumya 3 Ejder İmparatorunun Mezarı 2008"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/119031.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mumya 3 Ejder İmparatorunun Mezarı 2008
 https://vidmody.com/vs/tt0859163
 #EXTINF:-1 tvg-name="Mumyalar 2023"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/23/01/30/10/12/4194339.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Mumyalar 2023
 https://vidmody.com/vs/tt23177868
@@ -3132,17 +3580,17 @@ https://vidmody.com/vs/tt0253474
 https://vidmody.com/vs/tt32560777
 #EXTINF:-1 tvg-name="Poison (2023)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiMDRjZWYtNjA5NS00YjcwLTliMWQtMDVhNzQzZGNkYTczXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Poison (2023)
 https://vidmody.com/vs/tt28912885
-#EXTINF:-1 tvg-name="Polis Akademisi 1 (1984)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 1 (1984)
+#EXTINF:-1 tvg-name="Polis Akademisi 1 (1984)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 1 (1984)
 https://vidmody.com/vs/tt0087928
-#EXTINF:-1 tvg-name="Polis Akademisi 2: İlk Görev (1985)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc4Zjc4NzAtODA3My00ODQ4LWJiY2YtZDI4MjMwZmI3YzgwXkEyXkFqcGc@._V1_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 2: İlk Görev (1985)
+#EXTINF:-1 tvg-name="Polis Akademisi 2: İlk Görev (1985)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc4Zjc4NzAtODA3My00ODQ4LWJiY2YtZDI4MjMwZmI3YzgwXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 2: İlk Görev (1985)
 https://vidmody.com/vs/tt0089822
-#EXTINF:-1 tvg-name="Polis Akademisi 3: Eğitime Dönüş (1986)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyOTAwZDgtOTIwZC00NGVhLTg1ZGYtYmVhYTNjMjIyYmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 3: Eğitime Dönüş (1986)
+#EXTINF:-1 tvg-name="Polis Akademisi 3: Eğitime Dönüş (1986)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyOTAwZDgtOTIwZC00NGVhLTg1ZGYtYmVhYTNjMjIyYmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 3: Eğitime Dönüş (1986)
 https://vidmody.com/vs/tt0091777
-#EXTINF:-1 tvg-name="Polis Akademisi 4: Vatandaşlar Devriye'de (1987)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQzYTVkN2YtNzM5Yy00MDVhLWEwMTQtNzgwMWVlNDJlZmRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 4: Vatandaşlar Devriye'de (1987)
+#EXTINF:-1 tvg-name="Polis Akademisi 4: Vatandaşlar Devriye'de (1987)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQzYTVkN2YtNzM5Yy00MDVhLWEwMTQtNzgwMWVlNDJlZmRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 4: Vatandaşlar Devriye'de (1987)
 https://vidmody.com/vs/tt0093756
-#EXTINF:-1 tvg-name="Polis Akademisi 5: Miami Sahili Görevi (1988)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMzN2NhZjAtNDFlZC00MDc5LWJlMzctNzFjMTgyNjFhYTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 5: Miami Sahili Görevi (1988)
+#EXTINF:-1 tvg-name="Polis Akademisi 5: Miami Sahili Görevi (1988)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMzN2NhZjAtNDFlZC00MDc5LWJlMzctNzFjMTgyNjFhYTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 5: Miami Sahili Görevi (1988)
 https://vidmody.com/vs/tt0095882
-#EXTINF:-1 tvg-name="Polis Akademisi 6: Şehir Kuşatma Altında (1989)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NjI3YjEtYTNlOS00NTYzLTkyMjUtZTgzNDBmODZhNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Polis Akademisi":http-referrer="":http-user-agent="",Polis Akademisi 6: Şehir Kuşatma Altında (1989)
+#EXTINF:-1 tvg-name="Polis Akademisi 6: Şehir Kuşatma Altında (1989)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NjI3YjEtYTNlOS00NTYzLTkyMjUtZTgzNDBmODZhNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Polis Akademisi 6: Şehir Kuşatma Altında (1989)
 https://vidmody.com/vs/tt0098105
 #EXTINF:-1 tvg-name="Politik Oyunlar (2012)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwNjkzNzg4NV5BMl5BanBnXkFtZTcwODIxMTM0Nw@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Politik Oyunlar (2012)
 https://vidmody.com/vs/tt1848902
@@ -3152,9 +3600,9 @@ https://vidmody.com/vs/tt1848902
 https://vidmody.com/vs/tt0343135
 #EXTINF:-1 tvg-name="Poseidondan Kaçış 2006"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/60016.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Poseidondan Kaçış 2006
 https://vidmody.com/vs/tt0409182
-#EXTINF:-1 tvg-name="Predator 1987"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_.jpg"group-title="Predator":http-referrer="":http-user-agent="",Predator 1987
+#EXTINF:-1 tvg-name="Predator 1987"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Predator 1987
 https://vidmody.com/vs/tt0093773
-#EXTINF:-1 tvg-name="Predator 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODNhMWY0MDQtNjgwZC00YjM3LWEwMDItMWM3MTg4ZjA5ODgwXkEyXkFqcGc@._V1_.jpg"group-title="Predator":http-referrer="":http-user-agent="",Predator 2010
+#EXTINF:-1 tvg-name="Predator 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODNhMWY0MDQtNjgwZC00YjM3LWEwMDItMWM3MTg4ZjA5ODgwXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Predator 2010
 https://vidmody.com/vs/tt1424381
 #EXTINF:-1 tvg-name="Prenses 2022"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/22/06/03/10/48/1202874.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Prenses 2022
 https://vidmody.com/vs/tt13406136
@@ -3162,7 +3610,7 @@ https://vidmody.com/vs/tt13406136
 https://vidmody.com/vs/tt0482571
 #EXTINF:-1 tvg-name="Pretoira’dan Kaçış 2020"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/20/08/27/10/36/0332225.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Pretoira’dan Kaçış 2020
 https://vidmody.com/vs/tt5797184
-#EXTINF:-1 tvg-name="Prey 2022"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/22/06/07/16/22/5278876.jpg"group-title="Predator":http-referrer="":http-user-agent="",Prey 2022
+#EXTINF:-1 tvg-name="Prey 2022"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/22/06/07/16/22/5278876.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Prey 2022
 https://vidmody.com/vs/tt11866324
 #EXTINF:-1 tvg-name="Profesyonel (1981)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRmZTk3MWEtMDNkNS00NjFmLTgxMGYtZGE1MjdlNTNiNjNmXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Profesyonel (1981)
 https://vidmody.com/vs/tt0082949
@@ -3172,23 +3620,23 @@ https://vidmody.com/vs/tt3181776
 https://vidmody.com/vs/tt1446714
 #EXTINF:-1 tvg-name="Protesto - Nefret (1995)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Protesto - Nefret (1995)
 https://vidmody.com/vs/tt0113247
-#EXTINF:-1 tvg-name="Q Departmanı: İntikamın Saflığı (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM3YTBkZmUtYjVjOC00MzkwLWE1OTEtNWMzOTQ0MGI1MmY2XkEyXkFqcGc@._V1_.jpg"group-title="Q Departmanı":http-referrer="":http-user-agent="",Q Departmanı: İntikamın Saflığı (2018)
+#EXTINF:-1 tvg-name="Q Departmanı: İntikamın Saflığı (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM3YTBkZmUtYjVjOC00MzkwLWE1OTEtNWMzOTQ0MGI1MmY2XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Q Departmanı: İntikamın Saflığı (2018)
 https://vidmody.com/vs/tt6916362
-#EXTINF:-1 tvg-name="Q Departmanı: Kafesteki Kadın (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQyNTE0MDQ1MF5BMl5BanBnXkFtZTgwOTYxMTkwMDE@._V1_FMjpg_UX1000_.jpg"group-title="Q Departmanı":http-referrer="":http-user-agent="",Q Departmanı: Kafesteki Kadın (2013)
+#EXTINF:-1 tvg-name="Q Departmanı: Kafesteki Kadın (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQyNTE0MDQ1MF5BMl5BanBnXkFtZTgwOTYxMTkwMDE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Q Departmanı: Kafesteki Kadın (2013)
 https://vidmody.com/vs/tt2438644
-#EXTINF:-1 tvg-name="Q Departmanı: Sülün Katilleri (2014)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg"group-title="Q Departmanı":http-referrer="":http-user-agent="",Q Departmanı: Sülün Katilleri (2014)
+#EXTINF:-1 tvg-name="Q Departmanı: Sülün Katilleri (2014)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Q Departmanı: Sülün Katilleri (2014)
 https://vidmody.com/vs/tt3140100
 #EXTINF:-1 tvg-name="Radyo (2003)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEyOTBiNWQtODQ0OS00MmZiLWJmNTEtMGIyMTNlZTcxOThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Radyo (2003)
 https://vidmody.com/vs/tt0316465
-#EXTINF:-1 tvg-name="Rambo 1 İlk kan 1982"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/14/07/09/09/52/507783.jpg"group-title="Rambo":http-referrer="":http-user-agent="",Rambo 1 İlk kan 1982
+#EXTINF:-1 tvg-name="Rambo 1 İlk kan 1982"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/14/07/09/09/52/507783.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rambo 1 İlk kan 1982
 https://vidmody.com/vs/tt0083944
-#EXTINF:-1 tvg-name="Rambo 2 İlk kan 2 1985"tvg-id=""tvg-logo="https://images.justwatch.com/poster/297563017/s718/rambo-ilk-kan-2.jpg"group-title="Rambo":http-referrer="":http-user-agent="",Rambo 2 İlk kan 2 1985
+#EXTINF:-1 tvg-name="Rambo 2 İlk kan 2 1985"tvg-id=""tvg-logo="https://images.justwatch.com/poster/297563017/s718/rambo-ilk-kan-2.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rambo 2 İlk kan 2 1985
 https://vidmody.com/vs/tt0089880
-#EXTINF:-1 tvg-name="Rambo 3 1988"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Rambo":http-referrer="":http-user-agent="",Rambo 3 1988
+#EXTINF:-1 tvg-name="Rambo 3 1988"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rambo 3 1988
 https://vidmody.com/vs/tt0095956
-#EXTINF:-1 tvg-name="Rambo 4 John Rambo 2008"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/61139.jpg"group-title="Rambo":http-referrer="":http-user-agent="",Rambo 4 John Rambo 2008
+#EXTINF:-1 tvg-name="Rambo 4 John Rambo 2008"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/61139.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rambo 4 John Rambo 2008
 https://vidmody.com/vs/tt0462499
-#EXTINF:-1 tvg-name="Rambo 5 Son Kan 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/08/29/10/04/2591841.jpg"group-title="Rambo":http-referrer="":http-user-agent="",Rambo 5 Son Kan 2019
+#EXTINF:-1 tvg-name="Rambo 5 Son Kan 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/08/29/10/04/2591841.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rambo 5 Son Kan 2019
 https://vidmody.com/vs/tt1206885
 #EXTINF:-1 tvg-name="Recep İvedik 1 (2008)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/134678.jpg"group-title="Recep İvedik":http-referrer="":http-user-agent="",Recep İvedik 1 (2008)
 https://vidmody.com/vs/tt1193516
@@ -3212,7 +3660,7 @@ https://vidmody.com/vs/tt0426883
 https://vidmody.com/vs/tt1053424
 #EXTINF:-1 tvg-name="Rezervuar Köpekleri (1992)"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/7524.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rezervuar Köpekleri (1992)
 https://vidmody.com/vs/tt0105236
-#EXTINF:-1 tvg-name="Riddick Günlükleri 2004"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/41134.jpg"group-title="Riddick":http-referrer="":http-user-agent="",Riddick Günlükleri 2004
+#EXTINF:-1 tvg-name="Riddick Günlükleri 2004"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/41134.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Riddick Günlükleri 2004
 https://vidmody.com/vs/tt0296572
 #EXTINF:-1 tvg-name="Rita Moreno: Kararlı Bir Kız 2021"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgwNDkyYzEtMWQ2Ni00OWNiLTk0ZGMtZmYyNTJlMWVjOTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rita Moreno: Kararlı Bir Kız 2021
 https://vidmody.com/vs/tt10741846
@@ -3228,7 +3676,7 @@ https://vidmody.com/vs/tt0343818
 https://vidmody.com/vs/tt13429870
 #EXTINF:-1 tvg-name="Rogue Agent (2022)"tvg-id=""tvg-logo="https://www.filmizlesene.plus/wp-content/uploads/2023/04/tt9731386.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rogue Agent (2022)
 https://vidmody.com/vs/tt9731386
-#EXTINF:-1 tvg-name="Rogue One Bir Star Wars Hikayesi 2016"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/16/11/09/15/01/505813.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Rogue One Bir Star Wars Hikayesi 2016
+#EXTINF:-1 tvg-name="Rogue One Bir Star Wars Hikayesi 2016"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/16/11/09/15/01/505813.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Rogue One Bir Star Wars Hikayesi 2016
 https://vidmody.com/vs/tt3748528
 #EXTINF:-1 tvg-name="Saatler (2002)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWVkZTktZDk3Ny00MTcwLWJhZTYtMTA3N2U2OTBiYzQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Saatler (2002)
 https://vidmody.com/vs/tt0274558
@@ -3274,11 +3722,11 @@ https://vidmody.com/vs/tt2674426
 https://vidmody.com/vs/tt1247690
 #EXTINF:-1 tvg-name="Serpiko - Serpico 1973"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2MDA1Nzg5N15BMl5BanBnXkFtZTYwNjE1Mzk4._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Serpiko - Serpico 1973
 https://vidmody.com/vs/tt0070666
-#EXTINF:-1 tvg-name="Sessiz Bir Yer 1 2018"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/18/03/21/15/11/4646862.jpg"group-title="Sessiz Bir Yer ":http-referrer="":http-user-agent="",Sessiz Bir Yer 1 2018
+#EXTINF:-1 tvg-name="Sessiz Bir Yer 1 2018"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/18/03/21/15/11/4646862.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Sessiz Bir Yer 1 2018
 https://vidmody.com/vs/tt6644200
-#EXTINF:-1 tvg-name="Sessiz Bir Yer 2 2020"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/21/07/12/09/32/4456360.jpg"group-title="Sessiz Bir Yer ":http-referrer="":http-user-agent="",Sessiz Bir Yer 2 2020
+#EXTINF:-1 tvg-name="Sessiz Bir Yer 2 2020"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/21/07/12/09/32/4456360.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Sessiz Bir Yer 2 2020
 https://vidmody.com/vs/tt8332922
-#EXTINF:-1 tvg-name="Sessiz Bir Yer 3 Birinci Gün 2024"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/img/02/05/0205d08522a543d058d577e829535d10.jpg"group-title="Sessiz Bir Yer ":http-referrer="":http-user-agent="",Sessiz Bir Yer 3 Birinci Gün 2024
+#EXTINF:-1 tvg-name="Sessiz Bir Yer 3 Birinci Gün 2024"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/img/02/05/0205d08522a543d058d577e829535d10.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Sessiz Bir Yer 3 Birinci Gün 2024
 https://vidmody.com/vs/tt13433802
 #EXTINF:-1 tvg-name="Sessiz Kahraman 2018"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/18/01/31/07/02/2251562.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Sessiz Kahraman 2018
 https://vidmody.com/vs/tt1464763
@@ -3372,29 +3820,29 @@ https://vidmody.com/vs/tt0184858
 https://vidmody.com/vs/tt0361748
 #EXTINF:-1 tvg-name="Soysuzlar Çetesi 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/60208.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Soysuzlar Çetesi 2009
 https://vidmody.com/vs/tt0361748
-#EXTINF:-1 tvg-name="Star Wars 1 (1977)"tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_33685209.jpeg?region=0,0,540,810"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars 1 (1977)
+#EXTINF:-1 tvg-name="Star Wars 1 (1977)"tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_33685209.jpeg?region=0,0,540,810"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars 1 (1977)
 https://vidmody.com/vs/tt0076759
-#EXTINF:-1 tvg-name="Star Wars 8 Son Jedi 2017"tvg-id=""tvg-logo="https://images.justwatch.com/poster/265130780/s718/yildiz-savaslari-bolum-viii-son-jedi.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars 8 Son Jedi 2017
+#EXTINF:-1 tvg-name="Star Wars 8 Son Jedi 2017"tvg-id=""tvg-logo="https://images.justwatch.com/poster/265130780/s718/yildiz-savaslari-bolum-viii-son-jedi.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars 8 Son Jedi 2017
 https://vidmody.com/vs/tt2527336
-#EXTINF:-1 tvg-name="Star Wars Bölüm 2 - Klonların Saldırısı"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/29014.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars Bölüm 2 - Klonların Saldırısı
+#EXTINF:-1 tvg-name="Star Wars Bölüm 2 - Klonların Saldırısı"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/29014.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars Bölüm 2 - Klonların Saldırısı
 https://vidmody.com/vs/tt0121765
-#EXTINF:-1 tvg-name="Star Wars Bölüm 6 – Jedi'ın Dönüşü"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/25803.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars Bölüm 6 – Jedi'ın Dönüşü
+#EXTINF:-1 tvg-name="Star Wars Bölüm 6 – Jedi'ın Dönüşü"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/25803.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars Bölüm 6 – Jedi'ın Dönüşü
 https://vidmody.com/vs/tt0086190
-#EXTINF:-1 tvg-name="Star Wars Bölüm 7 - Güc Uyanıyor 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/11/02/11/48/213313.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars Bölüm 7 - Güc Uyanıyor 2015
+#EXTINF:-1 tvg-name="Star Wars Bölüm 7 - Güc Uyanıyor 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/11/02/11/48/213313.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars Bölüm 7 - Güc Uyanıyor 2015
 https://vidmody.com/vs/tt2488496
-#EXTINF:-1 tvg-name="Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/30/13/52/0959246.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)
+#EXTINF:-1 tvg-name="Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/30/13/52/0959246.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)
 https://vidmody.com/vs/tt2527338
-#EXTINF:-1 tvg-name="Star Wars: Bölüm I - Gizli Tehlike (1999)"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/88/86/28/20012725.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Bölüm I - Gizli Tehlike (1999)
+#EXTINF:-1 tvg-name="Star Wars: Bölüm I - Gizli Tehlike (1999)"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/88/86/28/20012725.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Bölüm I - Gizli Tehlike (1999)
 https://vidmody.com/vs/tt0120915
-#EXTINF:-1 tvg-name="Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/265835220/s718/yildiz-savaslari-bolum-ii-klonlarin-saldirisi.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)
+#EXTINF:-1 tvg-name="Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/265835220/s718/yildiz-savaslari-bolum-ii-klonlarin-saldirisi.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)
 https://vidmody.com/vs/tt0121765
-#EXTINF:-1 tvg-name="Star Wars: Bölüm III - Sith'in İntikamı (2005)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_FMjpg_UX1000_.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Bölüm III - Sith'in İntikamı (2005)
+#EXTINF:-1 tvg-name="Star Wars: Bölüm III - Sith'in İntikamı (2005)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Bölüm III - Sith'in İntikamı (2005)
 https://vidmody.com/vs/tt0121766
-#EXTINF:-1 tvg-name="Star Wars: Güç Uyanıyor (2015)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_FMjpg_UX1000_.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Güç Uyanıyor (2015)
+#EXTINF:-1 tvg-name="Star Wars: Güç Uyanıyor (2015)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Güç Uyanıyor (2015)
 https://vidmody.com/vs/tt2488496
-#EXTINF:-1 tvg-name="Star Wars: Klon Savaşları 2008"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/Star_wars_the_clone_wars_film_posteri.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Klon Savaşları 2008
+#EXTINF:-1 tvg-name="Star Wars: Klon Savaşları 2008"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/Star_wars_the_clone_wars_film_posteri.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Klon Savaşları 2008
 https://vidmody.com/vs/tt1185834
-#EXTINF:-1 tvg-name="Star Wars: Son Jedi (2017)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX1000_.jpg"group-title="Star Wars":http-referrer="":http-user-agent="",Star Wars: Son Jedi (2017)
+#EXTINF:-1 tvg-name="Star Wars: Son Jedi (2017)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Star Wars: Son Jedi (2017)
 https://vidmody.com/vs/tt2527336
 #EXTINF:-1 tvg-name="Su Atı Derinlerin Efsanesi 2007"tvg-id=""tvg-logo="https://images.justwatch.com/poster/320474752/s718/su-ati.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Su Atı Derinlerin Efsanesi 2007
 https://vidmody.com/vs/tt0760329
@@ -3408,7 +3856,7 @@ https://vidmody.com/vs/tt20330434
 https://vidmody.com/vs/tt8008948
 #EXTINF:-1 tvg-name="Suçlu 2018"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyZDk3ODItNjU0ZC00NmM5LWE2MzMtNmYxYmNkZDkzNjczXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Suçlu 2018
 https://vidmody.com/vs/tt6742252
-#EXTINF:-1 tvg-name="Suicide Squad: Gerçek Kötüler (2016)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ac/Suicide_Squad_%28film%29_Poster.jpg"group-title="Harley Quinn":http-referrer="":http-user-agent="",Suicide Squad: Gerçek Kötüler (2016)
+#EXTINF:-1 tvg-name="Suicide Squad: Gerçek Kötüler (2016)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ac/Suicide_Squad_%28film%29_Poster.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Suicide Squad: Gerçek Kötüler (2016)
 https://vidmody.com/vs/tt1386697
 #EXTINF:-1 tvg-name="Suikast Çemberi (1995)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRmZDUzZTctMzkyMi00ZDY1LTk2MDgtMDI0MTM4ZTYzOWI4XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Suikast Çemberi (1995)
 https://vidmody.com/vs/tt0112401
@@ -3480,17 +3928,17 @@ https://vidmody.com/vs/tt3037164
 https://vidmody.com/vs/tt21482312
 #EXTINF:-1 tvg-name="Terminal 2018"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliYzYyYTAtNzBjMy00MGE2LThmOWMtZWM1ZmI0MDE1ZjM3XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminal 2018
 https://vidmody.com/vs/tt4463816
-#EXTINF:-1 tvg-name="Terminator 1 1984"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 1 1984
+#EXTINF:-1 tvg-name="Terminator 1 1984"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 1 1984
 https://vidmody.com/vs/tt0088247
-#EXTINF:-1 tvg-name="Terminator 2 Mahşer Günü 1991"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/17/05/17/16/37/083713.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 2 Mahşer Günü 1991
+#EXTINF:-1 tvg-name="Terminator 2 Mahşer Günü 1991"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/17/05/17/16/37/083713.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 2 Mahşer Günü 1991
 https://vidmody.com/vs/tt0103064
-#EXTINF:-1 tvg-name="Terminator 3 Makinelerin Yükselişi 2003"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26840.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 3 Makinelerin Yükselişi 2003
+#EXTINF:-1 tvg-name="Terminator 3 Makinelerin Yükselişi 2003"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26840.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 3 Makinelerin Yükselişi 2003
 https://vidmody.com/vs/tt0181852
-#EXTINF:-1 tvg-name="Terminator 4 Kurtuluş 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/57405.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 4 Kurtuluş 2009
+#EXTINF:-1 tvg-name="Terminator 4 Kurtuluş 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/57405.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 4 Kurtuluş 2009
 https://vidmody.com/vs/tt0438488
-#EXTINF:-1 tvg-name="Terminator 5 Genisys 2015"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/15/05/07/15/13/184021.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 5 Genisys 2015
+#EXTINF:-1 tvg-name="Terminator 5 Genisys 2015"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/15/05/07/15/13/184021.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 5 Genisys 2015
 https://vidmody.com/vs/tt1340138
-#EXTINF:-1 tvg-name="Terminator 6 Kara Kader 2019"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/19/10/14/12/50/4506295.jpg"group-title="Terminator ":http-referrer="":http-user-agent="",Terminator 6 Kara Kader 2019
+#EXTINF:-1 tvg-name="Terminator 6 Kara Kader 2019"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/19/10/14/12/50/4506295.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Terminator 6 Kara Kader 2019
 https://vidmody.com/vs/tt6450804
 #EXTINF:-1 tvg-name="Tetikçiler 2012"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/91/64/25/20258301.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tetikçiler 2012
 https://vidmody.com/vs/tt1276104
@@ -3514,9 +3962,9 @@ https://vidmody.com/vs/tt27714946
 https://vidmody.com/vs/tt14109724
 #EXTINF:-1 tvg-name="The Old Guard (2020)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMwNjVjNTEtZDVhOC00NzQzLTg0MGYtMGI1Yzc0Nzg2MjNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Old Guard (2020)
 https://vidmody.com/vs/tt7556122
-#EXTINF:-1 tvg-name="The Platform 1 2019"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ4MzVkZmMtMDIzNy00ZmVhLWIwNTQtMTBmY2ZlNmY1MjQxXkEyXkFqcGc@._V1_.jpg"group-title="Platform":http-referrer="":http-user-agent="",The Platform 1 2019
+#EXTINF:-1 tvg-name="The Platform 1 2019"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ4MzVkZmMtMDIzNy00ZmVhLWIwNTQtMTBmY2ZlNmY1MjQxXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Platform 1 2019
 https://vidmody.com/vs/tt8228288
-#EXTINF:-1 tvg-name="The Platform 2 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Platform":http-referrer="":http-user-agent="",The Platform 2 2024
+#EXTINF:-1 tvg-name="The Platform 2 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Platform 2 2024
 https://vidmody.com/vs/tt27729779
 #EXTINF:-1 tvg-name="The Post 2017"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY3N2I2MDAtZTc1Ni00YjMzLWEwNjctZjViZmE1OTg1N2U4XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Post 2017
 https://vidmody.com/vs/tt6294822
@@ -3532,17 +3980,17 @@ https://vidmody.com/vs/tt6334354
 https://vidmody.com/vs/tt2580382
 #EXTINF:-1 tvg-name="The Witcher Sirens of the Deep 2025"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODIxMWQ0MjctOGMzNi00OTFmLTk4ZjQtMjYzNTU1NDY3OGFhXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Witcher Sirens of the Deep 2025
 https://vidmody.com/vs/tt15495150
-#EXTINF:-1 tvg-name="The Wolverine 2013"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/210/057/21005789_20130514174658803.jpg"group-title="X-Men":http-referrer="":http-user-agent="",The Wolverine 2013
+#EXTINF:-1 tvg-name="The Wolverine 2013"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/210/057/21005789_20130514174658803.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",The Wolverine 2013
 https://vidmody.com/vs/tt1430132
 #EXTINF:-1 tvg-name="Tibette Yedi Yıl 1997"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/9104.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tibette Yedi Yıl 1997
 https://vidmody.com/vs/tt0120102
 #EXTINF:-1 tvg-name="Tilki ve Tavşan: Orman Macerası 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIyYWY4NmEtYzU0Ny00YTNkLWJiOWQtYWEzZjEyZmE2NWQwXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tilki ve Tavşan: Orman Macerası 2024
 https://vidmody.com/vs/tt23451240
-#EXTINF:-1 tvg-name="Tinker Bell Ve Kayıp Hazine 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZmM2Y3MWYtNjIwMi00NGVjLTliZjktMGQyMzAyNDJjOWVkXkEyXkFqcGc@._V1_.jpg"group-title="Tinker Bell":http-referrer="":http-user-agent="",Tinker Bell Ve Kayıp Hazine 2009
+#EXTINF:-1 tvg-name="Tinker Bell Ve Kayıp Hazine 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZmM2Y3MWYtNjIwMi00NGVjLTliZjktMGQyMzAyNDJjOWVkXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tinker Bell Ve Kayıp Hazine 2009
 https://vidmody.com/vs/tt1216516
-#EXTINF:-1 tvg-name="Tinker Bell ve Korsan Peri 2014"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NjUzMDg3OV5BMl5BanBnXkFtZTgwMDE1MzYwMTE@._V1_.jpg"group-title="Tinker Bell":http-referrer="":http-user-agent="",Tinker Bell ve Korsan Peri 2014
+#EXTINF:-1 tvg-name="Tinker Bell ve Korsan Peri 2014"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NjUzMDg3OV5BMl5BanBnXkFtZTgwMDE1MzYwMTE@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tinker Bell ve Korsan Peri 2014
 https://vidmody.com/vs/tt2483260
-#EXTINF:-1 tvg-name="Tinker Bell ve Peri Kurtaran 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3OWFhY2MtYTE5My00MjIzLWJlN2YtNjQ2ZDMxMzc5MjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Tinker Bell":http-referrer="":http-user-agent="",Tinker Bell ve Peri Kurtaran 2010
+#EXTINF:-1 tvg-name="Tinker Bell ve Peri Kurtaran 2010"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3OWFhY2MtYTE5My00MjIzLWJlN2YtNjQ2ZDMxMzc5MjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tinker Bell ve Peri Kurtaran 2010
 https://vidmody.com/vs/tt1216515
 #EXTINF:-1 tvg-name="Tinker Tailor Soldier Spy 2011"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/OISRAssROe5AORtaXkoNaf73TxZSvF-P9gfOZ66xiotdysFJSHX04afFn-AZQO6Gp7s"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Tinker Tailor Soldier Spy 2011
 https://vidmody.com/vs/tt1340800
@@ -3622,7 +4070,7 @@ https://vidmody.com/vs/tt5932368
 https://vidmody.com/vs/tt28249919
 #EXTINF:-1 tvg-name="Vegas'ta Korku ve Nefret (1998)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkNjdiZjUtNzUzNy00NWM5LWFlNDUtNTRiYmJiZWNiYjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Vegas'ta Korku ve Nefret (1998)
 https://vidmody.com/vs/tt0120669
-#EXTINF:-1 tvg-name="Venom 3 Son Dans 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg"group-title="Venom":http-referrer="":http-user-agent="",Venom 3 Son Dans 2024
+#EXTINF:-1 tvg-name="Venom 3 Son Dans 2024"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Venom 3 Son Dans 2024
 https://vidmody.com/vs/tt16366836
 #EXTINF:-1 tvg-name="Vice: Gölge Adam 2018"tvg-id=""tvg-logo="https://images.justwatch.com/poster/100612659/s718/vice-2018.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Vice: Gölge Adam 2018
 https://vidmody.com/vs/tt6266538
@@ -3648,13 +4096,13 @@ https://vidmody.com/vs/tt11433906
 https://vidmody.com/vs/tt11433906
 #EXTINF:-1 tvg-name="Wonderwell 2023"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/23/07/18/07/08/2885779.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Wonderwell 2023
 https://vidmody.com/vs/tt6195756
-#EXTINF:-1 tvg-name="X Men 4 Başlangıç Wolverine 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/111544.jpg"group-title="X-Men":http-referrer="":http-user-agent="",X Men 4 Başlangıç Wolverine 2009
+#EXTINF:-1 tvg-name="X Men 4 Başlangıç Wolverine 2009"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/111544.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",X Men 4 Başlangıç Wolverine 2009
 https://vidmody.com/vs/tt0458525
-#EXTINF:-1 tvg-name="X Men 5 Birinci Sınıf 2011"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/140894.jpg"group-title="X-Men":http-referrer="":http-user-agent="",X Men 5 Birinci Sınıf 2011
+#EXTINF:-1 tvg-name="X Men 5 Birinci Sınıf 2011"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/140894.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",X Men 5 Birinci Sınıf 2011
 https://vidmody.com/vs/tt1270798
-#EXTINF:-1 tvg-name="X Men Dark Phoenix 2019"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/19/03/14/12/41/3920043.jpg"group-title="X-Men":http-referrer="":http-user-agent="",X Men Dark Phoenix 2019
+#EXTINF:-1 tvg-name="X Men Dark Phoenix 2019"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/19/03/14/12/41/3920043.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",X Men Dark Phoenix 2019
 https://vidmody.com/vs/tt6565702
-#EXTINF:-1 tvg-name="X Men Kıyamet 2016"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/43/X-Men-Apocalypse.jpg/640px-X-Men-Apocalypse.jpg"group-title="X-Men":http-referrer="":http-user-agent="",X Men Kıyamet 2016
+#EXTINF:-1 tvg-name="X Men Kıyamet 2016"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/43/X-Men-Apocalypse.jpg/640px-X-Men-Apocalypse.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",X Men Kıyamet 2016
 https://vidmody.com/vs/tt3385516
 #EXTINF:-1 tvg-name="Yaban (2014)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJlNTQ5NDUtOTVkNi00ODA5LTkyMjktMzM5YTU4N2Y5YzVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yaban (2014)
 https://vidmody.com/vs/tt2305051
@@ -3694,27 +4142,27 @@ https://vidmody.com/vs/tt0054047
 https://vidmody.com/vs/tt2557490
 #EXTINF:-1 tvg-name="Yeni Dünya: Amerika'nin Keşfi (2005)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRhNmVmZDMtYzAyNy00M2YyLThkYTItNjNkYzMzYjUyZDY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeni Dünya: Amerika'nin Keşfi (2005)
 https://vidmody.com/vs/tt0402399
-#EXTINF:-1 tvg-name="Yenilmezler 1 2012"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/85/49/05/20085945.jpg"group-title="Yenilmezler ":http-referrer="":http-user-agent="",Yenilmezler 1 2012
+#EXTINF:-1 tvg-name="Yenilmezler 1 2012"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/85/49/05/20085945.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yenilmezler 1 2012
 https://vidmody.com/vs/tt0848228
-#EXTINF:-1 tvg-name="Yenilmezler 2 Ultron Çağı 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/08/06/07/51/269807.jpg"group-title="Yenilmezler ":http-referrer="":http-user-agent="",Yenilmezler 2 Ultron Çağı 2015
+#EXTINF:-1 tvg-name="Yenilmezler 2 Ultron Çağı 2015"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/15/08/06/07/51/269807.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yenilmezler 2 Ultron Çağı 2015
 https://vidmody.com/vs/tt2395427
-#EXTINF:-1 tvg-name="Yenilmezler 3 Sonsuzluk Savaşı 2018"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/18/03/16/15/01/4344531.jpg"group-title="Yenilmezler ":http-referrer="":http-user-agent="",Yenilmezler 3 Sonsuzluk Savaşı 2018
+#EXTINF:-1 tvg-name="Yenilmezler 3 Sonsuzluk Savaşı 2018"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/18/03/16/15/01/4344531.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yenilmezler 3 Sonsuzluk Savaşı 2018
 https://vidmody.com/vs/tt4154756
-#EXTINF:-1 tvg-name="Yenilmezler 4 Son Oyun 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/03/28/11/29/4805705.jpg"group-title="Yenilmezler ":http-referrer="":http-user-agent="",Yenilmezler 4 Son Oyun 2019
+#EXTINF:-1 tvg-name="Yenilmezler 4 Son Oyun 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/03/28/11/29/4805705.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yenilmezler 4 Son Oyun 2019
 https://vidmody.com/vs/tt4154796
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 1 (1990)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 1 (1990)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 1 (1990)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 1 (1990)
 https://vidmody.com/vs/tt0100814
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 2: Artçı Şok (1996)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QxZTI3OWEtZjY2Yy00MzUzLTlmN2EtOWUxNjcyZjQ5NWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 2: Artçı Şok (1996)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 2: Artçı Şok (1996)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QxZTI3OWEtZjY2Yy00MzUzLTlmN2EtOWUxNjcyZjQ5NWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 2: Artçı Şok (1996)
 https://vidmody.com/vs/tt0114720
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 3: Canavarın Dönüşü (2001)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQyYzhkZDktZDE3NS00YTA1LWI4OTItNWMwMmU1MWE5Y2E1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 3: Canavarın Dönüşü (2001)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 3: Canavarın Dönüşü (2001)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQyYzhkZDktZDE3NS00YTA1LWI4OTItNWMwMmU1MWE5Y2E1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 3: Canavarın Dönüşü (2001)
 https://vidmody.com/vs/tt0259685
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 4: Efsane Başlıyor (2004)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIwMzlhMDYtNWE4My00M2I5LThlZGQtZTg4NDMwZjM4ZjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 4: Efsane Başlıyor (2004)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 4: Efsane Başlıyor (2004)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIwMzlhMDYtNWE4My00M2I5LThlZGQtZTg4NDMwZjM4ZjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 4: Efsane Başlıyor (2004)
 https://vidmody.com/vs/tt0334541
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 5: Kan Hattı (2015)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjczMDQxMDUxOV5BMl5BanBnXkFtZTgwOTAxMjE1NjE@._V1_FMjpg_UX1000_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 5: Kan Hattı (2015)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 5: Kan Hattı (2015)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjczMDQxMDUxOV5BMl5BanBnXkFtZTgwOTAxMjE1NjE@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 5: Kan Hattı (2015)
 https://vidmody.com/vs/tt4180514
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 6: Cehennemde Soğuk Bir Gün (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczN2IxNmMtYzc3ZC00Y2EzLWIzYjYtM2RiZDVhY2YyNjg3XkEyXkFqcGc@._V1_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 6: Cehennemde Soğuk Bir Gün (2018)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 6: Cehennemde Soğuk Bir Gün (2018)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczN2IxNmMtYzc3ZC00Y2EzLWIzYjYtM2RiZDVhY2YyNjg3XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 6: Cehennemde Soğuk Bir Gün (2018)
 https://vidmody.com/vs/tt6086082
-#EXTINF:-1 tvg-name="Yeraltı Canavarı 7: Çığırtkanlar Adası (2020)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkzOTY2NmEtMjA2ZC00NDdjLWIzMDQtMjU0ODNlMGEyN2JiXkEyXkFqcGc@._V1_.jpg"group-title="Yeraltı Canavarı":http-referrer="":http-user-agent="",Yeraltı Canavarı 7: Çığırtkanlar Adası (2020)
+#EXTINF:-1 tvg-name="Yeraltı Canavarı 7: Çığırtkanlar Adası (2020)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkzOTY2NmEtMjA2ZC00NDdjLWIzMDQtMjU0ODNlMGEyN2JiXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yeraltı Canavarı 7: Çığırtkanlar Adası (2020)
 https://vidmody.com/vs/tt8322060
 #EXTINF:-1 tvg-name="Yerçekimi (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yerçekimi (2013)
 https://vidmody.com/vs/tt1454468
@@ -3738,7 +4186,7 @@ https://vidmody.com/vs/tt0486655
 https://vidmody.com/vs/tt2935510
 #EXTINF:-1 tvg-name="Yıldızlararası 2014"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yıldızlararası 2014
 https://vidmody.com/vs/tt0816692
-#EXTINF:-1 tvg-name="Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020"tvg-id=""tvg-logo="https://bayanbox.ir/view/8805573610712061300/tt7713068.jpg"group-title="Harley Quinn":http-referrer="":http-user-agent="",Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020
+#EXTINF:-1 tvg-name="Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020"tvg-id=""tvg-logo="https://bayanbox.ir/view/8805573610712061300/tt7713068.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020
 https://vidmody.com/vs/tt7713068
 #EXTINF:-1 tvg-name="Yol (2009)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Yol (2009)
 https://vidmody.com/vs/tt0898367
@@ -3750,31 +4198,29 @@ https://vidmody.com/vs/tt0120737
 https://vidmody.com/vs/tt0167261
 #EXTINF:-1 tvg-name="Yüzüklerin Efendisi Kralın Dönüşü 2003"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/28/Y%C3%BCz%C3%BCklerinEfendisi%27Kral%C4%B1nD%C3%B6n%C3%BC%C5%9F%C3%BC-film.jpg/800px-Y%C3%BCz%C3%BCklerinEfendisi%27Kral%C4%B1nD%C3%B6n%C3%BC%C5%9F%C3%BC-film.jpg"group-title="Yüzüklerin Efendisi ":http-referrer="":http-user-agent="",Yüzüklerin Efendisi Kralın Dönüşü 2003
 https://vidmody.com/vs/tt0167260
-#EXTINF:-1 tvg-name="Zafer 1989"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="":http-referrer="":http-user-agent="",Zafer 1989
+#EXTINF:-1 tvg-name="Zafer 1989"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zafer 1989
 https://vidmody.com/vs/tt0097441
-#EXTINF:-1 tvg-name="Zafer Yolları (1957)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg"group-title="":http-referrer="":http-user-agent="",Zafer Yolları (1957)
+#EXTINF:-1 tvg-name="Zafer Yolları (1957)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zafer Yolları (1957)
 https://vidmody.com/vs/tt0050825
-#EXTINF:-1 tvg-name="Zaman Döngüsü 2016"tvg-id=""tvg-logo="https://images.justwatch.com/poster/321256933/s718/zaman-dongusu.jpg"group-title="":http-referrer="":http-user-agent="",Zaman Döngüsü 2016
+#EXTINF:-1 tvg-name="Zaman Döngüsü 2016"tvg-id=""tvg-logo="https://images.justwatch.com/poster/321256933/s718/zaman-dongusu.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zaman Döngüsü 2016
 https://vidmody.com/vs/tt4118932
-#EXTINF:-1 tvg-name="Zaman Tüneli 2002"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d3/Time_machine_film_afi%C5%9Fi.jpg"group-title="":http-referrer="":http-user-agent="",Zaman Tüneli 2002
+#EXTINF:-1 tvg-name="Zaman Tüneli 2002"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d3/Time_machine_film_afi%C5%9Fi.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zaman Tüneli 2002
 https://vidmody.com/vs/tt0268695
-#EXTINF:-1 tvg-name="Zehirli Gül 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/05/08/12/25/3046483.jpg"group-title="":http-referrer="":http-user-agent="",Zehirli Gül 2019
+#EXTINF:-1 tvg-name="Zehirli Gül 2019"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/19/05/08/12/25/3046483.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zehirli Gül 2019
 https://vidmody.com/vs/tt5862166
-#EXTINF:-1 tvg-name="Zihin Gezgini 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/08/11/16/23/4343539.jpg"group-title="":http-referrer="":http-user-agent="",Zihin Gezgini 2021
+#EXTINF:-1 tvg-name="Zihin Gezgini 2021"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/21/08/11/16/23/4343539.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zihin Gezgini 2021
 https://vidmody.com/vs/tt3272066
-#EXTINF:-1 tvg-name="Zindan Adası 2010"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/132039.jpg"group-title="":http-referrer="":http-user-agent="",Zindan Adası 2010
+#EXTINF:-1 tvg-name="Zindan Adası 2010"tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/132039.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zindan Adası 2010
 https://vidmody.com/vs/tt1130884
-#EXTINF:-1 tvg-name="Zindanlar ve Ejderhalar: Hırsızlar Arasındaki Onur 2023"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/79/2013979-59021674.jpg"group-title="":http-referrer="":http-user-agent="",Zindanlar ve Ejderhalar: Hırsızlar Arasındaki Onur 2023
+#EXTINF:-1 tvg-name="Zindanlar ve Ejderhalar: Hırsızlar Arasındaki Onur 2023"tvg-id=""tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/79/2013979-59021674.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zindanlar ve Ejderhalar: Hırsızlar Arasındaki Onur 2023
 https://vidmody.com/vs/tt2906216
-#EXTINF:-1 tvg-name="Zodyak Katili 2007"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/59320.jpg"group-title="":http-referrer="":http-user-agent="",Zodyak Katili 2007
+#EXTINF:-1 tvg-name="Zodyak Katili 2007"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/59320.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zodyak Katili 2007
 https://vidmody.com/vs/tt0443706
-#EXTINF:-1 tvg-name="Zombi Ülkesi Çift Dokunuş 2022"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTViNDc4NTgtYzVlNi00YmY3LWFiNDgtODJlNGU1YzI1MGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="":http-referrer="":http-user-agent="",Zombi Ülkesi Çift Dokunuş 2022
+#EXTINF:-1 tvg-name="Zombi Ülkesi Çift Dokunuş 2022"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTViNDc4NTgtYzVlNi00YmY3LWFiNDgtODJlNGU1YzI1MGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zombi Ülkesi Çift Dokunuş 2022
 https://vidmody.com/vs/tt1560220
-#EXTINF:-1 tvg-name="Zombieland 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzYmMxM2MtMzkwMS00MWRhLWI4MDItZGE5YzYxY2ZlZmNiXkEyXkFqcGc@._V1_.jpg"group-title="":http-referrer="":http-user-agent="",Zombieland 2009
+#EXTINF:-1 tvg-name="Zombieland 2009"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzYmMxM2MtMzkwMS00MWRhLWI4MDItZGE5YzYxY2ZlZmNiXkEyXkFqcGc@._V1_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zombieland 2009
 https://vidmody.com/vs/tt1156398
-#EXTINF:-1 tvg-name="Zor Kazanç (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg"group-title="":http-referrer="":http-user-agent="",Zor Kazanç (2013)
+#EXTINF:-1 tvg-name="Zor Kazanç (2013)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zor Kazanç (2013)
 https://vidmody.com/vs/tt1980209
-#EXTINF:-1 tvg-name="Zor Ölüm (1988)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="":http-referrer="":http-user-agent="",Zor Ölüm (1988)
+#EXTINF:-1 tvg-name="Zor Ölüm (1988)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YABANCI FİLMLER":http-referrer="":http-user-agent="",Zor Ölüm (1988)
 https://vidmody.com/vs/tt0095016
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",
-
