@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIYGJA&sid=7e3svkqimoqt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
@@ -636,6 +636,10 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Tatlıses TV"tvg-id="Muzik_TatlisesTV"tvg-logo="https://canlitv.center/channels/tatlises-tv.png"group-title="Muzik":http-referrer="":http-user-agent="",Tatlıses TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 tvg-name="Atatürk 1881 - 1919"tvg-id="Atatürk 1881 - 1919"tvg-logo="https://www.only-hd.com/img/film/6399640.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Atatürk 1881 - 1919
+https://35d-a13-202gv.video-ik-ok-ii.wiki/f2/67/1/1746661061/s0cRxWf4ob83rmLl6_M1tw/5/480/1/992840/master.m3u8
+#EXTINF:-1 tvg-name="The Turkish Detective"tvg-id="The Turkish Detective"tvg-logo="https://www.only-hd.com/img/film/4968736.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Turkish Detective
+https://cda-3cd-205gv.video-ik-ok-ii.wiki/f2/55/0/1746661216/8sxmt5cxIDWvwsQD0gn0MA/5/480/1/838643/master.m3u8
 #EXTINF:-1 tvg-name="Harry Potter 1 Felsefe Taşı"tvg-id="Harry Potter 1 Felsefe Taşı"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-harry-potter-ve-felsefe-tasi-filmini-full-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 1 Felsefe Taşı
 https://s25.imglink.info/mt/FTSlpaxhHT90qTIlYwRhZwNjZF5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5cozMis0xi25vr1
 #EXTINF:-1 tvg-name="Harry Potter 2 Sırlar Odası "tvg-id="Harry Potter 2 Sırlar Odası "tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-harry-potter-sirlar-odasi-full-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 2 Sırlar Odası
