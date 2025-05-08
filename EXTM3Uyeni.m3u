@@ -4,7 +4,7 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIYGJA&sid=7e3svkqimoqt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIYGJA&sid=7e3svkqimoqt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-name="ATV [Kynk 1]"tvg-id="ATV [Kynk 1]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 1]
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV.tr"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
