@@ -159,6 +159,12 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-name="Moana"tvg-id="Moana"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/3799/thumb_hIPeANcTQkMGekvI1243ZkXqGIi.webp"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Moana
+https://px.rovideoz.org/v/d/tt3521164/tr/1080
+#EXTINF:-1 tvg-name="Moana 2"tvg-id="Moana 2"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/14061/thumb_aLVkiINlIeCkcZIzb7XHzPYgO6L.webp"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Moana 2
+https://sx1.rovideoz.org/v/d/tt13622970/tr/1080
+#EXTINF:-1 tvg-name="Yukarı Bak"tvg-id="Yukarı Bak"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/4959/thumb_mFf2FuaRX9T9z3gfbrpYRJVHylH.webp"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Yukarı Bak
+https://sx1.rovideos.org/v/d/tt1049413/tr/1080
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2245084.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",6 Süper Kahraman
 https://vidmody.com/vs/tt2245084
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",A Bug's Life
@@ -631,6 +637,12 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Tatlıses TV"tvg-id="Muzik_TatlisesTV"tvg-logo="https://canlitv.center/channels/tatlises-tv.png"group-title="Muzik":http-referrer="":http-user-agent="",Tatlıses TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 tvg-name="Titanik"tvg-id="Titanik"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/5025/thumb_f9iH7Javzxokvnkiz2yHD1dcmUy.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Titanik
+https://px.rovideos.org/v/d/tt0120338/tr/720
+#EXTINF:-1 tvg-name="Avatar "tvg-id="Avatar"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/4215/thumb_8Ic8rRVoVrDJJlXzVzGxAesufUV.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Avatar 
+https://px.rovideos.org/v/d/tt0499549/tr/1080
+#EXTINF:-1 tvg-name="Avatar 2"tvg-id="Avatar 2"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/12731/thumb_bidENTLt6baEa2ieNT95brFtsvb.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Avatar 2
+https://sx1.rovideo.buzz/v/d/tt1630029/tr/1080
 #EXTINF:-1 tvg-name="Atatürk 1881 - 1919"tvg-id="Atatürk 1881 - 1919"tvg-logo="https://www.only-hd.com/img/film/6399640.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Atatürk 1881 - 1919
 https://35d-a13-202gv.video-ik-ok-ii.wiki/f2/67/1/1746661061/s0cRxWf4ob83rmLl6_M1tw/5/480/1/992840/master.m3u8
 #EXTINF:-1 tvg-name="The Turkish Detective"tvg-id="The Turkish Detective"tvg-logo="https://www.only-hd.com/img/film/4968736.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Turkish Detective
