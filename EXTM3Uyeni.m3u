@@ -1,13 +1,13 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml"
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-name="ATV 1"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
+#EXTINF:-1 tvg-name="ATV 1"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 1
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIYGJA&sid=7e3svkqimoqt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-#EXTINF:-1 tvg-name="ATV 2"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
+#EXTINF:-1 tvg-name="ATV 2"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 2
 https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIYGJA&sid=7e3svkqimoqt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-#EXTINF:-1 tvg-name="ATV 3"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
+#EXTINF:-1 tvg-name="ATV 3"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-name="ATV 4"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
+#EXTINF:-1 tvg-name="ATV 4"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 4
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Kanal D 1"tvg-id="KANAL D.tr"tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 1
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
