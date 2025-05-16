@@ -9,7 +9,7 @@ https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIY
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="ATV 4"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 4
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Kanal D 1"tvg-id="ATV.tr"tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 1
+#EXTINF:-1 tvg-name="Kanal D 1"tvg-id="KANAL D.tr"tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 1
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Kanal D 2"tvg-id="KANAL D.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D 2
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=23e8fdd7520857a595ad30b91d4f96e7
