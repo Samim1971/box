@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml"
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
@@ -9,19 +9,17 @@ https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIY
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV.tr
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=23e8fdd7520857a595ad30b91d4f96e7
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="https://i.imgur.com/9o1atM6.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="https://i.imgur.com/9o1atM6.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="Kanal D.tr"tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Show TV"tvg-id="Show TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr"tvg-logo="https://i.imgur.com/1l7SCCu.png"group-title="Ulusal":http-referrer="":http-user-agent="",ShowTV.tr
+#EXTINF:-1 tvg-name="ShowTV.tr"tvg-id="ShowTV.tr"tvg-logo="https://i.imgur.com/1l7SCCu.png"group-title="Ulusal":http-referrer="":http-user-agent="",ShowTV.tr
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=759eg38m4kmo&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-name="Show TV"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV.tr
+#EXTINF:-1 tvg-name="Show TV.tr"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV.tr
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-name="TV8.tr"tvg-id="TV8.tr"tvg-logo="https://i.imgur.com/DKNwiDm.png"group-title="Ulusal":http-referrer="":http-user-agent="",TV8.tr
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -43,6 +41,8 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="TRT BELGESEL.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnFHissiR4VjIVzjEYmUC8SLYsVuBXYohpw&s"group-title="Ulusal":http-referrer="":http-user-agent="",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="Kanal D.tr"tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="CNN Türk"tvg-id="CNN TURK.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500"group-title="Ulusal":http-referrer="":http-user-agent="",CNN Türk
 https://b.fulltvizle.com/cnn/index.m3u8
 #EXTINF:-1 tvg-name="TV Net"tvg-id="TV Net.tr"tvg-logo="https://play-lh.googleusercontent.com/AECL6sDr1YtDec7ZuBXs5ESB3fdHDZLdapYf-kKsR_miNAtrFXRxoD08qZg4hfwP_pvx"group-title="Ulusal":http-referrer="":http-user-agent="",TV Net
@@ -2449,31 +2449,31 @@ https://stream.ankara.bel.tr/live/1/index.m3u8
 https://stream.ankara.bel.tr/live/2/index.m3u8
 #EXTINF:-1 tvg-name="Ankara"tvg-id="ext"tvg-logo=""group-title="KAMERALAR":http-referrer="":http-user-agent="",Ankara
 http://cdn10-ipkamerademo.yayin.com.tr/ipkamerademo/ipkamerademo/playlist.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/ckoflql052aveu40cs4g/index-1080p.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8
-#EXTINF:-1 tvg-name="Bal�±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal�±kesir
+#EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
 https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8
 #EXTINF:-1 tvg-name="Burdur"tvg-id="ext"tvg-logo="https://i.imgur.com/MWSUYJM.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Burdur
 https://5a1178b42cc03.streamlock.net/salda-golu-2/salda_golu_2.stream/playlist.m3u8
@@ -2495,163 +2495,163 @@ https://uzunmuhalefet.serv00.net/bursa.php?id=23323&.m3u8
 https://uzunmuhalefet.serv00.net/bursa.php?id=23322&.m3u8
 #EXTINF:-1 tvg-name="Bursa - Hayvanat BahÃ§esi"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Hayvanat BahÃ§esi
 https://uzunmuhalefet.serv00.net/bursa.php?id=23321&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23543&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23542&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23541&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23540&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23539&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23538&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23537&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23536&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23534&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23531&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=23513&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=22569&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=22568&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=22109&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=22108&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=22107&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21773&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21754&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21726&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21686&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21601&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21598&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21579&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21578&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21575&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21574&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21573&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21572&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21570&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21568&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21566&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21564&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21560&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21559&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21555&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21554&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21550&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=21548&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=19118&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=19068&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=19059&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=19045&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18981&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18972&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18908&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18751&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18273&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18240&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18239&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18202&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18078&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18076&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=18072&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=17906&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=17404&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=17403&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=17236&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=17178&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=16967&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=15707&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=15647&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=15635&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=15612&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=14809&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=14801&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=14795&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=14793&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=14791&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13941&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13929&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13928&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13927&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13790&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=13235&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=12605&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=12237&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=12234&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=12049&.m3u8
-#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Bursa - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Trafik Kameralar ±
 https://uzunmuhalefet.serv00.net/bursa.php?id=6268&.m3u8
 #EXTINF:-1 tvg-name="Bursa - Turistik Kameralar"tvg-id="ext"tvg-logo="https://i.imgur.com/8gwVGCD.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bursa - Turistik Kameralar
 https://uzunmuhalefet.serv00.net/bursa.php?id=23533&.m3u8
@@ -2737,9 +2737,9 @@ http://212.175.207.19:1935/canliyayin/dbbBozdagUst.stream/playlist.m3u8
 http://212.175.207.19:1935/canliyayin/dbbBozdag2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Giresun"tvg-id="ext"tvg-logo="https://i.imgur.com/YZdEvHS.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Giresun
 rtsp://duroglu:Db123456@78.187.24.109:554/cam/realmonitor?channel=1&subtype=0
-#EXTINF:-1 tvg-name="�°stanbul - Di�Ÿer"tvg-id="ext"tvg-logo=""group-title="KAMERALAR":http-referrer="":http-user-agent="",�°stanbul - Di�Ÿer
+#EXTINF:-1 tvg-name=" °stanbul - Di Ÿer"tvg-id="ext"tvg-logo=""group-title="KAMERALAR":http-referrer="":http-user-agent="",°stanbul - Di Ÿer
 https://content.tvkur.com/l/c9k63ub84cnveo99b8lg/master.m3u8
-#EXTINF:-1 tvg-name="�°zmir"tvg-id="ext"tvg-logo="https://i.imgur.com/yBVb1ny.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",�°zmir
+#EXTINF:-1 tvg-name=" °zmir"tvg-id="ext"tvg-logo="https://i.imgur.com/yBVb1ny.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",°zmir
 https://streaming.mavipiksel.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="KahramanmaraÅŸ"tvg-id="ext"tvg-logo="https://i.imgur.com/XUSwWL9.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",KahramanmaraÅŸ
 https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8
@@ -2771,49 +2771,49 @@ https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/h9FyifR3.m3u8
 rtsp://212.174.25.59:555/user=admin&password=947152&channel=1&stream=1.sdp?
 #EXTINF:-1 tvg-name="KKTC"tvg-id="ext"tvg-logo=""group-title="KAMERALAR":http-referrer="":http-user-agent="",KKTC
 https://uzunmuhalefet.serv00.net/angelcam2.php?id=51eyooz3y8&.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/cggk2cokj84dao908mv0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i6m384cnrb6mlji4g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i74vbb2nj4i0fr7u0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i62384cnrb6mlji2g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i6qj84cnrb6mlji5g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77ibcnbb2nj4i0fr8cg/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77iannbb2nj4i0fr88g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77iasnbb2nj4i0fr89g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77ib57bb2nj4i0fr8ag/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i9rj84cnrb6mljic0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77ibgfbb2nj4i0fr8dg/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77iahr84cnrb6mljid0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i5e384cnrb6mlji10/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77ia07bb2nj4i0fr84g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i70fbb2nj4i0fr7t0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i6cfbb2nj4i0fr7s0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i96b84cnrb6mljia0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i7inbb2nj4i0fr7v0/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i84vbb2nj4i0fr80g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i91vbb2nj4i0fr81g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i9cfbb2nj4i0fr82g/master.m3u8
-#EXTINF:-1 tvg-name="Konya - Trafik Kameralar�±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar�±
+#EXTINF:-1 tvg-name="Konya - Trafik Kameralar ±"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Trafik Kameralar ±
 https://content.tvkur.com/l/c77i7s384cnrb6mlji90/master.m3u8
 #EXTINF:-1 tvg-name="Konya - Turistik Kameralar"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Turistik Kameralar
 https://content.tvkur.com/l/cg3k53okj84dao8vt0ug/master.m3u8
@@ -2845,21 +2845,21 @@ https://content.tvkur.com/l/c77i7dr84cnrb6mlji80/master.m3u8
 https://content.tvkur.com/l/cei9bavbb2nv2u3dv3k0/master.m3u8
 #EXTINF:-1 tvg-name="Konya - Turistik Kameralar"tvg-id="ext"tvg-logo="https://i.imgur.com/nWeEm2p.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Konya - Turistik Kameralar
 https://content.tvkur.com/l/c77i9nfbb2nj4i0fr83g/master.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mu�Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu�Ÿla - Marmaris
+#EXTINF:-1 tvg-name="Mu Ÿla - Marmaris"tvg-id="ext"tvg-logo="https://i.imgur.com/MCLg8va.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Mu Ÿla - Marmaris
 https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8
 #EXTINF:-1 tvg-name="NevÅŸehir"tvg-id="ext"tvg-logo="https://i.imgur.com/sROid5z.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",NevÅŸehir
 https://player.rade.com.tr/live/uchisar1.stream/playlist.m3u8
@@ -2873,7 +2873,7 @@ https://broadcast.orbel.com.tr/memfs/af01664b-cd0b-4602-b0b6-5aa3c04650b9.m3u8
 https://broadcast.orbel.com.tr/memfs/01fe4c06-927e-4371-90ab-eaf50a7a43bd.m3u8
 #EXTINF:-1 tvg-name="Sivas"tvg-id="ext"tvg-logo="https://i.imgur.com/WyQXOER.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Sivas
 https://server.arvas.com.tr/meydan.m3u8
-#EXTINF:-1 tvg-name="Tekirda�Ÿ"tvg-id="ext"tvg-logo="https://i.imgur.com/1DxBBF7.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Tekirda�Ÿ
+#EXTINF:-1 tvg-name="Tekirda Ÿ"tvg-id="ext"tvg-logo="https://i.imgur.com/1DxBBF7.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Tekirda Ÿ
 https://wowza.tekirdag.bel.tr:4443/sahil/sahil.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tokat"tvg-id="ext"tvg-logo="https://i.imgur.com/OGAZgZI.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Tokat
 http://212.156.98.150:1936/Kamera/AtaturkKoprusu.stream/playlist.m3u8
