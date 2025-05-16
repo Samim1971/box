@@ -9,17 +9,17 @@ https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1746773226&st=4Q-2IVUKLXRzV9qQGIY
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV.tr
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=23e8fdd7520857a595ad30b91d4f96e7
-#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="https://i.imgur.com/9o1atM6.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="https://i.imgur.com/9o1atM6.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-name="KanalD.tr"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal":http-referrer="":http-user-agent="",KanalD.tr
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Show TV"tvg-id="Show TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-name="ShowTV.tr"tvg-id="ShowTV.tr"tvg-logo="https://i.imgur.com/1l7SCCu.png"group-title="Ulusal":http-referrer="":http-user-agent="",ShowTV.tr
+#EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr"tvg-logo="https://i.imgur.com/1l7SCCu.png"group-title="Ulusal":http-referrer="":http-user-agent="",ShowTV.tr
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=759eg38m4kmo&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-name="Show TV.tr"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV.tr
+#EXTINF:-1 tvg-name="Show TV"tvg-id="Show TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal":http-referrer="":http-user-agent="",Show TV.tr
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-name="TV8.tr"tvg-id="TV8.tr"tvg-logo="https://i.imgur.com/DKNwiDm.png"group-title="Ulusal":http-referrer="":http-user-agent="",TV8.tr
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
