@@ -1,7 +1,7 @@
-﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml"
+﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml"
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-name="ATV 1"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",ATV 1
+#EXTINF:-1 tvg-name="ATV 1"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV 1
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV 2"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",ATV 2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
