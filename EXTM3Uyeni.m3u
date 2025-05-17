@@ -87,13 +87,13 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-name="CINE 5"tvg-id="Genel_CNE5"tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg"group-title="Ulusal":http-referrer="":http-user-agent="",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion TV"tvg-id="Genel_FashionTV"tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM"group-title="Ulusal":http-referrer="":http-user-agent="",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV"tvg-id="FASHION TV.tr"tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM"group-title="Ulusal":http-referrer="":http-user-agent="",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion Film"tvg-id="Genel_FashionFilm"tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g"group-title="Ulusal":http-referrer="":http-user-agent="",Fashion Film
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="GZTTV.tr"tvg-id="GZTTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",GZTTV.tr
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-name="BeyazTV.tr"tvg-id="BeyazTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg"group-title="Ulusal":http-referrer="":http-user-agent="",BeyazTV.tr
+#EXTINF:-1 tvg-name="BeyazTV.tr"tvg-id="BeyazTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg"group-title="Ulusal yedek":http-referrer="":http-user-agent="",BeyazTV.tr
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
 #EXTINF:-1 tvg-name="YolTV.tr"tvg-id="YolTV.tr"tvg-logo="https://www.yoltv.com/wp-content/uploads/2025/02/yol-logo-png.webp"group-title="Ulusal":http-referrer="":http-user-agent="",YolTV.tr
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
@@ -123,7 +123,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-name="TH Türk Haber"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.imgur.com/2AcRKdL.png"group-title="Haber":http-referrer="":http-user-agent="",TH Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekol tv"tvg-id="EkolTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png"group-title="Haber":http-referrer="":http-user-agent="",Ekol tv
+#EXTINF:-1 tvg-name="Ekol tv"tvg-id="EKOL TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png"group-title="Haber":http-referrer="":http-user-agent="",Ekol tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-name="Meclis TV"tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png"tvg-logo=""group-title="TRT":http-referrer="":http-user-agent="",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
