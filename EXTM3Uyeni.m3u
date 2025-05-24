@@ -1,5 +1,5 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml"
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1_1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="Cars"tvg-id="ext"tvg-logo="https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"group-title="DORUK":http-referrer="":http-user-agent="",Cars
 https://vidmody.com/vs/tt0317219
