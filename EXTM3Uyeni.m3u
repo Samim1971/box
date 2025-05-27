@@ -1,4 +1,16 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name="BİEN1"tvg-id="BİEN1"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
+#EXTINF:-1 tvg-name="BİEN2"tvg-id="BİEN2"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/318927.ts
+#EXTINF:-1 tvg-name="BİEN3"tvg-id="BİEN3"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/201419.ts
+#EXTINF:-1 tvg-name="BİEN4"tvg-id="BİEN4"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN4
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
+#EXTINF:-1 tvg-name="BİEN5"tvg-id="BİEN5"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN5
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/824.ts
+#EXTINF:-1 tvg-name="BİEN6"tvg-id="BİEN6"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN6
+http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/822.ts
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
