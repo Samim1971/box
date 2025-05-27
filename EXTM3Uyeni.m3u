@@ -1,4 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name="TR: EKOLTV HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YEREL/EKOL.TV.png"group-title="Haber":http-referrer="":http-user-agent="",TR: EKOLTV HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/2491
+#EXTINF:-1 tvg-name="TR: TV NET HD"tvg-id="tvnet.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TV.NET.png"group-title="Haber":http-referrer="":http-user-agent="",TR: TV NET HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/83263
+#EXTINF:-1 tvg-name="TR: beIN H&E HD"tvg-id=""tvg-logo=""group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: beIN H&E HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/6673
 #EXTINF:-1 tvg-name="BİEN1"tvg-id="BİEN1"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
 #EXTINF:-1 tvg-name="BİEN2"tvg-id="BİEN2"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2
@@ -2943,23 +2949,23 @@ https://vidmody.com/vs/tt0069768
 https://vidmody.com/vs/tt0065462
 #EXTINF:-1 tvg-name="Maymunlar Cehennemine Dönüş 2 (1970)"tvg-id="ext"tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/27782.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Maymunlar Cehennemine Dönüş 2 (1970)
 https://vidmody.com/vs/tt0031381
-#EXTINF:-1 tvg-name="KRAL - KRAL POP"tvg-id="ext"tvg-logo="https://i.ibb.co/6401NQw/kraltv.png"group-title="Muzik":http-referrer="":http-user-agent="",KRAL - KRAL POP
+#EXTINF:-1 tvg-name="KRAL - KRAL POP"tvg-id="ext"tvg-logo="https://i.ibb.co/6401NQw/kraltv.png"group-title="MÜZİK":http-referrer="":http-user-agent="",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TÜRK"tvg-id="ext"tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png"group-title="Muzik":http-referrer="":http-user-agent="",NUMBER ONE TÜRK
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK"tvg-id="ext"tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png"group-title="MÜZİK":http-referrer="":http-user-agent="",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TÜRK ASK"tvg-id="ext"tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg"group-title="Muzik":http-referrer="":http-user-agent="",NUMBER ONE TÜRK ASK
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK ASK"tvg-id="ext"tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg"group-title="MÜZİK":http-referrer="":http-user-agent="",NUMBER ONE TÜRK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DAMAR"tvg-id="ext"tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg"group-title="Muzik":http-referrer="":http-user-agent="",NUMBER ONE TÜRK DAMAR
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DAMAR"tvg-id="ext"tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg"group-title="MÜZİK":http-referrer="":http-user-agent="",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DANCE"tvg-id="ext"tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg"group-title="Muzik":http-referrer="":http-user-agent="",NUMBER ONE TÜRK DANCE
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DANCE"tvg-id="ext"tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg"group-title="MÜZİK":http-referrer="":http-user-agent="",NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk"tvg-id="Muzik_PowerTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6"group-title="Muzik":http-referrer="":http-user-agent="",Power Türk
+#EXTINF:-1 tvg-name="Power Türk"tvg-id="Muzik_PowerTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6"group-title="MÜZİK":http-referrer="":http-user-agent="",Power Türk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Slow karadeniz "tvg-id="ext"tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp"group-title="Muzik":http-referrer="":http-user-agent="",Slow karadeniz
+#EXTINF:-1 tvg-name="Slow karadeniz "tvg-id="ext"tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp"group-title="MÜZİK":http-referrer="":http-user-agent="",Slow karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Tatlıses TV"tvg-id="Muzik_TatlisesTV"tvg-logo="https://canlitv.center/channels/tatlises-tv.png"group-title="Muzik":http-referrer="":http-user-agent="",Tatlıses TV
+#EXTINF:-1 tvg-name="Tatlıses TV"tvg-id="Muzik_TatlisesTV"tvg-logo="https://canlitv.center/channels/tatlises-tv.png"group-title="MÜZİK":http-referrer="":http-user-agent="",Tatlıses TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tempo TV"tvg-id="TempoTV.tr"tvg-logo="https://i.imgur.com/tZpx32y.png"group-title="Muzik":http-referrer="":http-user-agent="",Tempo TV
+#EXTINF:-1 tvg-name="Tempo TV"tvg-id="TempoTV.tr"tvg-logo="https://i.imgur.com/tZpx32y.png"group-title="MÜZİK":http-referrer="":http-user-agent="",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Müzede Bir Gece 2 (2009)"tvg-id="ext"tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/03/130318.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Müzede Bir Gece 2 (2009)
 https://vidmody.com/vs/tt1078912
@@ -3069,13 +3075,13 @@ https://vidmody.com/vs/tt26674627
 https://vidmody.com/vs/tt5937770
 #EXTINF:-1 tvg-name="Ölümcül Deney: Lanetli Ulus 2012"tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhlZmNkMjEtOTdkZS00NzE2LTkyMWItNmU0NGQwN2IwNDJkXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ölümcül Deney: Lanetli Ulus 2012
 https://vidmody.com/vs/tt1753496
-#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
+#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="SPOR":http-referrer="":http-user-agent="",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
+#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="SPOR":http-referrer="":http-user-agent="",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="SPOR":http-referrer="":http-user-agent="",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="SPOR":http-referrer="":http-user-agent="",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Yıldız Savaşları: Bölüm IV - Yeni Bir Umut (1977)"tvg-id="ext"tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25801.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yıldız Savaşları: Bölüm IV - Yeni Bir Umut (1977)
 https://vidmody.com/vs/tt0076759
@@ -3255,35 +3261,35 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="TRT Diyanet Çocuk.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwBQtkeuk0a1Ofxhin7lGP_VtWNecIwOsSA&s"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="A Haber"tvg-id="A Haber.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="[TR] Haber":http-referrer="":http-user-agent="",A Haber
+#EXTINF:-1 tvg-name="A Haber"tvg-id="A Haber.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="Haber":http-referrer="":http-user-agent="",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639
-#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="Bloomberg HT.tr"tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk"group-title="[TR] Haber":http-referrer="":http-user-agent="",Bloomberg HT
+#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="Bloomberg HT.tr"tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk"group-title="Haber":http-referrer="":http-user-agent="",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="Ekol TV"tvg-id="Ekol TV.tr"tvg-logo="https://yt3.googleusercontent.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz=s900-c-k-c0x00ffffff-no-rj"group-title="[TR] Haber":http-referrer="":http-user-agent="",Ekol TV
+#EXTINF:-1 tvg-name="Ekol TV"tvg-id="Ekol TV.tr"tvg-logo="https://yt3.googleusercontent.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz=s900-c-k-c0x00ffffff-no-rj"group-title="Haber":http-referrer="":http-user-agent="",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-name="GZT TV"tvg-id="GZT TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png"group-title="[TR] Haber":http-referrer="":http-user-agent="",GZT TV
+#EXTINF:-1 tvg-name="GZT TV"tvg-id="GZT TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png"group-title="Haber":http-referrer="":http-user-agent="",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber Global.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="[TR] Haber":http-referrer="":http-user-agent="",Haber Global
+#EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber Global.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber Turk.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="[TR] Haber":http-referrer="":http-user-agent="",Haber Türk
+#EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber Turk.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=23bbebe7da6880700bf29445e43ad6de&dfp_paln=AQzzBGQE60T_GcsXC2rusObSK9Zsq7V-8yhs2HqNI4M-G6c6mJtvlSK63GYnegaEpbGtgna7pgup-RvHKPqEbUcb7HsNVQ6gjPYbhEBwKAvJCo8379J-3P-RECtzAT2O64OkrufO_Us8f0y94ORUiXLmn8GjskmOMRolw2bV79AnA9r631accTZuHP2GwlcGiSBn5zLtJBeG_bO3DGTkyzAi34LdqwmnAA6Nnys6Ccif2UQe2PgdzLl2_knyXmnlsCMkxBAj36fS2cWUzarzRdtzHtiGiR6OIsUVaYfZT8b_YRBrkh_NwAtT2ucLm8Tdf_x9PMfFhfO-B1oIWNIdT5xUMt6zmT3NWEJCgO4dSlKZKFcfjlfkc6e3OP9qOO7IRPHqjoHHIPXu04Oww_lKZIwh7RC_8VJcwqIV7EsMDTFB-6E0GcVrsDkUEDB-Hd0yKrChENga-CcmreV-HvDkxIIoujyOVNHgZLq-jkH-IEqA8F66BAJrud9Mls2KIEijrLpmaz_BgvHj1vHya5YeuonQkqgiqY27sFj5okZjofOlIbybZXol50dWISSrnnPAFzwl9pTHFHR40RCemB7DOGtj86kpP237OAfALNw2auvKx0f8qr9hJ0XdiIAMDf5ZyqetXPsj_yvmRiW-UVIypvgs9NwJUMaHNfTJ7DeNLy0ksqKxPJkrrWPxYjCxBPal25cxnJzoTjI71FKzwdIQHmyBsma9JNqIsq_ZinV1uME-JE3sJ0qMbGxz1O1os2GSZKEYqPGykoPwvXkarNcj1gZmG64h-gTtJhgwBHflO3wCI6_kG3TBwbrJq8hAN7k_d7lSo4KLM_yGRkqDlFiTgzBb9d8VYbDHJJywklaRcsgZZDoCkYbWrWywXU-cWHxUI4Hogx-TlM7Fs2S6YqpcQCrZUd96tIOsxGZEEzqr_oqUp_d4FP3VULRDiKD7QfWAffxivQfe2jTqq7NmiptwZ1t4ze6Cc7p3gGEIfDDIGqncNtenWReIyauc1llDQVU14b05d8bwU2PEfw5iFkbCgbF-2iO-kEyqLWhmvTE4kxcSONplTRxcvtbl3CM-t6fGVp-n13nyN9PLxcC0k3S6FkKZJ3CsIp1g7nUCVKr8Lz8S6y7VXykjGE3N50u9OiQ.
-#EXTINF:-1 tvg-name="Kanal 24"tvg-id="24.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="[TR] Haber":http-referrer="":http-user-agent="",Kanal 24
+#EXTINF:-1 tvg-name="Kanal 24"tvg-id="24.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="TGRT Haber.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f"group-title="[TR] Haber":http-referrer="":http-user-agent="",TGRT Haber
+#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="TGRT Haber.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f"group-title="Haber":http-referrer="":http-user-agent="",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRT Haber.tr"tvg-logo="https://play-lh.googleusercontent.com/stko3vRumvnhku9Jptzr3ZS7sLDJ3NjIlJxa0N7R6D3pba4x4UcRGqFREZC2VUM_5w"group-title="[TR] Haber":http-referrer="":http-user-agent="",TRT Haber
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRT Haber.tr"tvg-logo="https://play-lh.googleusercontent.com/stko3vRumvnhku9Jptzr3ZS7sLDJ3NjIlJxa0N7R6D3pba4x4UcRGqFREZC2VUM_5w"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TV 100"tvg-id="Tv 100.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="[TR] Haber":http-referrer="":http-user-agent="",TV 100
+#EXTINF:-1 tvg-name="TV 100"tvg-id="Tv 100.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="Haber":http-referrer="":http-user-agent="",TV 100
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=596041d0c6bcaf2c48b332640879f1de&dfp_paln=AQzzBGQEklOslP8hjQblf7YryzqfRckRLoz7hxf3SvM3DsEtGBErAvDuSY4blFX4TYv-6Kk56E2MD_GE3y34ojDjix3riD24acu0IvTfjznovNuJrhsFNjoSQkinJFysMkjN7y9xzxvYVkDvBVmrRTF5CvAtu0fzWBC1yUhmAhR2FehwW0uwuHD3S2UALXAOCYOEFuiNnqIFMYtMfuJowZAQ015maqLekVHWra5A8Oq4t9nrUfe50F4Rn3BGfRVWxkV0qcbNAXbFp9FgMhPQcuykCDVC5NT8wkW_RqpYNeq7f4WmPPD5FTasAdgOGF70AJLUTnWpkUnurLD6MKzBUW_h1CHLG0qHmP75jqe52M9xb2vvlat5elgFKmZqlqGrjauK0R9HGLiHK-vS7pQrio6zB9dNz2G56Uz9O9qe0dQ9g7A1PRrC0p0ESpOgUsHGW0WZN7PzpXeMfZwwYISkryl0arW3lTOeDr6tAWA_I_ZqbKZSwpnn1N5sUQG57ecVk8AT_Zke9HFKJPd99CupaR7x64rL6Y9PFhMovY03vIn3CkAKhGIy_hWz45oZmE_fmSLUJjdPNqnWu-yB9UbBWZBVdy-AEXxbUIXUFQk0rWQ76RwXFWYWxKKI356z4wcDsIp-zXZTac6gdXrtAqQau19SL3-1ssBLrg3ZG2ZXzcdx665xNvymRmOXxxFJzccjJ53QVQPrZUVPvr-ebYYApqGLNEo9fTBgxcoLq8Yw65o1noN-514oIgM3uhKYgRIYiRM9YyP1ssEONEPBOdDuh8U8Ak-7-T4C4jzE7QfA8AyrkLEcGW3eNb_ktZqVzGlZtGV91D-zoWuxlfQYFR-ULiXNlxPvPMBoVc17QVEhXNb10dv87E2YGGI_qFZqzuGrqH6IW38k-rDJ6mmWPhdcS_VIFMcuIknfxN1N989kltaCy-SQMkXFuJx0JJM5nmBmcFz0AGTJB_iP-qkMRygYEAyd87ek3vCIJxEZlyKfnzeUxAxYgZLSXYTLFvtQZHGMJNTJOYPDXHfIZIMTt-Pi26_pnxjp-HHffEouaLPbxr_YVasywoa7_-coxS9GynMZXqX5vFqUxMflh2PydoPrZmo.
-#EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id="ext"tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",DREAM TÜRK TV
+#EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id="ext"tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png"group-title="MÜZİK":http-referrer="":http-user-agent="",DREAM TÜRK TV
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="KRAL POP TV"tvg-id="ext"tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",KRAL POP TV
+#EXTINF:-1 tvg-name="KRAL POP TV"tvg-id="ext"tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png"group-title="MÜZİK":http-referrer="":http-user-agent="",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TÜRK TV"tvg-id="ext"tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",POWER TÜRK TV
+#EXTINF:-1 tvg-name="POWER TÜRK TV"tvg-id="ext"tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png"group-title="MÜZİK":http-referrer="":http-user-agent="",POWER TÜRK TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-name="POWER TV"tvg-id="ext"tvg-logo="https://i.ibb.co/JrXDQJy/power-tv.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",POWER TV
+#EXTINF:-1 tvg-name="POWER TV"tvg-id="ext"tvg-logo="https://i.ibb.co/JrXDQJy/power-tv.png"group-title="MÜZİK":http-referrer="":http-user-agent="",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr"tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",TRT Müzik
+#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr"tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="beIN Movies Premiere"tvg-id="TR: beN Movies Premiere"tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png"group-title="[TR] Sinema":http-referrer="":http-user-agent="",beIN Movies Premiere
 http://norsvpx.top:8080/231679575500969074/1511679575500969/57863
@@ -3301,44 +3307,44 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="[TR] Sinema":http-referrer="":http-user-agent="",TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",A Spor
+#EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="SPOR":http-referrer="":http-user-agent="",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="[TR] Spor":http-referrer="":http-user-agent="",beIN Sports Max 1
+#EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="SPOR":http-referrer="":http-user-agent="",beIN Sports Max 1
 https://tv1.arectv30.sbs/live/bm1.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Max 2"tvg-id="beN Sports Max 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3wvS_Ii7v6FGHBaq9Cm5CBqCKrB5qxQfU6WNNCGsXto33aOA6FgIUCXc&s=10"group-title="[TR] Spor":http-referrer="":http-user-agent="",beIN Sports Max 2
+#EXTINF:-1 tvg-name="beIN Sports Max 2"tvg-id="beN Sports Max 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3wvS_Ii7v6FGHBaq9Cm5CBqCKrB5qxQfU6WNNCGsXto33aOA6FgIUCXc&s=10"group-title="SPOR":http-referrer="":http-user-agent="",beIN Sports Max 2
 https://tv1.arectv30.sbs/live/bm2.m3u8
-#EXTINF:-1 tvg-name="FB TV.tr"tvg-id="FB TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzS70I58r2o70L-oPmTBqtL--C_sv4vR1Pw&s"group-title="[TR] Spor":http-referrer="":http-user-agent="",FB TV.tr
+#EXTINF:-1 tvg-name="FB TV.tr"tvg-id="FB TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzS70I58r2o70L-oPmTBqtL--C_sv4vR1Pw&s"group-title="SPOR":http-referrer="":http-user-agent="",FB TV.tr
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="HT Spor"tvg-id="HT Spor.tr"tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="[TR] Spor":http-referrer="":http-user-agent="",HT Spor
+#EXTINF:-1 tvg-name="HT Spor"tvg-id="HT Spor.tr"tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="SPOR":http-referrer="":http-user-agent="",HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="S SPORT"tvg-id="S SPORT.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",S SPORT
+#EXTINF:-1 tvg-name="S SPORT"tvg-id="S SPORT.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="SPOR":http-referrer="":http-user-agent="",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="S SPORT 2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="S SPORT 2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="SPOR":http-referrer="":http-user-agent="",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Sports Tv.tr"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",Sports TV
+#EXTINF:-1 tvg-name="Sports TV"tvg-id="Sports Tv.tr"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="SPOR":http-referrer="":http-user-agent="",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 4 HD"tvg-id="Tabii Spor 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="[TR] Spor":http-referrer="":http-user-agent="",Tabii Spor 4 HD
+#EXTINF:-1 tvg-name="Tabii Spor 4 HD"tvg-id="Tabii Spor 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="SPOR":http-referrer="":http-user-agent="",Tabii Spor 4 HD
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 5 HD"tvg-id="Tabii Spor 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="[TR] Spor":http-referrer="":http-user-agent="",Tabii Spor 5 HD
+#EXTINF:-1 tvg-name="Tabii Spor 5 HD"tvg-id="Tabii Spor 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="SPOR":http-referrer="":http-user-agent="",Tabii Spor 5 HD
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 6 HD"tvg-id="Tabii Spor 6.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="[TR] Spor":http-referrer="":http-user-agent="",Tabii Spor 6 HD
+#EXTINF:-1 tvg-name="Tabii Spor 6 HD"tvg-id="Tabii Spor 6.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="SPOR":http-referrer="":http-user-agent="",Tabii Spor 6 HD
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor#EXTVLCOPT:http-referrer="tvg-id="Tivibu Spor.tr"tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png"group-title="[TR] Spor":http-referrer="https://www.canlitv.my/":http-user-agent="",Tivibu Spor#EXTVLCOPT:http-referrer=
+#EXTINF:-1 tvg-name="Tivibu Spor#EXTVLCOPT:http-referrer="tvg-id="Tivibu Spor.tr"tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png"group-title="SPOR":http-referrer="https://www.canlitv.my/":http-user-agent="",Tivibu Spor#EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-referrer=https://www.canlitv.my/
 https://yayin2.canlitv.fun/live/tivibuspor.stream/playlist.m3u8?hash=3dd06ecfbcc65b7ae798a9ffb82986b6
-#EXTINF:-1 tvg-name="TJK TV"tvg-id="Spor_TJKTV"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TJK TV
+#EXTINF:-1 tvg-name="TJK TV"tvg-id="Spor_TJKTV"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="SPOR":http-referrer="":http-user-agent="",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
-#EXTINF:-1 tvg-name="TJK TV 2"tvg-id="Spor_TJKTV_2"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TJK TV 2
+#EXTINF:-1 tvg-name="TJK TV 2"tvg-id="Spor_TJKTV_2"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="SPOR":http-referrer="":http-user-agent="",TJK TV 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 1 FHD"tvg-id="Tivibu Spor 1.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TR: Tivibu Sport 1 FHD
+#EXTINF:-1 tvg-name="TR: Tivibu Sport 1 FHD"tvg-id="Tivibu Spor 1.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tivibu Sport 1 FHD
 https://tv1.arectv30.sbs/live/t1.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 2 FHD"tvg-id="Tivibu Spor 2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TR: Tivibu Sport 2 FHD
+#EXTINF:-1 tvg-name="TR: Tivibu Sport 2 FHD"tvg-id="Tivibu Spor 2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889043.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tivibu Sport 2 FHD
 https://tv1.arectv30.sbs/live/t2.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 4 FHD"tvg-id="Tivibu Spor 4.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TR: Tivibu Sport 4 FHD
+#EXTINF:-1 tvg-name="TR: Tivibu Sport 4 FHD"tvg-id="Tivibu Spor 4.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tivibu Sport 4 FHD
 https://tv1.arectv30.sbs/live/t4.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="SPOR":http-referrer="":http-user-agent="",TRT Spor
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&dfp_paln=AQzzBGQEgCRcf_WAZicRz-M1KieikSgFLDj203aRTx6OPWmFR-Y_opWbjFmN30KkANjbC0Cyx4fs5Q6QVuLi62BtGhJ_cBdr24SVPCz7prEAL2wadcHneIIdw6BlulQRu9gkBJ_dxSoNypBSwsPMZhnIpwtZejaMdbYweERSUuuh1CE4sQrLWr2btMJWJenD8n3gZQ3c6j9RvA4EHKDi94DaBPR-ektZozqbVrGdlvJ-fjXSQlnSfzuYjrAETUnzN0i2XlRQeNOmU3_R--on7qvK4U6DBmoBuOZ9YMAlW4rHI9MuynRT6NX4ee6XQEC59kbDKgDzHg8zvNrX5So4bMZYX8HFWRGmj198idUZW1fgtNPrapDSMtKampqT-OhCmL567GjkhtFhSG2yPITF2Q__ch7ciyCWnf3HgciU6uUZlTRcL0H7Lz5N6vOpcMPFUN3qmeECdEZTbDLB5xkSQuRF3DttNCxP0s_DgEX7CHdbdHj5nbkyEm6M1Q54n6TpnvlID-VDGVQg2kSPcnQmA_j021nMEJa4X7_Rc_w0uZd5HW4PPYlxn_RGT26Wdm99Aobec0x7A6_KEKWioZxEYaOyL9Wg4ZkSYqaD6naxgqm2cYyh6pgSh2tzOj8R4aAXdYy-AYYyYISDAxf__V-i6FG9JsaL6F-0CM3fRSdV6HEMvyMozjBFpRnx3wbTYJlIv2j4L0AmQK49gje2KY17lpR80c3tqAqrRyZuC-tkN2j5EAJW7IhBbDFY3V0Ujs5GhvZ-NBYznzpPlw9qmy3GI1zmascCNVlNfTVQFqo57QSTfA7aomqBo5acb_Vsixm6cKV6u5D0x17GLUIx26HzeT-0bxg4ZEShZM_8LKGSbTcXBjc0yaOgv6VIgShjzEJxR--5VD_1pgoccrqx5gKd0Q4cK0WOGIet5QG9n05FoS5QIDwAUJprvkZTiIW7f5_W8_PGBWCxGWHCmCckYjjLO6MJ4qwRnnx8EzUBp6-PG6GPScu20IlZK4dgs1NtlQ9o3CTnvlxTUlbMKtaHRzkhd3fZ708ouqCgN-hX4DNh8bIAX7Ae6b_pvGzLFtc75mJQmOEoc4xTMJedi5WK3Jb2cqeCeH1gQiTqbaO4
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="TRT Spor Yıldız.tr"tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png"group-title="[TR] Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="TRT Spor Yıldız.tr"tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png"group-title="SPOR":http-referrer="":http-user-agent="",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Yüzüklerin Efendisi 1 Yüzük Kardeşliği 2001"tvg-id="ext"tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/27070.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yüzüklerin Efendisi 1 Yüzük Kardeşliği 2001
 https://vidmody.com/vs/tt0120737
@@ -5142,3 +5148,699 @@ http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7298.mkv
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7299.mkv
 #EXTINF:-1 tvg-name="YD-Homeland S08E12"tvg-id=""tvg-logo=""group-title="HOMELAND":http-referrer="":http-user-agent="",YD-Homeland S08E12
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7300.mkv
+#EXTINF:-1 tvg-name="TR: CHASSE ET PECHE"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BELGESELL/CHASSE.PECHE.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: CHASSE ET PECHE
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/106148
+#EXTINF:-1 tvg-name="✦✦ 7/24  BELGESEL ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",✦✦ 7/24  BELGESEL ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/70940
+#EXTINF:-1 tvg-name="TR : DÜNYAMIZ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DÜNYAMIZ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/156451
+#EXTINF:-1 tvg-name="TR : GİZLİ CENNETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : GİZLİ CENNETLER
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/13496
+#EXTINF:-1 tvg-name="TR : DOĞA HARİKALARI"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DOĞA HARİKALARI
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/34282
+#EXTINF:-1 tvg-name="TR : HAYVANLAR ALEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : HAYVANLAR ALEMİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/111970
+#EXTINF:-1 tvg-name="TR : VAHŞİ DOĞA"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ DOĞA
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/14400
+#EXTINF:-1 tvg-name="TR : VAHŞİ SERÜVENLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ SERÜVENLER
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/83019
+#EXTINF:-1 tvg-name="TR : OKYANUSUN DERİNLİKLERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : OKYANUSUN DERİNLİKLERİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/111961
+#EXTINF:-1 tvg-name="TR : SHARK TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : SHARK TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/42985
+#EXTINF:-1 tvg-name="TR : DİNAZORLAR DEVRİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DİNAZORLAR DEVRİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/111471
+#EXTINF:-1 tvg-name="TR : EVREN'in GİZEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : EVREN'in GİZEMİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/61016
+#EXTINF:-1 tvg-name="TR : GALAKTİK DÜZEN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : GALAKTİK DÜZEN
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/117406
+#EXTINF:-1 tvg-name="TR : UZAY BİLİMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : UZAY BİLİMİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/156344
+#EXTINF:-1 tvg-name="TR : BERMUDA ŞEYTAN ÜÇGENİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : BERMUDA ŞEYTAN ÜÇGENİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/76900
+#EXTINF:-1 tvg-name="TR : ANTİK MEDENİYETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : ANTİK MEDENİYETLER
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/40096
+#EXTINF:-1 tvg-name="TR : SAVAŞ'IN EFSANELERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : SAVAŞ'IN EFSANELERİ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/154226
+#EXTINF:-1 tvg-name="TR: İZ BIRAKANLAR"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: İZ BIRAKANLAR
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/16081
+#EXTINF:-1 tvg-name="✦✦ CINEBOX ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",✦✦ CINEBOX ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11333
+#EXTINF:-1 tvg-name="DOLBY TV Yerli Vizyon 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli Vizyon 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/56628
+#EXTINF:-1 tvg-name="DOLBY TV Yerli Vizyon 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli Vizyon 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/94566
+#EXTINF:-1 tvg-name="DOLBY TV Yerli 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/134890
+#EXTINF:-1 tvg-name="DOLBY TV Yerli 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/86932
+#EXTINF:-1 tvg-name="DOLBY TV Yerli 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/35572
+#EXTINF:-1 tvg-name="DOLBY TV Yerli 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Yerli 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/82722
+#EXTINF:-1 tvg-name="DOLBY TV Vizyon 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Vizyon 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/64007
+#EXTINF:-1 tvg-name="DOLBY TV Vizyon 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Vizyon 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/117408
+#EXTINF:-1 tvg-name="DOLBY TV Aksiyon 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Aksiyon 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/1271
+#EXTINF:-1 tvg-name="DOLBY TV Aksiyon 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Aksiyon 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/147212
+#EXTINF:-1 tvg-name="DOLBY TV Fantasy 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Fantasy 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/4255
+#EXTINF:-1 tvg-name="DOLBY TV Fantasy 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Fantasy 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/18268
+#EXTINF:-1 tvg-name="DOLBY TV Bilimkurgu 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Bilimkurgu 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/134960
+#EXTINF:-1 tvg-name="DOLBY TV Bilimkurgu 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Bilimkurgu 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/53065
+#EXTINF:-1 tvg-name="DOLBY TV  Korku 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV  Korku 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/83492
+#EXTINF:-1 tvg-name="DOLBY TV  Korku 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV  Korku 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/2011
+#EXTINF:-1 tvg-name="DOLBY TV Gerilim 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Gerilim 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/27174
+#EXTINF:-1 tvg-name="DOLBY TV Macera 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Macera 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/120016
+#EXTINF:-1 tvg-name="DOLBY TV Macera 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Macera 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/130392
+#EXTINF:-1 tvg-name="DOLBY TV Netflix 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Netflix 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/70377
+#EXTINF:-1 tvg-name="DOLBY TV Netflix 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Netflix 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/89280
+#EXTINF:-1 tvg-name="DOLBY TV Romantik 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Romantik 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/142765
+#EXTINF:-1 tvg-name="DOLBY TV Romantik 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Romantik 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/144842
+#EXTINF:-1 tvg-name="DOLBY TV Komedi 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Komedi 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/14865
+#EXTINF:-1 tvg-name="DOLBY TV Komedi 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Komedi 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/102189
+#EXTINF:-1 tvg-name="DOLBY TV Dram 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Dram 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/56554
+#EXTINF:-1 tvg-name="DOLBY TV Dram 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Dram 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/164542
+#EXTINF:-1 tvg-name="DOLBY TV Uzakdoğu 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Uzakdoğu 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/133453
+#EXTINF:-1 tvg-name="DOLBY TV Uzakdoğu 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Uzakdoğu 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/38448
+#EXTINF:-1 tvg-name="DOLBY TV Western 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Western 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/152940
+#EXTINF:-1 tvg-name="DOLBY TV Western 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Western 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/75515
+#EXTINF:-1 tvg-name="DOLBY TV IMDB ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV IMDB ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/9735
+#EXTINF:-1 tvg-name="DOLBY TV Savaş ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Savaş ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/36566
+#EXTINF:-1 tvg-name="DOLBY TV Nostalji ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Nostalji ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/25512
+#EXTINF:-1 tvg-name="DOLBY TV Animasyon ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Animasyon ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/120095
+#EXTINF:-1 tvg-name="DOLBY TV Premier 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Premier 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/143756
+#EXTINF:-1 tvg-name="DOLBY TV Premier 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Premier 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/15039
+#EXTINF:-1 tvg-name="DOLBY TV Premier 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Premier 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/114629
+#EXTINF:-1 tvg-name="DOLBY TV Premier 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Premier 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/41440
+#EXTINF:-1 tvg-name="DOLBY TV Premier 5 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Premier 5 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/36270
+#EXTINF:-1 tvg-name="DOLBY TV Loca 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Loca 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/38875
+#EXTINF:-1 tvg-name="DOLBY TV Loca 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Loca 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/26452
+#EXTINF:-1 tvg-name="DOLBY TV Loca 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Loca 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/31813
+#EXTINF:-1 tvg-name="DOLBY TV Loca 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Loca 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/59316
+#EXTINF:-1 tvg-name="DOLBY TV Loca 5 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",DOLBY TV Loca 5 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/38575
+#EXTINF:-1 tvg-name="TR: MAX AKSİYON 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.AKSIYON.1.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX AKSİYON 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/117921
+#EXTINF:-1 tvg-name="TR: MAX AKSİYON 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.AKSIYON.2.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX AKSİYON 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/17136
+#EXTINF:-1 tvg-name="TR: MAX PREMIER HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.PREMIER.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX PREMIER HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/126645
+#EXTINF:-1 tvg-name="TR: MAX VİZYON 1 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.1.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX VİZYON 1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/83842
+#EXTINF:-1 tvg-name="TR: MAX VİZYON 2 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.2.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX VİZYON 2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/153617
+#EXTINF:-1 tvg-name="TR: MAX VİZYON 3 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.3.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX VİZYON 3 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/9786
+#EXTINF:-1 tvg-name="TR: MAX VİZYON 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.4.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX VİZYON 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/19332
+#EXTINF:-1 tvg-name="TR: MAX TURK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.TURK.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX TURK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/143516
+#EXTINF:-1 tvg-name="TR: MAX GOLD HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.GOLD.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX GOLD HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/120322
+#EXTINF:-1 tvg-name="TR: MAX HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/13192
+#EXTINF:-1 tvg-name="TR: MAX KINO COLLECTION HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.KINO.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX KINO COLLECTION HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/166926
+#EXTINF:-1 tvg-name="TR: MAX WESTERN HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.WESTERN.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX WESTERN HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/38343
+#EXTINF:-1 tvg-name="TR: MAX STAR WARS HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.STAR.WARS.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX STAR WARS HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/132769
+#EXTINF:-1 tvg-name="TR: Max ⁴ᴷ ғʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.4K.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: Max ⁴ᴷ ғʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/146982
+#EXTINF:-1 tvg-name="TR: MAX ORJİNAL ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.ORJINAL.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX ORJİNAL ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/124473
+#EXTINF:-1 tvg-name="TR: MAX 007 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.007.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: MAX 007 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/63947
+#EXTINF:-1 tvg-name="TR: BLUETV WESTERN 1 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/BLUETV.WESTERN.1.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: BLUETV WESTERN 1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/158816
+#EXTINF:-1 tvg-name="TR: BLUETV WESTERN  2 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/BLUETV.WESTERN.2.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",TR: BLUETV WESTERN  2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/30073
+#EXTINF:-1 tvg-name="✦✦ CINEMAXIMUM ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",✦✦ CINEMAXIMUM ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/121160
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Aksiyon ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/AKSIYON.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Aksiyon ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/28328
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Bilimkurgu ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/BILIM.KURGU.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Bilimkurgu ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11713
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Korku  ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/KORKU.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Korku  ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/131545
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Fantastik ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/FANTASTIK.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Fantastik ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/95961
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Suç ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/SUC.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Suç ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/111234
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Gerilim ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/GERILIM.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Gerilim ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/110268
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Gizem ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/GIZEM.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Gizem ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/112241
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Macera ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/MACERA.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Macera ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/28090
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Dram ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/DRAM.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Dram ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/35256
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Komedi ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/KOMEDI.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Komedi ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/15390
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Romantik ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/ROMANTIK.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Romantik ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/99149
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Bollywood ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/BOLLYWOOD.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Bollywood ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/132859
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Animasyon ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/ANIMASYON.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Animasyon ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/158761
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Yerli 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.1.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Yerli 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/104440
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Yerli 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.2.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Yerli 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/6410
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Yerli 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.3.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Yerli 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/108163
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Yerli 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.4.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Yerli 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/140153
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM Yerli 5 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.5.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM Yerli 5 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/23308
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/1.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/34026
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/2.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/104110
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/3.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/42938
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 4 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/4.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 4 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/60115
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 5 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/5.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 5 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/134361
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 6 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/6.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 6 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/117814
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 7 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/7.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 7 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/123203
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 8 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/8.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 8 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/23219
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM  9 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/9.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM  9 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/141594
+#EXTINF:-1 tvg-name="TR: CINEMAXIMUM 10 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEMAXIMUMM/10.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: CINEMAXIMUM 10 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/9050
+#EXTINF:-1 tvg-name="✦★ EXXEN SHOW 7/24 ★✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",✦★ EXXEN SHOW 7/24 ★✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/75396
+#EXTINF:-1 tvg-name="TR: KONUŞANLAR 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/KONUSANLAR.1.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: KONUŞANLAR 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/33747
+#EXTINF:-1 tvg-name="TR: KONUŞANLAR 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/KONUSANLAR.2.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: KONUŞANLAR 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/72359
+#EXTINF:-1 tvg-name="TR: KONUŞANLAR 3 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/KONUSANLAR.3.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: KONUŞANLAR 3 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/76402
+#EXTINF:-1 tvg-name="TR: GİBİ  ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/GIBI.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: GİBİ  ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44636
+#EXTINF:-1 tvg-name="TR: O SES TÜRKİYE RAP ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/O.SES.RAP.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: O SES TÜRKİYE RAP ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/129589
+#EXTINF:-1 tvg-name="TR: LEYLA ile MECNUN ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/LEYLA.ILE.MECNUN.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: LEYLA ile MECNUN ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/135820
+#EXTINF:-1 tvg-name="TR: BELGESEL ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/BELGESEL.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: BELGESEL ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/96802
+#EXTINF:-1 tvg-name="TR: EXXEN TV 1 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/KANAL.1.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: EXXEN TV 1 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/103232
+#EXTINF:-1 tvg-name="TR: EXXEN TV 2 ʜᴅ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/KANAL.2.png"group-title="EXXEN SHOW":http-referrer="":http-user-agent="",TR: EXXEN TV 2 ʜᴅ
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/136326
+#EXTINF:-1 tvg-name="TR: Dinamik Western HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/DINAMIK.WESTERN.png"group-title="CINEMAXIMUM SİNEMA":http-referrer="":http-user-agent="",TR: Dinamik Western HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/118758
+#EXTINF:-1 tvg-name="✦✦ YEŞİLÇAM ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",✦✦ YEŞİLÇAM ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/53242
+#EXTINF:-1 tvg-name="TR: HABABAM SINIFI"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: HABABAM SINIFI
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/58632
+#EXTINF:-1 tvg-name="TR: KEMAL SUNAL 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KEMAL SUNAL 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/43127
+#EXTINF:-1 tvg-name="TR: KEMAL SUNAL 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KEMAL SUNAL 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/90885
+#EXTINF:-1 tvg-name="TR: KEMAL SUNAL 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KEMAL SUNAL 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/20964
+#EXTINF:-1 tvg-name="TR: KEMAL SUNAL 4"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KEMAL SUNAL 4
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11137
+#EXTINF:-1 tvg-name="TR: CÜNEYT ARKIN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: CÜNEYT ARKIN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/99356
+#EXTINF:-1 tvg-name="TR: CÜNEYT ARKIN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: CÜNEYT ARKIN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/91105
+#EXTINF:-1 tvg-name="TR: CÜNEYT ARKIN 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: CÜNEYT ARKIN 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/13123
+#EXTINF:-1 tvg-name="TR: KADİR İNANIR 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KADİR İNANIR 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/99886
+#EXTINF:-1 tvg-name="TR: KADİR İNANIR 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KADİR İNANIR 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/135203
+#EXTINF:-1 tvg-name="TR: ŞENER ŞEN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: ŞENER ŞEN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/9330
+#EXTINF:-1 tvg-name="TR: ŞENER ŞEN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: ŞENER ŞEN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/64658
+#EXTINF:-1 tvg-name="TR: TARIK AKAN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: TARIK AKAN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/162588
+#EXTINF:-1 tvg-name="TR: TARIK AKAN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: TARIK AKAN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/3815
+#EXTINF:-1 tvg-name="TR: İLYAS SALMAN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: İLYAS SALMAN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/125706
+#EXTINF:-1 tvg-name="TR: İLYAS SALMAN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: İLYAS SALMAN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/145095
+#EXTINF:-1 tvg-name="TR: ZEKİ & METİN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: ZEKİ & METİN
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/118114
+#EXTINF:-1 tvg-name="TR: FERDİ TAYFUR 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: FERDİ TAYFUR 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/53325
+#EXTINF:-1 tvg-name="TR: KÜÇÜK EMRAH 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KÜÇÜK EMRAH 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/119597
+#EXTINF:-1 tvg-name="TR: MÜSLÜM GÜRSES"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: MÜSLÜM GÜRSES
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/31399
+#EXTINF:-1 tvg-name="TR: İBRAHİM TATLISES"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: İBRAHİM TATLISES
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/42336
+#EXTINF:-1 tvg-name="TR: ORHAN GENCEBAY"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: ORHAN GENCEBAY
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/168393
+#EXTINF:-1 tvg-name="TR: KARTAL TİBET 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KARTAL TİBET 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/36421
+#EXTINF:-1 tvg-name="TR: KARTAL TİBET 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KARTAL TİBET 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44675
+#EXTINF:-1 tvg-name="TR: YILMAZ GÜNEY 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YILMAZ GÜNEY 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/120561
+#EXTINF:-1 tvg-name="TR: YILMAZ GÜNEY 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YILMAZ GÜNEY 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/63890
+#EXTINF:-1 tvg-name="TR: SADRİ ALIŞIK 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: SADRİ ALIŞIK 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/31552
+#EXTINF:-1 tvg-name="TR: SADRİ ALIŞIK 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: SADRİ ALIŞIK 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/157911
+#EXTINF:-1 tvg-name="TR: EDİZ HUN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: EDİZ HUN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/28394
+#EXTINF:-1 tvg-name="TR: EDİZ HUN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: EDİZ HUN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/79847
+#EXTINF:-1 tvg-name="TR: AYHAN IŞIK 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: AYHAN IŞIK 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/94420
+#EXTINF:-1 tvg-name="TR: AYHAN IŞIK 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: AYHAN IŞIK 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/124247
+#EXTINF:-1 tvg-name="TR: KELOĞLAN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: KELOĞLAN
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/35934
+#EXTINF:-1 tvg-name="TR: TÜRKAN ŞORAY 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: TÜRKAN ŞORAY 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/8472
+#EXTINF:-1 tvg-name="TR: TÜRKAN ŞORAY 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: TÜRKAN ŞORAY 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/839
+#EXTINF:-1 tvg-name="TR: FATMA GİRİK 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: FATMA GİRİK 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/50917
+#EXTINF:-1 tvg-name="TR: FATMA GİRİK 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: FATMA GİRİK 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/57844
+#EXTINF:-1 tvg-name="TR: HÜLYA KOÇYİĞİT 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: HÜLYA KOÇYİĞİT 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/56676
+#EXTINF:-1 tvg-name="TR: HÜLYA KOÇYİĞİT 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: HÜLYA KOÇYİĞİT 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/39513
+#EXTINF:-1 tvg-name="TR: GÜLŞEN BUBİKOĞLU 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: GÜLŞEN BUBİKOĞLU 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/39464
+#EXTINF:-1 tvg-name="TR: FİLİZ AKIN 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: FİLİZ AKIN 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/151701
+#EXTINF:-1 tvg-name="TR: FİLİZ AKIN 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: FİLİZ AKIN 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11478
+#EXTINF:-1 tvg-name="TR: BELGİN DORUK 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: BELGİN DORUK 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/54873
+#EXTINF:-1 tvg-name="TR: BELGİN DORUK 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: BELGİN DORUK 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/8787
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/43380
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/34417
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/129470
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  4"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  4
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/84935
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  5"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  5
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/105863
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  6"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  6
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/12706
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  7"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  7
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/26879
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  8"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  8
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/102183
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA  9"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA  9
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/89478
+#EXTINF:-1 tvg-name="TR: YEŞİLÇAM LOCA 10"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: YEŞİLÇAM LOCA 10
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/132930
+#EXTINF:-1 tvg-name="TR: NOSTALJİ  LOCA 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: NOSTALJİ  LOCA 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/75864
+#EXTINF:-1 tvg-name="TR: NOSTALJİ  LOCA 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: NOSTALJİ  LOCA 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/145724
+#EXTINF:-1 tvg-name="TR: NOSTALJİ  LOCA 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: NOSTALJİ  LOCA 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/30873
+#EXTINF:-1 tvg-name="TR: NOSTALJİ  LOCA 4"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: NOSTALJİ  LOCA 4
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/12963
+#EXTINF:-1 tvg-name="TR: NOSTALJİ  LOCA 5"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png"group-title="YEŞİLÇAM  NOSTALJİ":http-referrer="":http-user-agent="",TR: NOSTALJİ  LOCA 5
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11972
+#EXTINF:-1 tvg-name="✦✦ S SPORT ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="SPOR":http-referrer="":http-user-agent="",✦✦ S SPORT ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44623
+#EXTINF:-1 tvg-name="TR: S-SPORT 1 FHD"tvg-id="ssport.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 1 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/71749
+#EXTINF:-1 tvg-name="TR: S-SPORT 1 HD"tvg-id="ssport.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/13736
+#EXTINF:-1 tvg-name="TR: S-SPORT 1 SD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 1 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/96209
+#EXTINF:-1 tvg-name="TR: S-SPORT 2 FHD"tvg-id="ssport2.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 2 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/102736
+#EXTINF:-1 tvg-name="TR: S-SPORT 2 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/61210
+#EXTINF:-1 tvg-name="TR: S-SPORT 2 SD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S-SPORT 2 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/93388
+#EXTINF:-1 tvg-name="TR: S Sport+1 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.1.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+1 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/140143
+#EXTINF:-1 tvg-name="TR: S Sport+2 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.2.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+2 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/114907
+#EXTINF:-1 tvg-name="TR: S Sport+3 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.3.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+3 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11332
+#EXTINF:-1 tvg-name="TR: S Sport+4 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.4.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+4 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/17471
+#EXTINF:-1 tvg-name="TR: S Sport+5 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.5.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+5 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/154120
+#EXTINF:-1 tvg-name="TR: S Sport+6 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.6.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+6 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/139705
+#EXTINF:-1 tvg-name="TR: S Sport+7 Maç Saati Aktif"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/PLUS.7.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: S Sport+7 Maç Saati Aktif
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/95505
+#EXTINF:-1 tvg-name="✦  ✦ BEIN SPORTS  ✦ ✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="SPOR":http-referrer="":http-user-agent="",✦  ✦ BEIN SPORTS  ✦ ✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/125033
+#EXTINF:-1 tvg-name="TR: beIN SPORTS HABER HD"tvg-id="beinsportshaber.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.HABER.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS HABER HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/155847
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 1 RAW"tvg-id="taraftar1.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.RAW.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 1 RAW
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/32551
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 2 FHD"tvg-id="taraftar2.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 2 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/143131
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 2 HD"tvg-id="taraftar2.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/148075
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 2 SD"tvg-id="taraftar2.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 2 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/114123
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 3 FHD"tvg-id="beinsports3.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 3 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/19218
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 3 HD"tvg-id="beinsports3.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 3 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/63479
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 3 SD"tvg-id="beinsports3.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 3 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/104267
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 4 FHD"tvg-id="beinsports4.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 4 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/24606
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 4 HD"tvg-id="beinsports4.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 4 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/46669
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 4 SD"tvg-id="beinsports4.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 4 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/122537
+#EXTINF:-1 tvg-name="TR: beIN SPORTS 5 FHD"tvg-id="beinsports5.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.FHD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS 5 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/3461
+#EXTINF:-1 tvg-name="TR: bEIN SPORTS 5 HD"tvg-id="beinsports5.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.HD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN SPORTS 5 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/107904
+#EXTINF:-1 tvg-name="TR: bEIN SPORTS 5 SD"tvg-id="beinsports5.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.SD.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN SPORTS 5 SD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/149161
+#EXTINF:-1 tvg-name="TR: beIN SPORTS MAX 1 FHD"tvg-id="beinsportsmax1.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.1.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS MAX 1 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/10065
+#EXTINF:-1 tvg-name="TR: beIN SPORTS MAX 2 FHD"tvg-id="beinsportsmax2.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.2.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: beIN SPORTS MAX 2 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/158878
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.1.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/127511
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.2.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/103792
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.3.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/106452
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 4"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.4.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 4
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/22121
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 5"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.5.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 5
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/89842
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 6"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.6.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 6
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/50138
+#EXTINF:-1 tvg-name="✦✦ TABII SPOR ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="SPOR":http-referrer="":http-user-agent="",✦✦ TABII SPOR ✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/48675
+#EXTINF:-1 tvg-name="TR: Tabii Spor FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/0.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/87159
+#EXTINF:-1 tvg-name="TR: Tabii Spor 1 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/1.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 1 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/81051
+#EXTINF:-1 tvg-name="TR: Tabii Spor 2 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/2.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 2 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/156472
+#EXTINF:-1 tvg-name="TR: Tabii Spor 3 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/3.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 3 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/95166
+#EXTINF:-1 tvg-name="TR: Tabii Spor 4 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/4.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 4 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/56469
+#EXTINF:-1 tvg-name="TR: Tabii Spor 5 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/5.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 5 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/65129
+#EXTINF:-1 tvg-name="TR: Tabii Spor 6 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/6.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 6 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/162055
+#EXTINF:-1 tvg-name="TR: Tabii Spor 7 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/7.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 7 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/147291
+#EXTINF:-1 tvg-name="TR: Tabii Spor 8 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/8.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 8 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/49180
+#EXTINF:-1 tvg-name="TR: Tabii Spor 9 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TABII/9.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: Tabii Spor 9 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/92774
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 7"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.7.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 7
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/19677
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 8"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.8.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 8
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/145966
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 9"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.9.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 9
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/15360
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 10"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.10.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 10
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/159662
+#EXTINF:-1 tvg-name="TR: bEIN CONNECT 11"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.11.png"group-title="SPOR":http-referrer="":http-user-agent="",TR: bEIN CONNECT 11
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/34680
+#EXTINF:-1 tvg-name="✦✦TÜRK ÇOCUKLAR✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",✦✦TÜRK ÇOCUKLAR✦✦
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/138815
+#EXTINF:-1 tvg-name="TR: TRT ÇOCUK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/TRT.COCUK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: TRT ÇOCUK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/15821
+#EXTINF:-1 tvg-name="TR: BABY TV HD"tvg-id="babytv.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BABY.TV.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BABY TV HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/46169
+#EXTINF:-1 tvg-name="TR: DUCK TV"tvg-id="ducktv.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/DUCK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: DUCK TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/123202
+#EXTINF:-1 tvg-name="TR: NICK JR HD"tvg-id="nickjr.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/NICKJR.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: NICK JR HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/17036
+#EXTINF:-1 tvg-name="TR: NICKELODEON HD"tvg-id="nickelodeonhd.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/NICKELEDON.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: NICKELODEON HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/85192
+#EXTINF:-1 tvg-name="TR: NICKTOONS"tvg-id="nicktoons.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/NICK.TOONS.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: NICKTOONS
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/169641
+#EXTINF:-1 tvg-name="TR: CARTOONITO HD"tvg-id="cartoonito.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BOOMERANG.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: CARTOONITO HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/107149
+#EXTINF:-1 tvg-name="TR: CARTOON NETWORK HD"tvg-id="cartoonnetwork.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/CARTOON.NETWORK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: CARTOON NETWORK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/117708
+#EXTINF:-1 tvg-name="TR: DISNEY JR FHD"tvg-id="disneyjunior.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/DISNEY.JUNIOR.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: DISNEY JR FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/47159
+#EXTINF:-1 tvg-name="TR: MINIKA GO"tvg-id="minikago.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MINIKA.GO.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MINIKA GO
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/104886
+#EXTINF:-1 tvg-name="TR: MINIKA COCUK"tvg-id="minikacocuk.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MINIKA.COCUK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MINIKA COCUK
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/20524
+#EXTINF:-1 tvg-name="TR: CBEEBiES HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/CBEEBIES.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: CBEEBiES HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/90936
+#EXTINF:-1 tvg-name="TR: SMART COCUK FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/SMART.COCUK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: SMART COCUK FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/58639
+#EXTINF:-1 tvg-name="TR: PEPEE TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/PEPEE.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: PEPEE TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/49356
+#EXTINF:-1 tvg-name="TR: KRAL ŞAKİR HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: KRAL ŞAKİR HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/51821
+#EXTINF:-1 tvg-name="TR: KUKULI TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/KUKULI.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: KUKULI TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/17519
+#EXTINF:-1 tvg-name="TR: PIJAMA MASKELILER TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: PIJAMA MASKELILER TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/66359
+#EXTINF:-1 tvg-name="TR: RAFADAN TAYFA HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: RAFADAN TAYFA HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/78160
+#EXTINF:-1 tvg-name="TR: PAW PATROL TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/PAV.PETROL.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: PAW PATROL TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/50245
+#EXTINF:-1 tvg-name="TR: PATRON BEBEK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/PATRON.BEBEK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: PATRON BEBEK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/51832
+#EXTINF:-1 tvg-name="TR: Booba TV HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BOOBA.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: Booba TV HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/25302
+#EXTINF:-1 tvg-name="TR: POKEMON HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/POKEMON.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: POKEMON HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/127190
+#EXTINF:-1 tvg-name="TR: ODDBODS HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/ODDBODS.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ODDBODS HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/168232
+#EXTINF:-1 tvg-name="TR: SUNGER BOB HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/SUNGERBOB.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: SUNGER BOB HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44026
+#EXTINF:-1 tvg-name="TR: MAX ANİMASYON 1 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MAX.ANIMATION.1.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MAX ANİMASYON 1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/42922
+#EXTINF:-1 tvg-name="TR: MAX ANİMASYON 2 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MAX.ANIMATION.2.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MAX ANİMASYON 2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/7567
+#EXTINF:-1 tvg-name="TR: BlueTV ÇOCUK ŞARKILARI HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BLUETV.COCUK.SARKILARI.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BlueTV ÇOCUK ŞARKILARI HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/27055
+#EXTINF:-1 tvg-name="TR: BlueTV ÇOCUK 1 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BLUETV.COCUK.1.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BlueTV ÇOCUK 1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/167888
+#EXTINF:-1 tvg-name="TR: BlueTV ÇOCUK 2 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/BLUETV.COCUK.2.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BlueTV ÇOCUK 2 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/127166
+#EXTINF:-1 tvg-name="TR: NİLOYA HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/NILOYA.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: NİLOYA HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/169152
+#EXTINF:-1 tvg-name="TR: ŞİRİNLER HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/SIRINLER.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ŞİRİNLER HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/83843
+#EXTINF:-1 tvg-name="TR: REDKİT HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/REDKIT.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: REDKİT HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/159261
+#EXTINF:-1 tvg-name="TR: BlueTV HE-MAN HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/HEMAN.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BlueTV HE-MAN HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/23326
+#EXTINF:-1 tvg-name="TR: TOM & JERRY HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/TOM.VE.JERY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: TOM & JERRY HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/128777
+#EXTINF:-1 tvg-name="TR: MAŞA ile KOCA AYI HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MASA.ILE.KOCA.AYI.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MAŞA ile KOCA AYI HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/124344
+#EXTINF:-1 tvg-name="TR: NİNJA KAPLUMBAĞALAR HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/NINJA.KAPLUMBAGALAR.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: NİNJA KAPLUMBAĞALAR HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/87002
+#EXTINF:-1 tvg-name="TR: BlueTV Müfettiş Gadget HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MUFETTIS.GADGET.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: BlueTV Müfettiş Gadget HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/156825
+#EXTINF:-1 tvg-name="TR: MOONBUG KIDS TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/MOONBUQ.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: MOONBUG KIDS TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/33613
+#EXTINF:-1 tvg-name="TR: TRT DIYANET COCUK"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/COCUKK/TRT.DIYANET.COCUK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: TRT DIYANET COCUK
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/36989
+#EXTINF:-1 tvg-name="TR: DORU"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: DORU
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/159340
+#EXTINF:-1 tvg-name="TR : GUMBALL"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR : GUMBALL
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/92735
+#EXTINF:-1 tvg-name="TR : HEIDI"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR : HEIDI
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/57412
+#EXTINF:-1 tvg-name="TR : KELOĞLAN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR : KELOĞLAN
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/14635
+#EXTINF:-1 tvg-name="TR : Limon ile Zeytin"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR : Limon ile Zeytin
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/60356
+#EXTINF:-1 tvg-name="TR : PIRIL"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR : PIRIL
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/133772
+#EXTINF:-1 tvg-name="TR: RICHIE RICH"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: RICHIE RICH
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/111659
+#EXTINF:-1 tvg-name="TR: SCOOBY DOO"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: SCOOBY DOO
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/75681
+#EXTINF:-1 tvg-name="TR: ŞEKER HOCA"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ŞEKER HOCA
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/82791
+#EXTINF:-1 tvg-name="TR: Tenten"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: Tenten
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/160639
+#EXTINF:-1 tvg-name="TR: ZORRO"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ZORRO
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/121973
+#EXTINF:-1 tvg-name="*** 7 / 24 DOLBY ANİMASYON ***"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",*** 7 / 24 DOLBY ANİMASYON ***
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/158921
+#EXTINF:-1 tvg-name="TR: ÇİZGİ FİLM 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ÇİZGİ FİLM 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/25118
+#EXTINF:-1 tvg-name="TR: ÇİZGİ FİLM 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ÇİZGİ FİLM 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/103275
+#EXTINF:-1 tvg-name="TR: ÇİZGİ FİLM 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ÇİZGİ FİLM 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/32391
+#EXTINF:-1 tvg-name="TR: LEGO FİLM"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: LEGO FİLM
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/119995
+#EXTINF:-1 tvg-name="TR: ANİMASYON VİZYON  1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON VİZYON  1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/63926
+#EXTINF:-1 tvg-name="TR: ANİMASYON VİZYON  2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON VİZYON  2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/75303
+#EXTINF:-1 tvg-name="TR: ANİMASYON VİZYON  3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON VİZYON  3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/157943
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 1"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 1
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/115530
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 2"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 2
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/97590
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 3"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 3
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/160002
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 4"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 4
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/67427
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 5"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 5
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/95343
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 6"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 6
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/58478
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 7"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 7
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/146511
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 8"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 8
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/127330
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 9"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 9
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/167656
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 10"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 10
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44611
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 11"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 11
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/98102
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 12"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 12
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/108809
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 13"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 13
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/61101
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 14"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 14
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/52268
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 15"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 15
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/62349
+#EXTINF:-1 tvg-name="TR: ANİMASYON FİLM 16"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="ÇOCUK":http-referrer="":http-user-agent="",TR: ANİMASYON FİLM 16
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/115969
+#EXTINF:-1 tvg-name="♫♫♫♫ TURK MUZIK ♫♫♫♫"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",♫♫♫♫ TURK MUZIK ♫♫♫♫
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/47553
+#EXTINF:-1 tvg-name="TR: KRAL TV HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KRAL.TV.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: KRAL TV HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/13435
+#EXTINF:-1 tvg-name="TR: KRAL POP HD"tvg-id="kralpop.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KRAL.POP.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: KRAL POP HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/76544
+#EXTINF:-1 tvg-name="TR: NR1 FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/116455
+#EXTINF:-1 tvg-name="TR: NR1 TURK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.TURK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 TURK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/158040
+#EXTINF:-1 tvg-name="TR: NR1 HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/119783
+#EXTINF:-1 tvg-name="TR: NR1 DANCE HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.DANCE.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 DANCE HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/139694
+#EXTINF:-1 tvg-name="TR: NR1 AŞK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.ASK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 AŞK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/19180
+#EXTINF:-1 tvg-name="TR: NR1 DAMAR HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.DAMAR.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NR1 DAMAR HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/85345
+#EXTINF:-1 tvg-name="TR: MILYON TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MILYON.TV.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: MILYON TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/50677
+#EXTINF:-1 tvg-name="TR: TRT Müzik FHD"tvg-id="trtmuzik.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TRT.MUZIK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TRT Müzik FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/139486
+#EXTINF:-1 tvg-name="TR: TRT Müzik HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TRT.MUZIK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TRT Müzik HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/121678
+#EXTINF:-1 tvg-name="TR: DREAM TV HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/DREAMTV.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: DREAM TV HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/53041
+#EXTINF:-1 tvg-name="TR: DREAM TURK HD"tvg-id="dreamturk.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/DREAM.TURK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: DREAM TURK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/60742
+#EXTINF:-1 tvg-name="TR: TATLISES TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TATLISES.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TATLISES TV
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/109772
+#EXTINF:-1 tvg-name="TR: POWER TURK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/POWER.TURK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER TURK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/44238
+#EXTINF:-1 tvg-name="TR: POWER HD"tvg-id="powertv.tr"tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/POWER.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/126020
+#EXTINF:-1 tvg-name="TR: POWER DANCE"tvg-id=""tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2556.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER DANCE
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/66058
+#EXTINF:-1 tvg-name="TR: POWER LOVE"tvg-id=""tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2559.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER LOVE
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/101948
+#EXTINF:-1 tvg-name="TR: POWER TÜRK AKUSTIK"tvg-id=""tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2542.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER TÜRK AKUSTIK
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/89959
+#EXTINF:-1 tvg-name="TR: POWER TÜRK SLOW"tvg-id=""tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2577.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER TÜRK SLOW
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/27767
+#EXTINF:-1 tvg-name="TR: POWER TÜRK TAPTAZE"tvg-id=""tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2534.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: POWER TÜRK TAPTAZE
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/46803
+#EXTINF:-1 tvg-name="TR: OYUN HAVALARI HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/OYUN.HAVASI.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: OYUN HAVALARI HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/119712
+#EXTINF:-1 tvg-name="TR: TÜRKÇE POP HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TURKCE.POP.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TÜRKÇE POP HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/63522
+#EXTINF:-1 tvg-name="TR: TÜRKÇE RAP HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TURKCE.RAP.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TÜRKÇE RAP HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/168964
+#EXTINF:-1 tvg-name="TR: TÜRKÇE SLOW HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TURKCE.SLOW.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: TÜRKÇE SLOW HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/23810
+#EXTINF:-1 tvg-name="TR: YABANCI RAP HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/YABANCI.RAP.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: YABANCI RAP HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/56456
+#EXTINF:-1 tvg-name="TR: YABANCI POP HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/YABANCI.POP.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: YABANCI POP HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/112352
+#EXTINF:-1 tvg-name="TR: KARADENİZ MÜZİK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KARADENIZ.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: KARADENİZ MÜZİK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/69905
+#EXTINF:-1 tvg-name="TR: ARABESK TÜRK HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/ARABESK.TURK.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: ARABESK TÜRK HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/150195
+#EXTINF:-1 tvg-name="TR: NEŞET ERTAŞ  HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NESET.ERTAS.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: NEŞET ERTAŞ  HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/61558
+#EXTINF:-1 tvg-name="TR: IBRAHİM TATLISES HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/IBRAHIM.TATLISES.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: IBRAHİM TATLISES HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/25036
+#EXTINF:-1 tvg-name="TR: ORHAN GENCEBAY  HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/ORHAN.GENCEBAY.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: ORHAN GENCEBAY  HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/49128
+#EXTINF:-1 tvg-name="TR: MEYHANE TV  HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MEYHANE.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: MEYHANE TV  HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/150759
+#EXTINF:-1 tvg-name="TR: AHMET KAYA HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/AHMET.KAYA.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: AHMET KAYA HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/11837
+#EXTINF:-1 tvg-name="TR: FASHION TV FHD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FASHION.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: FASHION TV FHD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/166812
+#EXTINF:-1 tvg-name="TR: Müslüm Gürses   HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MUSLUM.GURSES.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: Müslüm Gürses   HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/129358
+#EXTINF:-1 tvg-name="TR: FERDİ TAYFUR  HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FERDI.TAYFUR.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: FERDİ TAYFUR  HD
+http://vip.nuaktv.xyz:2095/adm7435/dmm11/72278
