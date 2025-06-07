@@ -97,7 +97,7 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV4"tvg-id="TV4.tr"tvg-logo="https://i.imgur.com/UpsQsbd.png"group-title="Ulusal":http-referrer="":http-user-agent="",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="TR: beIN H&E HD"tvg-id=""tvg-logo=""group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: beIN H&E HD
+#EXTINF:-1 tvg-name="TR: beIN H&E HD"tvg-id=""tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",TR: beIN H&E HD
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/6673
 #EXTINF:-1 tvg-name="YolTV.tr"tvg-id="YolTV.tr"tvg-logo="https://www.yoltv.com/wp-content/uploads/2025/02/yol-logo-png.webp"group-title="Ulusal":http-referrer="":http-user-agent="",YolTV.tr
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
@@ -1611,88 +1611,246 @@ http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/5696.mkv
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/5697.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/GameofThronesSezon8.png"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 8. Sezon 6. Bölüm
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/5698.mkv
-#EXTINF:-1 tvg-name="Donnie Darko - Karanlık Yolculuk"tvg-id="ext"tvg-logo="https://www.hdfilmizle.to/v/27891/poster/watch/karanlik-yolculuk-donnie-darko.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Donnie Darko - Karanlık Yolculuk
-https://p2.photofunny.org/v/q6hosekj1b25/720.m3u8
-#EXTINF:-1 tvg-name="Dünyalı – The Man from Earth "tvg-id="ext"tvg-logo="https://www.tekfullfilmizle5.com/wp-content/uploads/dunyali-the-man-from-earth-125x160.jpg.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Dünyalı – The Man from Earth
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/68/26/67/18/67/09/00/47/76/1/c3542af0-caec-4b76-95ab-9be347b4a28b/kaltura/desc_4818237c6501a7197c2a3ed0b31e364d/v-Z88mvLA_EM/vw=852,vh=480,fps=24.00,vbrt=504811,abrt=129380,vcodec=avc1.64001E,acodec=mp4a.40.2,label=480p/index-f4-v1-a1.m3u8
-#EXTINF:-1 tvg-name="Kapsül"tvg-id="ext"tvg-logo="https://cdn.filmmodu.tv/uploads/movie/poster/7382/thumb_hzBVPAoTJ4dkQG4aDXLzZcVwu17.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Kapsül
-https://sx1.rovideo.buzz/v/d/tt0390384/tr/480
-#EXTINF:-1 tvg-name="Tenet"tvg-id="ext"tvg-logo="https://cdn.filmmodu.tv/uploads/movie/poster/9599/thumb_hTAIqYYXDHqe8xPFV5cH4ElxCqb.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Tenet
-https://sx1.rovideo.buzz/v/d/tt6723592/tr/1080
-#EXTINF:-1 tvg-name="CNN Türk [Kynk 1]"tvg-id="Haber_CNNTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500"group-title="Haber":http-referrer="":http-user-agent="",CNN Türk [Kynk 1]
-https://b.fulltvizle.com/cnn/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekol tv"tvg-id="EKOL TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png"group-title="Haber":http-referrer="":http-user-agent="",Ekol tv
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Haber Türk [Kaynak 2]"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk [Kaynak 2]
-https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=64e56cb1a299c3128b00b1ae198ab428
-#EXTINF:-1 tvg-name="Haber Türk [Kynk 1]"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk [Kynk 1]
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-name="HalkTV.tr"tvg-id="HalkTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png"group-title="Haber":http-referrer="":http-user-agent="",HalkTV.tr
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-name="Kanal 24"tvg-id="Haber_Kanal24"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="TH Türk Haber"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.imgur.com/2AcRKdL.png"group-title="Haber":http-referrer="":http-user-agent="",TH Türk Haber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="Haber_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Harry Potter 1 Felsefe Taşı 2001"tvg-id="ext"tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/29276.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 1 Felsefe Taşı 2001
-https://vidmody.com/vs/tt0241527
-#EXTINF:-1 tvg-name="Harry Potter 2 Sırlar Odası 2002"tvg-id="ext"tvg-logo="https://tr.web.img2.acsta.net/pictures/13/12/09/19/08/285670.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 2 Sırlar Odası 2002
-https://vidmody.com/vs/tt0295297
-#EXTINF:-1 tvg-name="Harry Potter 3 Azkaban Tutsağı 2004"tvg-id="ext"tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/46865.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 3 Azkaban Tutsağı 2004
-https://vidmody.com/vs/tt0304141
-#EXTINF:-1 tvg-name="Harry Potter 4 ve Ateş Kadehi"tvg-id="ext"tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/53756.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 4 ve Ateş Kadehi
-https://vidmody.com/vs/tt0330373
-#EXTINF:-1 tvg-name="Harry Potter 5 Zümrüdüanka Yoldaşlığı 2007"tvg-id="ext"tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/58608.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 5 Zümrüdüanka Yoldaşlığı 2007
-https://vidmody.com/vs/tt0373889
-#EXTINF:-1 tvg-name="Harry Potter 6 Melez Prens 2009"tvg-id="ext"tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/116305.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Harry Potter 6 Melez Prens 2009
-https://vidmody.com/vs/tt0417741
-#EXTINF:-1 tvg-name="360.tr"tvg-id="360.tr"tvg-logo="https://i.imgur.com/agn47sQ.png"group-title="İPTV":http-referrer="":http-user-agent="",360.tr
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-name="4UTV.tr"tvg-id="4UTV.tr"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="İPTV":http-referrer="":http-user-agent="",4UTV.tr
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AkitTV.tr"tvg-id="AkitTV.tr"tvg-logo="https://i.imgur.com/oGto929.png"group-title="İPTV":http-referrer="":http-user-agent="",AkitTV.tr
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-name="AksuTV.tr"tvg-id="AksuTV.tr"tvg-logo="https://i.imgur.com/mgDCKiy.png"group-title="İPTV":http-referrer="":http-user-agent="",AksuTV.tr
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-name="AlanyaPostaTV.tr"tvg-id="AlanyaPostaTV.tr"tvg-logo="https://i.imgur.com/a3w9eFe.png"group-title="İPTV":http-referrer="":http-user-agent="",AlanyaPostaTV.tr
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1 tvg-name="AlForatTV.iq"tvg-id="AlForatTV.iq"tvg-logo="https://i.imgur.com/f6PQzKd.png"group-title="İPTV":http-referrer="":http-user-agent="",AlForatTV.iq
-http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 tvg-name="AlZahraTVTurkic.tr"tvg-id="AlZahraTVTurkic.tr"tvg-logo="https://i.imgur.com/QEHKGnG.png"group-title="İPTV":http-referrer="":http-user-agent="",AlZahraTVTurkic.tr
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-name="AnadoluAgency.tr"tvg-id="AnadoluAgency.tr"tvg-logo="https://i.imgur.com/dWElJll.png"group-title="İPTV":http-referrer="":http-user-agent="",AnadoluAgency.tr
-https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="AnadoluNetTV.tr"tvg-id="AnadoluNetTV.tr"tvg-logo="https://www.anadolunettv.com/d/r/logo.png"group-title="İPTV":http-referrer="":http-user-agent="",AnadoluNetTV.tr
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-name="ArasTV.tr"tvg-id="ArasTV.tr"tvg-logo="https://i.imgur.com/JsDCyWG.png"group-title="İPTV":http-referrer="":http-user-agent="",ArasTV.tr
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="ASTV.tr"tvg-id="ASTV.tr"tvg-logo="https://i.imgur.com/MCUjck8.png"group-title="İPTV":http-referrer="":http-user-agent="",ASTV.tr
-https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1 tvg-name="BBCİPTVEurope.uk"tvg-id="BBCİPTVEurope.uk"tvg-logo="https://i.imgur.com/vSz2WEp.png"group-title="İPTV":http-referrer="":http-user-agent="",BBCİPTVEurope.uk
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-name="BenguturkTV.tr"tvg-id="BenguturkTV.tr"tvg-logo="https://i.imgur.com/p3ON1oX.png"group-title="İPTV":http-referrer="":http-user-agent="",BenguturkTV.tr
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-name="BirTV.tr"tvg-id="BirTV.tr"tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png"group-title="İPTV":http-referrer="":http-user-agent="",BirTV.tr
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-#EXTINF:-1 tvg-name="BloombergTVEMEALiveEvent.uk"tvg-id="BloombergTVEMEALiveEvent.uk"tvg-logo="https://i.imgur.com/OuogLHx.png"group-title="İPTV":http-referrer="":http-user-agent="",BloombergTVEMEALiveEvent.uk
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-name="BloombergTVEurope.uk"tvg-id="BloombergTVEurope.uk"tvg-logo="https://i.imgur.com/OuogLHx.png"group-title="İPTV":http-referrer="":http-user-agent="",BloombergTVEurope.uk
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-name="BricveSatrancTV.tr"tvg-id="BricveSatrancTV.tr"tvg-logo="https://i.imgur.com/TXDV1ty.png"group-title="İPTV":http-referrer="":http-user-agent="",BricveSatrancTV.tr
-http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-name="BRTV.tr"tvg-id="BRTV.tr"tvg-logo="https://i.imgur.com/U3qlEAp.png"group-title="İPTV":http-referrer="":http-user-agent="",BRTV.tr
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:-1 tvg-name="CanTV.tr"tvg-id="CanTV.tr"tvg-logo="https://i.imgur.com/oIMtuwB.png"group-title="İPTV":http-referrer="":http-user-agent="",CanTV.tr
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 tvg-name="CekmekoyTV.tr"tvg-id="CekmekoyTV.tr"tvg-logo="https://i.imgur.com/sjAGFWu.png"group-title="İPTV":http-referrer="":http-user-agent="",CekmekoyTV.tr
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine1.tr"tvg-id="Cine1.tr"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png"group-title="İPTV":http-referrer="":http-user-agent="",Cine1.tr
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lost S01 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314247.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314247.mkv
+#EXTINF:-1 tvg-name="Lost S01 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314248.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314248.mkv
+#EXTINF:-1 tvg-name="Lost S01 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314249.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314249.mkv
+#EXTINF:-1 tvg-name="Lost S01 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314250.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314250.mkv
+#EXTINF:-1 tvg-name="Lost S01 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314251.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314251.mkv
+#EXTINF:-1 tvg-name="Lost S01 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314252.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314252.mkv
+#EXTINF:-1 tvg-name="Lost S01 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314253.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314253.mkv
+#EXTINF:-1 tvg-name="Lost S01 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314254.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314254.mkv
+#EXTINF:-1 tvg-name="Lost S01 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314255.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314255.mkv
+#EXTINF:-1 tvg-name="Lost S01 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314256.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314256.mkv
+#EXTINF:-1 tvg-name="Lost S01 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314257.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314257.mkv
+#EXTINF:-1 tvg-name="Lost S01 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314258.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314258.mkv
+#EXTINF:-1 tvg-name="Lost S01 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314259.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314259.mkv
+#EXTINF:-1 tvg-name="Lost S01 E14"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314260.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E14
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314260.mkv
+#EXTINF:-1 tvg-name="Lost S01 E15"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314261.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E15
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314261.mkv
+#EXTINF:-1 tvg-name="Lost S01 E16"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314262.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E16
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314262.mkv
+#EXTINF:-1 tvg-name="Lost S01 E17"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314263.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E17
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314263.mkv
+#EXTINF:-1 tvg-name="Lost S01 E18"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314264.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E18
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314264.mkv
+#EXTINF:-1 tvg-name="Lost S01 E19"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314265.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E19
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314265.mkv
+#EXTINF:-1 tvg-name="Lost S01 E20"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314266.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E20
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314266.mkv
+#EXTINF:-1 tvg-name="Lost S01 E21"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314267.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E21
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314267.mkv
+#EXTINF:-1 tvg-name="Lost S01 E22"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314268.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E22
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314268.mkv
+#EXTINF:-1 tvg-name="Lost S01 E23"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314269.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E23
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314269.mkv
+#EXTINF:-1 tvg-name="Lost S01 E24"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314270.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E24
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314270.mkv
+#EXTINF:-1 tvg-name="Lost S01 E25"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314271.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S01 E25
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314271.mkv
+#EXTINF:-1 tvg-name="Lost S02 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314296.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314296.mkv
+#EXTINF:-1 tvg-name="Lost S02 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314297.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314297.mkv
+#EXTINF:-1 tvg-name="Lost S02 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314298.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314298.mkv
+#EXTINF:-1 tvg-name="Lost S02 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314299.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314299.mkv
+#EXTINF:-1 tvg-name="Lost S02 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314300.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314300.mkv
+#EXTINF:-1 tvg-name="Lost S02 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314301.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314301.mkv
+#EXTINF:-1 tvg-name="Lost S02 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314302.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314302.mkv
+#EXTINF:-1 tvg-name="Lost S02 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314303.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314303.mkv
+#EXTINF:-1 tvg-name="Lost S02 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314304.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314304.mkv
+#EXTINF:-1 tvg-name="Lost S02 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314305.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314305.mkv
+#EXTINF:-1 tvg-name="Lost S02 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314306.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314306.mkv
+#EXTINF:-1 tvg-name="Lost S02 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314307.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314307.mkv
+#EXTINF:-1 tvg-name="Lost S02 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314308.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314308.mkv
+#EXTINF:-1 tvg-name="Lost S02 E14"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314309.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E14
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314309.mkv
+#EXTINF:-1 tvg-name="Lost S02 E15"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314310.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E15
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314310.mkv
+#EXTINF:-1 tvg-name="Lost S02 E16"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314311.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E16
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314311.mkv
+#EXTINF:-1 tvg-name="Lost S02 E17"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314312.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E17
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314312.mkv
+#EXTINF:-1 tvg-name="Lost S02 E18"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314313.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E18
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314313.mkv
+#EXTINF:-1 tvg-name="Lost S02 E19"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314314.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E19
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314314.mkv
+#EXTINF:-1 tvg-name="Lost S02 E20"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314315.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E20
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314315.mkv
+#EXTINF:-1 tvg-name="Lost S02 E21"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314316.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E21
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314316.mkv
+#EXTINF:-1 tvg-name="Lost S02 E22"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314317.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E22
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314317.mkv
+#EXTINF:-1 tvg-name="Lost S02 E23"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314318.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E23
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314318.mkv
+#EXTINF:-1 tvg-name="Lost S02 E24"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314319.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S02 E24
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314319.mkv
+#EXTINF:-1 tvg-name="Lost S03 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634240.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634240.mkv
+#EXTINF:-1 tvg-name="Lost S03 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634241.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634241.mkv
+#EXTINF:-1 tvg-name="Lost S03 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634242.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634242.mkv
+#EXTINF:-1 tvg-name="Lost S03 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634243.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634243.mkv
+#EXTINF:-1 tvg-name="Lost S03 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634244.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634244.mkv
+#EXTINF:-1 tvg-name="Lost S03 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634245.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634245.mkv
+#EXTINF:-1 tvg-name="Lost S03 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634246.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634246.mkv
+#EXTINF:-1 tvg-name="Lost S03 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634247.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634247.mkv
+#EXTINF:-1 tvg-name="Lost S03 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634248.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634248.mkv
+#EXTINF:-1 tvg-name="Lost S03 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634249.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634249.mkv
+#EXTINF:-1 tvg-name="Lost S03 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634250.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634250.mkv
+#EXTINF:-1 tvg-name="Lost S03 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634251.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634251.mkv
+#EXTINF:-1 tvg-name="Lost S03 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634252.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634252.mkv
+#EXTINF:-1 tvg-name="Lost S03 E14"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634253.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E14
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634253.mkv
+#EXTINF:-1 tvg-name="Lost S03 E15"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634254.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E15
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634254.mkv
+#EXTINF:-1 tvg-name="Lost S03 E16"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634255.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E16
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634255.mkv
+#EXTINF:-1 tvg-name="Lost S03 E17"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634256.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E17
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634256.mkv
+#EXTINF:-1 tvg-name="Lost S03 E18"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634257.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E18
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634257.mkv
+#EXTINF:-1 tvg-name="Lost S03 E19"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634258.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E19
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634258.mkv
+#EXTINF:-1 tvg-name="Lost S03 E20"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634259.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E20
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634259.mkv
+#EXTINF:-1 tvg-name="Lost S03 E21"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634260.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E21
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634260.mkv
+#EXTINF:-1 tvg-name="Lost S03 E22"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634261.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E22
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634261.mkv
+#EXTINF:-1 tvg-name="Lost S03 E23"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634262.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S03 E23
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/634262.mkv
+#EXTINF:-1 tvg-name="Lost S04 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314320.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314320.mkv
+#EXTINF:-1 tvg-name="Lost S04 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314321.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314321.mkv
+#EXTINF:-1 tvg-name="Lost S04 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314322.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314322.mkv
+#EXTINF:-1 tvg-name="Lost S04 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314323.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314323.mkv
+#EXTINF:-1 tvg-name="Lost S04 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314324.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314324.mkv
+#EXTINF:-1 tvg-name="Lost S04 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314325.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314325.mkv
+#EXTINF:-1 tvg-name="Lost S04 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314326.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314326.mkv
+#EXTINF:-1 tvg-name="Lost S04 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314327.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314327.mkv
+#EXTINF:-1 tvg-name="Lost S04 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314328.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314328.mkv
+#EXTINF:-1 tvg-name="Lost S04 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314329.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314329.mkv
+#EXTINF:-1 tvg-name="Lost S04 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314330.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314330.mkv
+#EXTINF:-1 tvg-name="Lost S04 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314331.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314331.mkv
+#EXTINF:-1 tvg-name="Lost S04 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314332.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S04 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314332.mkv
+#EXTINF:-1 tvg-name="Lost S05 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314333.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314333.mkv
+#EXTINF:-1 tvg-name="Lost S05 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314334.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314334.mkv
+#EXTINF:-1 tvg-name="Lost S05 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314335.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314335.mkv
+#EXTINF:-1 tvg-name="Lost S05 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314336.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314336.mkv
+#EXTINF:-1 tvg-name="Lost S05 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314337.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314337.mkv
+#EXTINF:-1 tvg-name="Lost S05 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314338.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314338.mkv
+#EXTINF:-1 tvg-name="Lost S05 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314339.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314339.mkv
+#EXTINF:-1 tvg-name="Lost S05 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314340.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314340.mkv
+#EXTINF:-1 tvg-name="Lost S05 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314341.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314341.mkv
+#EXTINF:-1 tvg-name="Lost S05 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314342.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314342.mkv
+#EXTINF:-1 tvg-name="Lost S05 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314343.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314343.mkv
+#EXTINF:-1 tvg-name="Lost S05 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314344.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314344.mkv
+#EXTINF:-1 tvg-name="Lost S05 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314345.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314345.mkv
+#EXTINF:-1 tvg-name="Lost S05 E14"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314346.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E14
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314346.mkv
+#EXTINF:-1 tvg-name="Lost S05 E15"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314347.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E15
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314347.mkv
+#EXTINF:-1 tvg-name="Lost S05 E16"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314348.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E16
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314348.mkv
+#EXTINF:-1 tvg-name="Lost S05 E17"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314349.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S05 E17
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314349.mkv
+#EXTINF:-1 tvg-name="Lost S06 E01"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314350.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E01
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314350.mkv
+#EXTINF:-1 tvg-name="Lost S06 E02"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314351.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E02
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314351.mkv
+#EXTINF:-1 tvg-name="Lost S06 E03"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314352.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E03
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314352.mkv
+#EXTINF:-1 tvg-name="Lost S06 E04"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314353.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E04
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314353.mkv
+#EXTINF:-1 tvg-name="Lost S06 E05"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314354.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E05
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314354.mkv
+#EXTINF:-1 tvg-name="Lost S06 E06"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314355.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E06
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314355.mkv
+#EXTINF:-1 tvg-name="Lost S06 E07"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314356.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E07
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314356.mkv
+#EXTINF:-1 tvg-name="Lost S06 E08"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314357.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E08
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314357.mkv
+#EXTINF:-1 tvg-name="Lost S06 E09"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314358.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E09
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314358.mkv
+#EXTINF:-1 tvg-name="Lost S06 E10"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314359.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E10
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314359.mkv
+#EXTINF:-1 tvg-name="Lost S06 E11"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314360.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E11
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314360.mkv
+#EXTINF:-1 tvg-name="Lost S06 E12"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314361.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E12
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314361.mkv
+#EXTINF:-1 tvg-name="Lost S06 E13"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314362.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E13
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314362.mkv
+#EXTINF:-1 tvg-name="Lost S06 E14"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314363.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E14
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314363.mkv
+#EXTINF:-1 tvg-name="Lost S06 E15"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314364.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E15
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314364.mkv
+#EXTINF:-1 tvg-name="Lost S06 E16"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314365.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E16
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314365.mkv
+#EXTINF:-1 tvg-name="Lost S06 E17"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314366.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E17
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314366.mkv
+#EXTINF:-1 tvg-name="Lost S06 E18"tvg-id=""tvg-logo="http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314367.mkv"group-title="LOST":http-referrer="":http-user-agent="",Lost S06 E18
+http://fullvippro.net:8080/series/ultraserv1020/suT9nnb/314367.mkv
 #EXTINF:-1 tvg-name="Cine5.tr"tvg-id="Cine5.tr"tvg-logo="https://i.imgur.com/AmcOAIY.png"group-title="İPTV":http-referrer="":http-user-agent="",Cine5.tr
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBCEurope.uk"tvg-id="CNBCEurope.uk"tvg-logo="https://i.imgur.com/B6sfpDa.png"group-title="İPTV":http-referrer="":http-user-agent="",CNBCEurope.uk
@@ -2033,20 +2191,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834778_B289DDBC&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 tvg-name="Yola Geldik"tvg-id="ext"tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_yola_geldik-1561406650.jpg"group-title="PUHU FİLMLER":http-referrer="":http-user-agent="",Yola Geldik
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-name="BİEN SPOR1"tvg-id=""tvg-logo=""group-title="TEST":http-referrer="":http-user-agent="",BİEN SPOR1
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/318927.ts
-#EXTINF:-1 tvg-name="BİEN SPOR2"tvg-id=""tvg-logo=""group-title="TEST":http-referrer="":http-user-agent="",BİEN SPOR2
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
-#EXTINF:-1 tvg-name="Meclis TV"tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png"tvg-logo=""group-title="TRT":http-referrer="":http-user-agent="",Meclis TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRT_Haber"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRTMuzik.tr"tvg-id="TRTMuzik.tr"tvg-logo="https://i.imgur.com/JgUzRH8.png"group-title="TRT":http-referrer="":http-user-agent="",TRTMuzik.tr
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRTSpor.tr"tvg-id="TRTSpor.tr"tvg-logo="https://i.imgur.com/6tv0zxh.png"group-title="TRT":http-referrer="":http-user-agent="",TRTSpor.tr
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRTSporYildiz.tr"tvg-id="TRTSporYildiz.tr"tvg-logo="https://i.imgur.com/MJPoj3j.png"group-title="TRT":http-referrer="":http-user-agent="",TRTSporYildiz.tr
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV 2"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",ATV 2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="Kanal D 4"tvg-id="KANAL D.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",Kanal D 4
@@ -3705,41 +3849,41 @@ http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7298.mkv
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7299.mkv
 #EXTINF:-1 tvg-name="YD-Homeland S08E12"tvg-id=""tvg-logo=""group-title="HOMELAND":http-referrer="":http-user-agent="",YD-Homeland S08E12
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/7300.mkv
-#EXTINF:-1 tvg-name="TR: CHASSE ET PECHE"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BELGESELL/CHASSE.PECHE.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: CHASSE ET PECHE
+#EXTINF:-1 tvg-name="TR: CHASSE ET PECHE"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/BELGESELL/CHASSE.PECHE.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: CHASSE ET PECHE
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/106148
-#EXTINF:-1 tvg-name="✦✦ 7/24  BELGESEL ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",✦✦ 7/24  BELGESEL ✦✦
+#EXTINF:-1 tvg-name="✦✦ 7/24  BELGESEL ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="Belgesel":http-referrer="":http-user-agent="",✦✦ 7/24  BELGESEL ✦✦
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/70940
-#EXTINF:-1 tvg-name="TR : DÜNYAMIZ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DÜNYAMIZ
+#EXTINF:-1 tvg-name="TR : DÜNYAMIZ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : DÜNYAMIZ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/156451
-#EXTINF:-1 tvg-name="TR : GİZLİ CENNETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : GİZLİ CENNETLER
+#EXTINF:-1 tvg-name="TR : GİZLİ CENNETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : GİZLİ CENNETLER
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/13496
-#EXTINF:-1 tvg-name="TR : DOĞA HARİKALARI"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DOĞA HARİKALARI
+#EXTINF:-1 tvg-name="TR : DOĞA HARİKALARI"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : DOĞA HARİKALARI
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/34282
-#EXTINF:-1 tvg-name="TR : HAYVANLAR ALEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : HAYVANLAR ALEMİ
+#EXTINF:-1 tvg-name="TR : HAYVANLAR ALEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : HAYVANLAR ALEMİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/111970
-#EXTINF:-1 tvg-name="TR : VAHŞİ DOĞA"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ DOĞA
+#EXTINF:-1 tvg-name="TR : VAHŞİ DOĞA"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ DOĞA
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/14400
-#EXTINF:-1 tvg-name="TR : VAHŞİ SERÜVENLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ SERÜVENLER
+#EXTINF:-1 tvg-name="TR : VAHŞİ SERÜVENLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : VAHŞİ SERÜVENLER
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/83019
-#EXTINF:-1 tvg-name="TR : OKYANUSUN DERİNLİKLERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : OKYANUSUN DERİNLİKLERİ
+#EXTINF:-1 tvg-name="TR : OKYANUSUN DERİNLİKLERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : OKYANUSUN DERİNLİKLERİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/111961
-#EXTINF:-1 tvg-name="TR : SHARK TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : SHARK TV
+#EXTINF:-1 tvg-name="TR : SHARK TV"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : SHARK TV
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/42985
-#EXTINF:-1 tvg-name="TR : DİNAZORLAR DEVRİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : DİNAZORLAR DEVRİ
+#EXTINF:-1 tvg-name="TR : DİNAZORLAR DEVRİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : DİNAZORLAR DEVRİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/111471
-#EXTINF:-1 tvg-name="TR : EVREN'in GİZEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : EVREN'in GİZEMİ
+#EXTINF:-1 tvg-name="TR : EVREN'in GİZEMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : EVREN'in GİZEMİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/61016
-#EXTINF:-1 tvg-name="TR : GALAKTİK DÜZEN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : GALAKTİK DÜZEN
+#EXTINF:-1 tvg-name="TR : GALAKTİK DÜZEN"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : GALAKTİK DÜZEN
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/117406
-#EXTINF:-1 tvg-name="TR : UZAY BİLİMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : UZAY BİLİMİ
+#EXTINF:-1 tvg-name="TR : UZAY BİLİMİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : UZAY BİLİMİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/156344
-#EXTINF:-1 tvg-name="TR : BERMUDA ŞEYTAN ÜÇGENİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : BERMUDA ŞEYTAN ÜÇGENİ
+#EXTINF:-1 tvg-name="TR : BERMUDA ŞEYTAN ÜÇGENİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : BERMUDA ŞEYTAN ÜÇGENİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/76900
-#EXTINF:-1 tvg-name="TR : ANTİK MEDENİYETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : ANTİK MEDENİYETLER
+#EXTINF:-1 tvg-name="TR : ANTİK MEDENİYETLER"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : ANTİK MEDENİYETLER
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/40096
-#EXTINF:-1 tvg-name="TR : SAVAŞ'IN EFSANELERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR : SAVAŞ'IN EFSANELERİ
+#EXTINF:-1 tvg-name="TR : SAVAŞ'IN EFSANELERİ"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR : SAVAŞ'IN EFSANELERİ
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/154226
-#EXTINF:-1 tvg-name="TR: İZ BIRAKANLAR"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: İZ BIRAKANLAR
+#EXTINF:-1 tvg-name="TR: İZ BIRAKANLAR"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: İZ BIRAKANLAR
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/16081
 #EXTINF:-1 tvg-name="✦✦ CINEBOX ✦✦"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/TR/BAYRAK.png"group-title="CINEBOX SİNEMA":http-referrer="":http-user-agent="",✦✦ CINEBOX ✦✦
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/11333
@@ -4601,81 +4745,3 @@ http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/62616.mkv
 http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/147592.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="FRINGE":http-referrer="":http-user-agent="",Fringe S05 E13
 http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/148455.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E01
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/145256.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E02
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/61510.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E03
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/49165.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E04
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/130798.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E05
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/68396.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S01 E06
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/82767.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E01
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/57847.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E02
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/136009.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E03
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/37708.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E04
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/107791.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E05
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/3534.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E06
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/6543.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E07
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/19407.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E08
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/66591.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E09
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/165306.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E10
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/36100.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E11
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/115894.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E12
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/154643.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S02 E13
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/17119.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E01
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/131985.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E02
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/56023.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E03
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/75018.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E04
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/9669.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E05
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/155277.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E06
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/3885.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E07
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/135575.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E08
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/62060.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E09
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/31961.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S03 E10
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/159096.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E01
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/42160.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E02
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/162165.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E03
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/166982.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E04
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/38044.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E05
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/51926.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E06
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/71254.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E07
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/163603.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E08
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/53693.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E09
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/95075.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPARTACUS":http-referrer="":http-user-agent="",Spartacus S04 E10
-http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/87817.mkv
