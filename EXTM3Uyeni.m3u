@@ -1,15 +1,15 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/201419.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN2 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/824.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN2 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN3 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9369.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3 YEDEK
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN3 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/823.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.img.anlatilaninotesi.com.tr/i/logo/logo.svg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",SPUTNIK RADYO
 https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3
