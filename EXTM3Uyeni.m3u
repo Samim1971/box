@@ -1,4 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",el cezire
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
 http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
