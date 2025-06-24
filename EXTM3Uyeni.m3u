@@ -1,44 +1,44 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",el cezire
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN1 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/201419.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN2 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/824.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN2 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN3 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9369.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",BİEN3 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/823.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.img.anlatilaninotesi.com.tr/i/logo/logo.svg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",SPUTNIK RADYO
-https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-yHVN0covidA/WSll2Nf6A2I/AAAAAAAAQ2o/vbOq69n0TOw1q-8_-IzFRVwiGaaUfFrmACLcB/s1600/tvden.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TVDEN
-http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",KRAL POP TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",POWER HD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",POWER TURK HD
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCc5kiMufKtsiFhaK-pMG7fTxF07T9JK5cd4mjUTpf-2pTmn5wxZEm7lKL70TOGVN9QyXzYxMRLiktmqWu7uyWchKMbkMsmwYaRBKrysO3W0Q7Tl-Sg2_RD3rV2GXvh2bOWwBClJz5Wi6Qt1x5C_a7z3I1H9iP4i2vNoRfckPGCFbDYFTI-vKwju5I5A/s1600/pd"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",POWER DANCE
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4J_GfuNz2fE-7PhBy5eEPrISiWLdWeUIgo1dzJZMc2w8YyabB61tZa52jXgi6SNOEJZpQnTn_BwtqF8P949zfPQFDp5U-sYv3YGA4Cveyft4oqARBIupR-Lsl3Q8OpwJ8rHPYBr8_osAodU0b5KUPfBHGbV21aprudIekgiasZyJUoE_bnvD82hMh6g/s1600/pl"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",POWER LOVE
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",DREAM TÜRK TV
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",FİNEST TV
-https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-cEPVP5jztjA/VgwZVCtemHI/AAAAAAAAMJk/6hIuRoXfaII/s1600/trtantalyard.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT ANTALYA RADYOSU
-https://radio-trtantalya.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-QrO5wLzfyTY/VgwZlxuhloI/AAAAAAAAMJs/iDPdh2y7VBQ/s1600/trtcukurovard.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT ÇUKUROVA RADYOSU
-https://radio-trtcukurova.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-chbW5w5tvAQ/VgwZ3yEImbI/AAAAAAAAMJ0/XByLSKpIfoA/s1600/trtgap.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT GAP DİYARBAKIR
-https://radio-trtgap.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-ZRSZPsOLms8/VgwbeR1Zk5I/AAAAAAAAMKE/oCk-106bO2w/s1600/trterzurumrd.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT ERZURUM RADYOSU
-https://radio-trterzurum.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B1
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349920.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B2
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349921.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B3
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349922.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349923.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B5
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349924.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B6
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349925.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B7
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349926.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B8
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349927.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B9
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349928.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349929.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B1
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361821.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B2
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361822.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B3
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361823.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361824.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B5
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361825.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B6
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361826.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B7
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361827.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B8
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361828.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B9
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361829.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361830.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-z13-CPTVn0U/VgwbtxCiD-I/AAAAAAAAMKM/rKdXhB1y5JQ/s1600/trttrabzon.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT TRABZON RADYOSU
 https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-Dvaw3TXzF7Q/VgwW8kGW12I/AAAAAAAAMJA/lOA0qUwYoK4/s1600/memleketimfm.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",TRT MEMLEKETİM FM
@@ -6031,46 +6031,46 @@ https://stream.radyoodtu.com.tr/karisikkaset;
 http://yayin1.yayindakiler.com:3016/renk
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-PzKKrnC_AAA/Wa6AkdItzjI/AAAAAAAAVAU/V9O83ih8590L5ypD1SYC0OPrxoyYikSvgCLcBGAs/s1600/tsm.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO SANAT MÜZİĞİ
 http://radyo.yayin.com.tr:5932/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-VP7Uke20eOc/Wa6F69JOnoI/AAAAAAAAVA4/mZzrHxhFofEemkyrUB-PcfVFrundBoowACLcBGAs/s1600/rs.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO SES Eskişehir
-http://live2.radyotvonline.com:8095/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-Ji4gErDsiA0/Wa6IxAstVDI/AAAAAAAAVBY/tXoVQpv7hD0cVV3e06f1Os5_NUpuHln7gCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO SEYMEN
-https://yayin.radyoseymen.com.tr:1070/stream
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-rygjN8sYr44/Wa6L88bvFYI/AAAAAAAAVB8/MsgMKUUGQmchIhfIX52AX5HAPmaLm8c1ACLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO SPOR
-http://46.20.7.103:8040/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-pV_kSShlfY0/Wa6OW_ATLBI/AAAAAAAAVCI/0U7vVQmailUzrYH5av77NRo6zBOpoINEgCLcBGAs/s1600/t.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO TRAFİK
-http://37.247.100.118/stream/157/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-s6G793kznKc/Wa6Skz8DjGI/AAAAAAAAVCo/oUmJQjXw0fMHCLdcL_6CDUf-xw9KJmy_QCLcBGAs/s1600/01.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VATAN KIBRIS
-http://95.0.173.195:9002/vatan
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-yYl5oETa4p0/Wa6TCodnZpI/AAAAAAAAVCs/Hqsz5x_pY9sMAGFTkgWRFzKvGzkPWEdlACLcBGAs/s1600/02.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VATAN NİHAVENT
-http://95.0.173.195:9001/nihavent
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-s_tAfZGKXPg/Wa6TfejBTtI/AAAAAAAAVCw/gkinEPcC7KAi37vONIf04PhTutAE2EdHQCLcBGAs/s1600/03.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VATAN TÜRKÜ
-http://95.0.173.195:9000/turku
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-T1bR-4TrGQ8/Wa6UbnQV7XI/AAAAAAAAVC8/Ik0lf_17Zwc-PKivSqFFvyot16qrBwcngCLcBGAs/s1600/v.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VİVA
-http://46.20.3.231/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-ktn0SoihWsg/Wa6X4OEmFkI/AAAAAAAAVDM/LvsswsAbMlkeIjUTHYbfBkN3HjnAqMs8gCLcBGAs/s1600/v.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VOKAL
-http://37.247.98.8/stream/35/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-mWVC6ikbolk/Wa6YecF5PHI/AAAAAAAAVDU/1SdYSZJlvsI3pzVkeCyS8iFOHOsBhp_jgCLcBGAs/s1600/v.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO VOYAGE
-http://voyagewmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-5DTiZFmvGFk/Wa6ZQ86FeyI/AAAAAAAAVDc/CUMEbZzzfIEyCN2NIlvNxqpd4srKssKkQCLcBGAs/s1600/y.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO YAKAMOZ
-http://live4.radyotvonline.com:6570/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-po4NxtkUDT8/Wa6dE4d9vaI/AAAAAAAAVD0/cV7hcDf57kYKzvpWXbzruJJYHukD3jXcACLcBGAs/s1600/h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RELAX HOME
-http://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-lPMLUMTUEoE/WaO9sOz-CFI/AAAAAAAAUJY/FZ4kUbEaGIgf7Hewpezw-akxshO8sGLHwCLcBGAs/s1600/16.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RETRO TURK
-https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-M8O6CmmQv_I/Wa6krbXWvAI/AAAAAAAAVFA/UZIdoxCgscQ8ZSox56lqpYvlFxjqayS4ACLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SEMERKAND RADYO
-http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-LnYxKXgcQFY/Wa6mEadm0QI/AAAAAAAAVFQ/QtFrAx5ErEc0nbd6THdBL0Bq5spai_e3gCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SHOW RADYO
-http://46.20.3.229/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-luIJxok76vI/Wa6oIrOmFnI/AAAAAAAAVFo/XqhtFlhKmXwf9VMxXm9WXUmQTIX1NDTnQCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SLOW HOME
-http://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-NGxzylEXOa8/Wa6LSUvLQKI/AAAAAAAAVB0/LkL0FqbJC3Y5TpBmcRmCYeg2bY3UVpncQCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SLOW TİME
-http://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-WbwtrNzWXIQ/Wa6rQ569-tI/AAAAAAAAVGI/gOdTrLE2cuIqOtDX2RvBK9p6OtgfyIMLQCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SLOWTÜRK FM
-https://radyo.duhnet.tv/slowturk
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-jPoaXwc1edA/WaO-L2ZzWLI/AAAAAAAAUJg/R9MUHCn7vqwWG4BOnWkrI_LkEgzkWZmRACLcBGAs/s1600/18.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SÜPER FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;
-#EXTINF:-1 tvg-name="568"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-MX2N0L5_m2Q/WaO98g4BLFI/AAAAAAAAUJc/qD8Lkw4j5OwLC5VkH4p2-YJRMdm7-SSxwCLcBGAs/s1600/17.jpg"group-title="RADYO":http-referrer="":http-user-agent="",SUPER 2 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361830.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B9
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361829.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B8
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361828.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B7
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361827.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B6
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361826.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B5
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361825.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361824.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B3
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361823.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B2
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361822.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S2B1
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361821.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349929.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B9
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349928.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B8
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349927.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B7
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349926.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B6
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349925.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B5
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349924.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349923.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B3
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349922.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B2
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349921.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="GASSAL":http-referrer="":http-user-agent="",GASSAL S1B1
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349920.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-HFrePMsl3js/Wa60LD6alLI/AAAAAAAAVHY/wQuOtcekFrcKpI0Lxjo-yRZoDNgPJUPCgCLcBGAs/s1600/t.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TARSUS FM
 http://radyo.sevdaruzgari.net:6386/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-LWC6UNERrdk/Wa63Km3O07I/AAAAAAAAVHs/J97siSmbH_M7SA5H1GbudIOiwcGonML4ACLcBGAs/s1600/t.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TATVAN RADYO 13
