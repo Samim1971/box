@@ -1,4 +1,28 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352330.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352345.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352344.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352343.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352340.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251099.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251100.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251101.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251102.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251103.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B1
 http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349920.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B2
@@ -4799,236 +4823,236 @@ http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/147592.mkv
 http://vip.nuaktv.xyz:2095/series/adm7435/dmm11/148455.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.img.anlatilaninotesi.com.tr/i/logo/logo.svg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",SPUTNIK RADYO
 https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-yHVN0covidA/WSll2Nf6A2I/AAAAAAAAQ2o/vbOq69n0TOw1q-8_-IzFRVwiGaaUfFrmACLcB/s1600/tvden.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TVDEN
-http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL POP TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER HD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER TURK HD
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCc5kiMufKtsiFhaK-pMG7fTxF07T9JK5cd4mjUTpf-2pTmn5wxZEm7lKL70TOGVN9QyXzYxMRLiktmqWu7uyWchKMbkMsmwYaRBKrysO3W0Q7Tl-Sg2_RD3rV2GXvh2bOWwBClJz5Wi6Qt1x5C_a7z3I1H9iP4i2vNoRfckPGCFbDYFTI-vKwju5I5A/s1600/pd"group-title="RADYO":http-referrer="":http-user-agent="",POWER DANCE
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4J_GfuNz2fE-7PhBy5eEPrISiWLdWeUIgo1dzJZMc2w8YyabB61tZa52jXgi6SNOEJZpQnTn_BwtqF8P949zfPQFDp5U-sYv3YGA4Cveyft4oqARBIupR-Lsl3Q8OpwJ8rHPYBr8_osAodU0b5KUPfBHGbV21aprudIekgiasZyJUoE_bnvD82hMh6g/s1600/pl"group-title="RADYO":http-referrer="":http-user-agent="",POWER LOVE
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DREAM TÜRK TV
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg"group-title="RADYO":http-referrer="":http-user-agent="",FİNEST TV
-https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-cEPVP5jztjA/VgwZVCtemHI/AAAAAAAAMJk/6hIuRoXfaII/s1600/trtantalyard.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT ANTALYA RADYOSU
-https://radio-trtantalya.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-QrO5wLzfyTY/VgwZlxuhloI/AAAAAAAAMJs/iDPdh2y7VBQ/s1600/trtcukurovard.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT ÇUKUROVA RADYOSU
-https://radio-trtcukurova.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-chbW5w5tvAQ/VgwZ3yEImbI/AAAAAAAAMJ0/XByLSKpIfoA/s1600/trtgap.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT GAP DİYARBAKIR
-https://radio-trtgap.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-ZRSZPsOLms8/VgwbeR1Zk5I/AAAAAAAAMKE/oCk-106bO2w/s1600/trterzurumrd.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT ERZURUM RADYOSU
-https://radio-trterzurum.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-z13-CPTVn0U/VgwbtxCiD-I/AAAAAAAAMKM/rKdXhB1y5JQ/s1600/trttrabzon.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT TRABZON RADYOSU
-https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-Dvaw3TXzF7Q/VgwW8kGW12I/AAAAAAAAMJA/lOA0qUwYoK4/s1600/memleketimfm.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT MEMLEKETİM FM
-https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-7ZgCLQU_9PY/VgwAv3XLSSI/AAAAAAAAMIg/pCj6OW6SBjI/s1600/trttsesi.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT TÜRKİYE'NİN SESİ RADYOSU
-https://radio-trttsr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-S3puqC9XoOA/Vgwb9N9mS1I/AAAAAAAAMKU/k6PxA3QmSQo/s1600/trtvotworld.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT VOİCE OF TURKEY WORLD
-https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-ykuvyWLoGxc/VgwcpV0sCBI/AAAAAAAAMKk/RpyuGy_Kl50/s1600/trtvoteast.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT VOİCE OF TURKEY EAST
-https://radio-trtvoteast.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-RZPgBIuI-Qw/VgwcTV4LhtI/AAAAAAAAMKc/O7ZdH0AakvI/s1600/trtvotwest.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT VOİCE OF TURKEY WEST
-https://radio-trtvotwest.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-RyMZVEgHCug/Vgwc6f3vErI/AAAAAAAAMKs/fy9UrmLF-i8/s1600/trtradyo6.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT RADYO 6
-https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.jpg"group-title="RADYO":http-referrer="":http-user-agent="",90'LAR
-http://37.247.98.8/stream/166/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-HiE44ooDNto/WZvvDXd7sTI/AAAAAAAATuM/RWetGdNHAx0yQCtqI5gOeKy3ciGIxBi0wCLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ABUZER FM
-http://live.radyotvonline.com:9030/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-18bA4faENaM/WZvySNym_sI/AAAAAAAATuw/WPBpJs7n9wElVEyJAZiE-cwkgDHfI_0eACLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ADANA FM
-https://host.onlineradyotv.net:2020/stream/adanafm
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-juODCXGvgPI/WZwLihjks4I/AAAAAAAATvw/inx1PhLcazcfUitAtjYSljX5_NNUWELfACLcBGAs/s1600/05.jpg"group-title="RADYO":http-referrer="":http-user-agent="",AFYON GÜN FM
-http://ssl120.radyotelekom.com.tr/8130/stream
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-ViUmV29x3qY/WbE6pZDf2TI/AAAAAAAAVQI/EPwd45U29D08VuW__i6Ca_ZlDgwugS0bgCLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",AKRA FM
-http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-9IyicWL5ZRU/WZwOlsUj3nI/AAAAAAAATwM/T_o5F4OdyEs3N3cMLKl9WJtnHT-6IvdnwCLcBGAs/s1600/08.jpg"group-title="RADYO":http-referrer="":http-user-agent="",AKSARAY KRAL FM
-https://sslyayin.radyoyayini.com:7099/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-gWlY7gR9kcs/WZwSlhIDZ2I/AAAAAAAATw0/V1ZEEmfHCrYaRdu0MB8Q4BhFrGNOx6haQCLcBGAs/s1600/02.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ALTIN ŞARKILAR
-http://37.247.98.8/stream/25/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-ggQ2Wwq1-Yo/Wj0FNmqOB4I/AAAAAAAAVnw/xVOeLfKJ8poAW8HWn7gny6b_ABKO9LhqwCLcBGAs/s1600/02.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ARABESK ALEMİ
-http://arabeskalemi.net:9300/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-p1cjrkYO-Qw/WZwXrDgwA5I/AAAAAAAATxw/sRQ_XmE6oywuyeHWWhQHGHC58vTCPdgvgCLcBGAs/s1600/14.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ARABESK RADYO
-https://anadolu.liderhost.com.tr:10990/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-ZeJ9KJPMnk4/WZwcrBtjwjI/AAAAAAAATyM/9Rj4XbCFagcnAZ52S4axkgYT7X0qOloBgCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ARABESKLAND
-https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-rsRfFqqSF9M/WZwegbrBEQI/AAAAAAAATyg/Ie4kF9-MYvUBbNBnhEAQ8_w2xTgY_t8fwCLcBGAs/s1600/17.jpg"group-title="RADYO":http-referrer="":http-user-agent="",AŞK FM
-http://yayin.asymedya.com:8020/1;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-o0KdLbjN2rE/WbFEfCgOsnI/AAAAAAAAVRI/QDOEE3TF9M0HQWLJnTxnwp4dIbslNCnrwCLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",AVRASYA TÜRK
-https://sslyayin.netyayin.net:10909/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-h8eAvKgitbU/WZwfh5I1HSI/AAAAAAAATys/vjcod7h2Su8k3wSzOFCFw9eCQow8q3Q4QCLcBGAs/s1600/21.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BABA RADYO
-http://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-4k0929w4kCo/WZ8DHjaKsJI/AAAAAAAAT1I/iZvWGKgRRSIoPrAMjWzVIIBpViB3WYGfQCLcBGAs/s1600/05.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BEST FM
-http://46.20.7.125/bestfmaac
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-eYkVv9MUAtQ/WZ8INOQJRUI/AAAAAAAAT10/XRwOVnHUHekGPuHqnFSoUoEynb3-ECovgCLcBGAs/s1600/10.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BİGA FM
-http://radyo.yayin.com.tr:5896/;stream.mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-edZ1Pup4v_o/WZ8IoosUR6I/AAAAAAAAT14/F6PBLVZIU9EI2phfN9yyLydnBZ03iFsTgCLcBGAs/s1600/11.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BİLECİK FM
-http://bilecikfm.kesintisizyayin.com:9980/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-mKOOmrIdRtg/WZ8JY-eEr3I/AAAAAAAAT2A/U_KU1SbqF1k9WgUT_otAvOecnsnLDFpJwCLcBGAs/s1600/12.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BİLECİK RADYO 11
-http://ip131.radyotelekom.com:9832/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-1OaBgHVOxlo/WZ8UQ5W3r6I/AAAAAAAAT3s/lkVt49pTqysADfeZ4Dac9DL7TcgZjxKEACLcBGAs/s1600/26.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BRT BAYRAK TÜRK MÜZİĞİ
-http://sc.brtk.net:8010/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-CJbLR6aS9Gw/WaAhum8YotI/AAAAAAAAT40/vQglkM7jgCYM4Bm_v3a97Bi5WmHiGEnsACLcBGAs/s1600/1001.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA 1001 FM
-http://stream.radyolarburada.com/radio/8280/1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-CJbLR6aS9Gw/WaAhum8YotI/AAAAAAAAT40/vQglkM7jgCYM4Bm_v3a97Bi5WmHiGEnsACLcBGAs/s1600/1001.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA 1001 FM
-https://stream.radyolarburada.com/radio/8280/1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-n9o7m5JMG5I/WaA6ukfDWEI/AAAAAAAAT7I/F3Ng12uqo5cmS_B0Dv0krAmwexmH8XiCgCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA RADYO S
-http://icecast.netmedya.net/radyos
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-kqCl6mFOhuU/WaFPCZaRADI/AAAAAAAAT8o/n0_eFwzXbMIvQVvvN1bQyrzIvhSWed0PACLcBGAs/s1600/b.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSADA BUGÜN RADYO
-https://radyo.bursadabugun.com/stream
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-xYWSJ-O_WhE/WaF5Bm7ztSI/AAAAAAAAT_g/nln19UuWJywHnmGdEQ89sI3biisU6HvZgCLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DAMAR FM
-http://yayin.damarfm.com:8080/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-zyEUMclTIX0/WaF_Fmt8TOI/AAAAAAAAUAQ/RslstCGSI9AfLGuXd3sZf6-6hK1GBR3NACLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DEM RADYO
-http://s1.voscast.com:9572/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-i2z9JROnTME/WaKmCCVSVzI/AAAAAAAAUBc/NIqOYRCxls48mKrNpw593B4MyCnvBU60QCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DENİZLİ SES RADYO
-http://95.173.188.166:9300/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-AvGXm8CavA0/WaKq3D2ovcI/AAAAAAAAUBs/NMWewl3wrA8BmSZHmEQjatfXzrhMblLnQCLcBGAs/s1600/rd.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DERYA FM Konya
-http://nonstopkonya.canliyayinda.com:9898/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-rgc_WXzsNPg/WZvqhGvPQjI/AAAAAAAATts/k47sk1kviyICjNfmAOxw-csvvnZ_niqfgCLcBGAs/s1600/01.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DİYANET KURAN RADYO
-http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-0qyRySZWuWc/WZvqAylXH0I/AAAAAAAATtk/l6u9o5Ybu_4Yh7zxUadPjbC3CDVzp3nFACLcBGAs/s1600/02.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DİYANET RADYO
-http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-gBQyWWVPTKs/Wj0KXES0ZxI/AAAAAAAAVo4/hDn5Vo0Si0cjUAmEUaIFUW9lXgNdityxwCLcBGAs/s1600/09.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DOST FM Hatay
-http://yayin.netyayin.net:1515/streype=.mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-N4Jo_oOt1Nw/WaK4e8T4V2I/AAAAAAAAUDY/N2N6CeSbBi82lR_pusSkZCh9tVlJGbzWQCLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",EFKAR
-https://22533.live.streamtheworld.com/SC008_SO1_SC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-IkStuYJOiYM/WaJyXhsWsWI/AAAAAAAAUAs/KCNYkLVYMQsUoh7zDin1ZGleMbxjw26xQCLcBGAs/s1600/e4.jpg"group-title="RADYO":http-referrer="":http-user-agent="",EFSANE 4'LÜ
-http://37.247.98.8/stream/19/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-YRswiKMyLUM/WaOvzMCvuJI/AAAAAAAAUHk/gu89ed7glGssGkDCRPBUtpWEaegSFdJAgCLcBGAs/s1600/ege.jpg"group-title="RADYO":http-referrer="":http-user-agent="",EGE HAVALARI
-http://37.247.98.8/stream/29/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-mM75U7S2s0w/WaO2foN2qTI/AAAAAAAAUIA/SXrgKMQpDBwahViHrkgF_Edop_TqweSSACLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",EKİN RADYO
-http://yayin.turkhosted.com:6006/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-Yovc1dbCO64/WaO3DwdPeqI/AAAAAAAAUII/LGLw5izmSy49C8k7puiOndZ3DXZZTYphwCLcBGAs/s1600/2000.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ELAZIĞ RADYO 2000
-http://yayin.turkiletisim.com.tr:1092/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-4e1srtlSYMo/Wto-6HrLoCI/AAAAAAAAWDo/tmfANNIgfR4CfDV92IprjuZKRwRequpcwCLcBGAs/s1600/h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ELAZIĞ RADYO HAZAR
-http://radyohazar.canliyayinda.com:8286/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-wfj5IekgVvk/WaQeCJXPHWI/AAAAAAAAUOY/gI8Vkr6LixAW2AKWK8TCNh83wrkKDTvTQCLcBGAs/s1600/23.jpg"group-title="RADYO":http-referrer="":http-user-agent="",FM 23
-http://radyofm23.canliyayinda.com:8280/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-s_BSJ1TyNYE/WaQoFu6VXPI/AAAAAAAAUPM/sl5xj8Ng9AYz4k7NvrPYg3eXwjFCa_5rQCLcBGAs/s1600/g.jpg"group-title="RADYO":http-referrer="":http-user-agent="",GENÇ RADYO Konya
-http://dijimedya.radyotvonline.net/gncradyo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-V967uMRLyi8/WaQtMnPRx7I/AAAAAAAAUPw/cxxccCWOMFwEr0xYJYavj82u34aBG0F9ACLcBGAs/s1600/g.jpg"group-title="RADYO":http-referrer="":http-user-agent="",GİMSA RADYO
-http://yayin.canliyayin.org:9482/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-iJhONRjmXmE/WaLNj-ZeuII/AAAAAAAAUFI/0fi9J_SmZuQjd8BbsxsS1IulLDYkC63qQCLcBGAs/s1600/gonul.jpg"group-title="RADYO":http-referrer="":http-user-agent="",GÖNÜL
-https://22193.live.streamtheworld.com/SC020_SO1_SC
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-Yomw3jXA0Jc/WbFUSQJMyWI/AAAAAAAAVRs/8k51ctXpmvkbIiYGzqQRJ0y1XvN0oUDRwCLcBGAs/s1600/h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",HAYAL FM
-http://yayin.radyohayalfm.net:8050/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-gDZv9yyb16c/WaO5K2TVyyI/AAAAAAAAUIg/CHF26ijZOZ4DfmSbQ5x2O3uvo6gwdmC4gCLcBGAs/s1600/04.jpg"group-title="RADYO":http-referrer="":http-user-agent="",JOY JAZZ
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ_SC?/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-7dQFI-5w2aU/WaVa7FoKObI/AAAAAAAAURA/xUJydaNa1Wgj7W40N6ii7-i2O_2Lg7ZvACLcBGAs/s1600/h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",HAMSİ FM
-http://radyo.hamsi.fm:8050/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-CcKRPprkuwM/WbFTrO8anCI/AAAAAAAAVRk/qwg3Rktm9jIqeHAr_sT91R2B1NW3xpyrwCLcBGAs/s1600/h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",HARBİ RADYO
-https://anadolu.liderhost.com.tr:10958/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-9fa-On78B4E/WafitaNkIdI/AAAAAAAAUfY/lZ6ShIKRzRMMxbKo63vYOTjA7g-pSiObQCLcBGAs/s1600/ms.jpg"group-title="RADYO":http-referrer="":http-user-agent="",MARAŞ SULTAN RADYO
-http://yayin.turkhosted.com:4949/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-nH-9kB-mzig/WaftIHbnxzI/AAAAAAAAUgo/7-Dv6-JDigc9kwYkdr0SNYOB3rT0YK-jQCLcBGAs/s1600/mb.jpg"group-title="RADYO":http-referrer="":http-user-agent="",MAZİDEN BİR DEMET
-http://37.247.98.8/stream/24/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/--J5cQbGO_qk/Walcn3w5sCI/AAAAAAAAUh8/rcjO-l1ZJXUbR4Z6WDbQAcDXKjMLrCSiACLcBGAs/s1600/m.jpg"group-title="RADYO":http-referrer="":http-user-agent="",MEŞK FM
-http://sunucu2.radyolarburada.com:8000/;stream.mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-gZg6fkj7pwc/WZvpl-EAmhI/AAAAAAAATtg/6Qd5PjORS4cHbY1CsaovvgNNt2H0bK29wCLcBGAs/s1600/05.jpg"group-title="RADYO":http-referrer="":http-user-agent="",METEOROLOJİNİN SESİ RADYOSU
-http://radyomgm.canliyayinda.com/;stream.mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-MNXZUvAVkb8/YAKDzwX42WI/AAAAAAAAY_Q/ukIj_mXCkSc0QJo70qNXTSwNO2bvV5XcACLcBGAsYHQ/s0/muglafm.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO MUĞLA
-http://yayin.yayindakiler.com:3006/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-kbHe_WlPR8w/WappZiQKbDI/AAAAAAAAUlg/LGW6PxFHE_AGZUiCCiZPxKtVZfahE0FZACLcBGAs/s1600/m.jpg"group-title="RADYO":http-referrer="":http-user-agent="",MÜZEYYEN
-http://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-QLqMwyi7wpc/WaO81A7n_qI/AAAAAAAAUJM/9nT6i-n7F08WJ2yTRzmNAdbD4d40vFx8wCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",MYDONOSE FM
-https://23603.live.streamtheworld.com/SC010_SO1AAC.aac
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-yOI20GCAV9w/Wap29gBWcRI/AAAAAAAAUnE/F-GjGILUoAgJcHjDXlN6YtYvtnb0nsdvgCLcBGAs/s1600/ntv.jpg"group-title="RADYO":http-referrer="":http-user-agent="",NTV RADYO
-http://ntvrdwmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-Ppujo_MDZ-U/Wap5FNyeEAI/AAAAAAAAUnU/APIiVSXrub8c2D0DNOCOZmFQ8d9MN1nYgCLcBGAs/s1600/n.jpg"group-title="RADYO":http-referrer="":http-user-agent="",NTV SPOR RADYO
-http://ntvsporwmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-lEteWeTl_3I/WarNKkJGioI/AAAAAAAAUr4/Dxw_gAr97BQ07Kap1VofiTdgXKC6IXVLgCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ORDU FM
-https://radyo1.radyo-dinle.tc/8098/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-7FSwezEe85A/WarN51EcH6I/AAAAAAAAUsA/eJ4YZvfZE2YF5lG0zAtRX9wLXcp7igwCQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",ORTACA FM
-http://live.radyotvonline.com:9100/;stream.nsv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-LXxVVCXuGcg/WarOth4wZSI/AAAAAAAAUsE/0QGxinQqM2cyYyK8vO7zTDuIS-21ch5aQCLcBGAs/s1600/80.jpg"group-title="RADYO":http-referrer="":http-user-agent="",OSMANİYE RADYO 80
-http://yayin2.yayindakiler.com:4064/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-Ov4iNS-2KgE/WarPXvQLBXI/AAAAAAAAUsM/EGUqGnyKvrclk0GMYBL2eXvofz4XynsRgCLcBGAs/s1600/rr.jpg"group-title="RADYO":http-referrer="":http-user-agent="",OSMANİYE RENK RADYO
-http://yayin2.yayindakiler.com:4064/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL FM
-http://shoutcast.radyogrup.com:1030/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL FM Seçenek 2
-https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-iWfxrWK6jYk/WarbAj29scI/AAAAAAAAUtQ/m_04v4XGRtYJ7f6ATo6b76HGhLQOOUFmACLcBGAs/s1600/04.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL DOĞA
-http://shoutcast.radyogrup.com:1040/stream/1;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL NOSTALJİ
-http://shoutcast.radyogrup.com:1010/stream/1;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL NOSTALJİ Seçenek 2
-https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-glvwCO57WqM/Warfp_muU2I/AAAAAAAAUuQ/HsjXtWU-ruAiXc7kmJ93kL5FIfuAAVXRwCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PAL STATION
-http://shoutcast.radyogrup.com:1020/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mBziqBjpc34/Wari-TFlC1I/AAAAAAAAUuk/I4h1q6Ra-7Q_LmNwCW9nxrQULS4OFMr8ACLcBGAs/s1600/p.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PARK FM
-http://yayin.netradyom.com:8050/PARKFM
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-4q7LMsuvXa8/Warj79El16I/AAAAAAAAUuw/7XnNNotVwv0_J552i0IDl6Xj04ltEwS_QCLcBGAs/s1600/p.jpg"group-title="RADYO":http-referrer="":http-user-agent="",PLAY FM
-http://live.playfm.com.tr:9050/;stream/1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-GVBCxZot7DQ/WaO9XPEPlqI/AAAAAAAAUJU/khvw8JuB-U4CFIy382CZ2Gy2bUZ4N26LgCLcBGAs/s1600/15.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POP 90
-https://23563.live.streamtheworld.com/POP90_SC?/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-xaBeqb47aGs/WauLMYbCNGI/AAAAAAAAUvI/9XJ8hjwY2joG8g32OyMlxMvjjWqi7RlqACLcBGAs/s1600/p.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POP HOME
-https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-SgRSZcDCZvY/Wavu1ii2opI/AAAAAAAAUyI/3zyVrzb2yckmAnqGzT2mE3FUzhSHp0ocACLcBGAs/s1600/03.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER DANCE
-https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-6xobsOBUtGU/Wl7q6eyBxRI/AAAAAAAAVzM/FUJZqnHtGnsXa1fba6ZBX5hIUqYto1ZvACLcBGAs/s1600/01.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER DEEP
-https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-5FCjSMqh3Cc/WavwtC4j4EI/AAAAAAAAUyk/Y1WywHOiRkE_iivQZAjBxpEXCH-zbpYIQCLcBGAs/s1600/07.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER GREECE
-https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-3hiObzKo35g/WavxkHPa6LI/AAAAAAAAUys/gY1G76zJ79w8Npol9CFdGXzTR4L1kwpkwCLcBGAs/s1600/09.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER LOVE
-https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-Yk2cav7XbvU/XqVtz-EbZ9I/AAAAAAAAYXc/CZB2i1NfWGUXxXR0Ug0WiwD6YRjMP7dowCLcBGAsYHQ/s1600/pp.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER PLUS
-https://listen.powerapp.com.tr/powerplus/abr/powerplus/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-kxAnceij9Nw/Wavy4jjtQhI/AAAAAAAAUy8/L-U4_MJe2kg8YC0EkVNghgVOzlrJ8MuEgCLcBGAs/s1600/12.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER POP
-https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-AnpBi4wc32A/Wav0ajueHDI/AAAAAAAAUzM/2-Qzpj1MXTEeRIVfpKPBuCFu8CF-oVpEACLcBGAs/s1600/16.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER SMOOTH JAZZ
-https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-1dzFx-gVoGc/Wav00elb_pI/AAAAAAAAUzQ/cWbQ4a0CyWUsA1DnTHe5jDlO3SBwHPwJQCLcBGAs/s1600/17.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWER XL
-https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-zrsttlpEdLc/Wav1NweAYPI/AAAAAAAAUzU/fHTTLKdEV9srbDia47TYyMU3JHEdIPO1QCLcBGAs/s1600/18.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWERTÜRK AKUSTİK
-https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-FjvRGqhzeW8/Wav438vdO6I/AAAAAAAAUz8/azkf4H2fUXEWqAPOi_WWF6Z3hsMqSOqdwCLcBGAs/s1600/27.jpg"group-title="RADYO":http-referrer="":http-user-agent="",POWERTÜRK TAPTAZE
-https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-9gPyS5cV5Pk/WaV2g1NsinI/AAAAAAAAUTY/mCh3Aq_qBwc69Um6wn3lcsmQJ-CV_cTrwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KARADENİZ FM
-https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-4fPR7RJ8hkc/WaV-EXJFCXI/AAAAAAAAUUE/RtiIyA-9gEI65i-HW5zBxpd49E2ZG61pwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KAY RADYO
-http://yayin1.yayindakiler.com:3054/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-_34pcPrtME0/WaZwUYm4jgI/AAAAAAAAUVA/4_7Va8e3_X0DMteYtK_MOGHfP0sYCDyMgCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KESKİN FM
-http://yayin1.canliyayin.org:8286/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL FM Seçenek 2
-http://kralwmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-LvKJKicNe7U/WbFWrn2OUEI/AAAAAAAAVSA/yAtWx8KpHSAlAwO5aiOimeq_C8rM3YG9gCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KIRKLARELİ SOYLU FM
-http://yayin2.yayindakiler.com:4034/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-1B5J4OyC_qg/WtsVXqs_lkI/AAAAAAAAWD4/aTVtnrNILRczF5J5wmd9dl5WqIIxiYMHACLcBGAs/s1600/t.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KONYA TİRYAKİ FM
-http://yayin.turkhosted.com:6056/mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL FM
-http://kraltunes.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-ptq-5gcbpY8/Waa0NkrBy3I/AAAAAAAAUac/yXxeTjqhZIMn4qmoHtluhwFeSLeyOxtDwCLcBGAs/s1600/p.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL POP RADYO
-http://kralpopwmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-_3i5902YQWQ/WabGVnv3VTI/AAAAAAAAUcc/ctQ8jFErVMAPneVm7GDfUNpAlrm0f5KOgCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KURAN MEAL RADYO
-http://37.247.98.8/stream/33/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-r1U-nwH0FXI/WabNea43fMI/AAAAAAAAUdE/yg1ruxU702MMVm13sdE7rBU40fSTTia1QCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KÜPE FM
-https://icecast.netmedya.net/kupefm
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-ck-S4CEbd3c/WafYEx4YUhI/AAAAAAAAUd8/-xRRRWrSZBk1SF0P509pIIUuRibzNANbACLcBGAs/s1600/l.jpg"group-title="RADYO":http-referrer="":http-user-agent="",LOKUM FM
-http://37.247.98.9/stream/493/?/;stream.mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-WvBsegVuEBM/WafXP9ZW8zI/AAAAAAAAUd0/08w0wjFT6oMmpICspz4VZqgLqAzUJi2tgCLcBGAs/s1600/l.jpg"group-title="RADYO":http-referrer="":http-user-agent="",LİG RADYO
-http://ligradyo.radyotvonline.net/ligradyo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-MfYRzJbt_qQ/Wav5VNbQgfI/AAAAAAAAU0A/ac--VUBlOGga9LwhyRmubQZTqQjMRujOQCLcBGAs/s1600/r5.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADİO 5
-http://radio5tr.canliyayinda.com:4108/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-zNUe5L5mAi0/WawEEd6POCI/AAAAAAAAU1U/6lxA_YYSe0Iguk77HqpaTa6EzRffI3fXgCLcBGAs/s1600/7.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 7
-http://46.20.3.251/stream/169/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-MkzhwVKqitk/WawEt0psdLI/AAAAAAAAU1c/43vbZp0uq5oCr67iZ7r8OrRwV2LAFSUhACLcBGAs/s1600/81.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 81
-http://yayin.turkhosted.com:3030/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-ftBXExs_vYk/Wav-0zWEPDI/AAAAAAAAU0s/QRAhtgt_fmEqnkQCkwRqivKUPxh2o6_MgCLcBGAs/s1600/2000.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 2000
-http://stream.taksimbilisim.com:8004/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-mzIFe-14KBc/WtybgiA62lI/AAAAAAAAWEk/Bo5fOpUD9YISY9rpqyPGZ6AVeGiKviUAgCLcBGAs/s1600/2.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 2000 FM
-http://radyo2000.radyomhd.com:1100/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-QK8P4j4oU7g/Wav_ex0DeDI/AAAAAAAAU00/pphcjSResJEnWtZpCxrAGATdPTbu_CNxQCLcBGAs/s1600/3h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 3 HİLAL
-http://uchilal.com:8000/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-16HsPxWicU8/WawF8jHx-9I/AAAAAAAAU1o/U6SpZPByM34OSBWAH5H0yZ4snYLrgeGzACLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO A
-https://listen.powerapp.com.tr/radyoa/mpeg/icecast.audio
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-fbHwU-6G-zw/XrMEQ3XamzI/AAAAAAAAYZE/FY_SDNDlH8k4GT69FLLaMoEN-FYxPSNKQCLcBGAsYHQ/s1600/afet.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO AFET
-https://anadolu.liderhost.com.tr:10889/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251099.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251100.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg	HAKAN MUHAFIZ			hakan muhafız 1S1B	http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/251099.mp4"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251101.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg	HAKAN MUHAFIZ			hakan muhafız 1S1B	http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/251099.mp4"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251102.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg	HAKAN MUHAFIZ			hakan muhafız 1S1B	http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/251099.mp4"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251103.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg	HAKAN MUHAFIZ			hakan muhafız 1S1B	http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/251099.mp4"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251104.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg	HAKAN MUHAFIZ			hakan muhafız 1S1B	http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/251099.mp4"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251105.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251106.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251107.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251108.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251109.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251110.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251111.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251112.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251113.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251114.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251116.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S02 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251115.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251117.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251118.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251119.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251120.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251121.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251122.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S03 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251123.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251124.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251125.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251126.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251127.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251128.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251129.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S04 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251130.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352330.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352345.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352344.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352343.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352340.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352339.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352338.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352337.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E11
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352331.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E12
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352332.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E13
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352333.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E14
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352334.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E15
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352335.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E16
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352336.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352358.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352357.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352356.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352355.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352354.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352353.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352352.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352351.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352350.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352349.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E11
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352348.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E12
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352347.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S02 E13
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352346.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352367.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352368.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352369.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352370.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352371.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352366.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352365.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352364.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352363.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352362.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E11
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352361.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E12
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352360.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S03 E13
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352359.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352380.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352381.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352382.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352383.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352384.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352379.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352378.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352377.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352376.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352375.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E11
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352374.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E12
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352373.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S04 E13
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352372.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352392.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352393.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352394.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352395.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352396.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352391.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352390.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352385.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E09
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352386.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E10
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352387.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E11
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352388.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S05 E12
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352389.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352404.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352403.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352402.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352401.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352400.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352399.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352398.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S06 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352397.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E01
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352411.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E02
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352410.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E03
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352409.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E04
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352408.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E05
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352407.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E06
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352406.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E07
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352405.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S07 E08
+http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352412.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-uyTRebjgnPo/WawXWoiM-LI/AAAAAAAAU3U/2GLxsZRhGnEXL_qsZs_2QcjzqeT90noOQCLcBGAs/s1600/b.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO BANKO
 http://yayin.netradyom.com:9910/RADYOBANKO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivaewqDS3tmugwFRWrLrshTx4h1E_S1s8S6ucCGhZhvkdt7k-XyxJK_Pp--j0T-yUywdKtXnpMcxrE3Au8pfnn7F3mN1FTVrz9DQDX_RTrHc7IEvbbO6v4IeviEoxHPcV8KV4aI0tGnfEBswzxiB0nFMhKXNh9w1kGDChkx4kIg92HatyVsG_oFf4VmQ/s1600/c"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ÇETÜKBEY ARABESK
