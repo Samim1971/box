@@ -1,4 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çöküş
+https://edagadavay.click/uploads/encode/roz7usw78wmosgpn5hrg/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E01
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352330.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E02
@@ -13,6 +15,8 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352340.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çöküş
+https://edagadavay.click/uploads/encode/roz7usw78wmosgpn5hrg/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E01
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251099.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E02
