@@ -26,11 +26,11 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352330.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E02
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352345.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E03
-http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352344.mp4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352332.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E04
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352343.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E05
-http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352334.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E06
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
@@ -197,14 +197,10 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-name="TV 8.5"tvg-id="TV8,5.tr"tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644"group-title="Ulusal":http-referrer="":http-user-agent="",TV 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="TV Net"tvg-id="TV Net.tr"tvg-logo="https://play-lh.googleusercontent.com/AECL6sDr1YtDec7ZuBXs5ESB3fdHDZLdapYf-kKsR_miNAtrFXRxoD08qZg4hfwP_pvx"group-title="Ulusal":http-referrer="":http-user-agent="",TV Net
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV4"tvg-id="TV4.tr"tvg-logo="https://i.imgur.com/UpsQsbd.png"group-title="Ulusal":http-referrer="":http-user-agent="",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-name="TR: beIN H&E HD"tvg-id=""tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",TR: beIN H&E HD
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/6673
-#EXTINF:-1 tvg-name="YolTV.tr"tvg-id="YolTV.tr"tvg-logo="https://www.yoltv.com/wp-content/uploads/2025/02/yol-logo-png.webp"group-title="Ulusal":http-referrer="":http-user-agent="",YolTV.tr
-https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
 #EXTINF:-1 tvg-name="Atatürk 1881 - 1919"tvg-id="Atatürk 1881 - 1919"tvg-logo="https://www.only-hd.com/img/film/6399640.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Atatürk 1881 - 1919
 http://fe.191462.xyz:8080/movie/AYetisen120823/vjrbqkCdnh/344700.mp4
 #EXTINF:-1 tvg-name="Avatar "tvg-id="Avatar"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/4215/thumb_8Ic8rRVoVrDJJlXzVzGxAesufUV.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Avatar
@@ -218,7 +214,7 @@ https://s1.imglink.pro/m6/DaI6YxEyqaWcYwRhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5jpz8s0xi1
 #EXTINF:-1 tvg-name="Buz Devri 2 Erime Başlıyor"tvg-id="Buz Devri 2 Erime Başlıyor"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-buz-devri-2-erime-basliyor-720p.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Buz Devri 2 Erime Başlıyor
 https://s3.pixypost.art/mk/DaI6YxEyqaWcYwVhZGN4ZUNhESIOGNd0zxpTy4rKOip3DhLKW0s0xi3vr1
 #EXTINF:-1 tvg-name="Buz Devri 3"tvg-id="Buz Devri 3"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-buz-devri-3-full-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Buz Devri 3
-https://s11.pixypost.art/mi/DaI6YxEyqaWcYwZhZGN4ZUNhESIOGNd0zxpTy4rKOip3DhLKW0s0xi11vr1
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/350647.mp4
 #EXTINF:-1 tvg-name="Buz Devri 4 Kıtalar Ayrılıyor"tvg-id="Buz Devri 4 Kıtalar Ayrılıyor"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-buz-devri-4-kitalar-ayriliyor-ice-age-4-2012.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Buz Devri 4 Kıtalar Ayrılıyor
 https://s24.pixtureup.org/mq/DaI6YxEyqaWcYwDhZGN4ZUNhESIOGNd0zxpTy4qUIlMKIjYz9lMjs0xi24vr1
 #EXTINF:-1 tvg-name="Buz Devri 5 Büyük Çarpışma"tvg-id="Buz Devri 5 Büyük Çarpışma"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-buz-devri-5-buyuk-carpsma-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Buz Devri 5 Büyük Çarpışma
@@ -281,12 +277,10 @@ https://s19.seeshare.pics/mc/F3I0p2SfYxEuoJSwLJ5uYwVhFKEgMJ4hZwNkZP5KEHVgERjhZGN
 https://p1.photomag.biz/v/oa2y167s323s/1080.m3u8
 #EXTINF:-1 tvg-name="Kutsal Damacana 4"tvg-id="Kutsal Damacana 4"tvg-logo="https://www.hdfilmizle.to/v/13081/poster/watch/kutsal-damacana-4.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kutsal Damacana 4
 https://p3.photomag.biz/v/m1nn8tjo9ixj/1080.m3u8
-#EXTINF:-1 tvg-name="The Turkish Detective"tvg-id="The Turkish Detective"tvg-logo="https://www.only-hd.com/img/film/4968736.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Turkish Detective
-https://cda-3cd-205gv.video-ik-ok-ii.wiki/f2/55/0/1746661216/8sxmt5cxIDWvwsQD0gn0MA/5/480/1/838643/master.m3u8
 #EXTINF:-1 tvg-name="Titanik"tvg-id="Titanik"tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/5025/thumb_f9iH7Javzxokvnkiz2yHD1dcmUy.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Titanik
 http://fe.191462.xyz:8080/movie/AYetisen120823/vjrbqkCdnh/253954.mp4
 #EXTINF:-1 tvg-name="Vizontele"tvg-id="Vizontele"tvg-logo="https://filmekseni.net/uploads/poster/vizontele_thumb.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Vizontele
-https://cdn.jfvid.com/vod/converted-video/vod-content/39/48/66/27/98/33/98/87/79/4/3e685784-d3df-462b-a862-aea8fec85874/kaltura/desc_007bed6d63a54c5ad8592e411dc2cbf2/vMjUn3QlKfW4/vw=1280,vh=720,fps=25.00,vbrt=964100,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+http://mutlutv.xyz:8080/movie/Ercanersen/94774fert3674/443085.mp4
 #EXTINF:-1 tvg-name="Vizontele Tuuba"tvg-id="Vizontele Tuuba"tvg-logo="https://filmekseni.net/uploads/poster/vizontele-tuuba_thumb.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Vizontele Tuuba
 https://cdn.jfvid.com/vod/converted-video/vod-content/56/70/74/68/18/87/36/07/35/1/098dcb9b-72a3-4230-81fa-e6a13d01c39d/kaltura/desc_05ba9b2f45608a65768a6436a1065ff1/vXgXXlpeO1kw/vw=1280,vh=720,fps=25.00,vbrt=1159710,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Yol Arkadaşım 1"tvg-id="Yol Arkadaşım 1"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-1-60739.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 1
@@ -299,26 +293,16 @@ https://vs1.photour.org/m5/n2p5Az5lLJ16oTAyd0zxpTuiqT91pv5ipzps0xi1vr1
 https://vs2.photour.org/ma/MUy1rQyioJZlq2Rkd0zxpTuiqT91pv5ipzps0xi2vr1
 #EXTINF:-1 tvg-name="Yüzüklerin Efendisi Yüzük Kardeşliği "tvg-id="Yüzüklerin Efendisi Yüzük Kardeşliği "tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-yuzuklerin-efendisi-yuzuk-kardesligi-full-hd-film-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yüzüklerin Efendisi Yüzük Kardeşliği
 https://vs3.photomag.biz/mb/qJSuqzyjAGIloJRjd0zxpTuiqT9gLJphLzy6s0xi3vr1bhd
-#EXTINF:-1 tvg-name="Aşk ve Gurur izle (2005)"tvg-id="Aşk ve Gurur izle (2005)"tvg-logo="https://jetfilmizle.nl/wp-content/posterler/2022/09/ask-ve-gurur-izle.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Aşk ve Gurur izle (2005)
-https://cdn.jfvid.com/vod/converted-video/vod-content/91/18/48/78/74/05/76/63/30/8/af74bc54-17e5-4ce2-9729-2e3bba232336/kaltura/desc_7326ef6ca41cb4a1d492fb2c64b9ea6c/v2H2Al8HqnF4/vw=1920,vh=818,fps=24.00,vbrt=2564653,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name="Aynı Yıldızın Altında "tvg-id="Aynı Yıldızın Altında "tvg-logo="https://jetfilmizle.nl/wp-content/posterler/2022/09/ayni-yildizin-altinda-izle.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Aynı Yıldızın Altında
-https://cdn.jfvid.com/vod/converted-video/vod-content/72/39/95/37/76/17/39/93/06/6/1fefa4c5-d689-41ef-bf31-ef0247dac23c/kaltura/desc_f4f58d01cae2c657fc1b1bb3e081573d/vx2ASTD7rNEI/vw=640,vh=344,fps=24.00,vbrt=435133,abrt=129379,vcodec=avc1.4D4014,acodec=mp4a.40.2,label=360p/index-f3-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Bir Gecelik Aşk"tvg-id="ext"tvg-logo="https://www.hdfilmizle.to/v/501275/poster/watch/bir-gecelik-ask.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Bir Gecelik Aşk
 https://vs12.photomag.biz/v/About.Last.Night...1986.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
 #EXTINF:-1 tvg-name="Dert Etme Sevgilim"tvg-id="ext"tvg-logo="https://cdn.filmmodu.tv/uploads/movie/poster/12259/thumb_zdCcB6eRSgYxozVH33oznLI828d.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Dert Etme Sevgilim
 https://sx1.rovideo.buzz/v/d/tt10731256/tr/1080
-#EXTINF:-1 tvg-name="Duvar – The Wall"tvg-id="ext"tvg-logo="https://jetfilmizle.nl/wp-content/posterler/2022/09/die-wand-izle.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Duvar – The Wall
-https://cdn.jfvid.com/vod/converted-video/vod-content/59/15/89/31/71/57/44/32/11/5/0c2120aa-bd6e-4b64-bbe4-ee8a86604501/kaltura/desc_e14127ae67b8b4f65dd6704c4d0352ac/vTBH79hX8hjE/vw=640,vh=274,fps=24.00,vbrt=409706,abrt=129380,vcodec=avc1.4D4014,acodec=mp4a.40.2,label=360p/index-f3-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Gençlik Kural Tanımaz"tvg-id="Gençlik Kural Tanımaz"tvg-logo="https://www.hdfilmizle.to/v/501600/poster/watch/genclik-kural-tanimaz.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Gençlik Kural Tanımaz
 https://vs17.photoflick.org/v/Whatever.It.Takes.2000.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
-#EXTINF:-1 tvg-name="Gün Doğmadan izle (1995)"tvg-id="Gün Doğmadan izle (1995)"tvg-logo="https://jetfilmizle.nl/wp-content/posterler/2022/09/gun-dogmadan-izle.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Gün Doğmadan izle (1995)
-https://cdn.jfvid.com/vod/converted-video/vod-content/86/15/28/44/64/72/10/82/44/6/d7b0d829-0d4e-4c27-ab6e-cb3dec8a14d3/kaltura/desc_299c0e05743c318961578c0aecd36ab6/vC2ImsoYeo08/vw=1270,vh=720,fps=24.00,vbrt=1470047,abrt=130304,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 #EXTINF:-1 tvg-name="İkimizin Yerine"tvg-id="ext"tvg-logo="https://filmkovasi.org/wp-content/uploads/2024/12/ikimizin-yerine-180x270.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",İkimizin Yerine
 https://p2.photostack.net/v/6koe6l1aapjo/720.m3u8
 #EXTINF:-1 tvg-name="Luccanın Dünyası"tvg-id="ext"tvg-logo="https://www.hdfilmizle.to/v/501272/poster/watch/luccanin-dunyasi.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Luccanın Dünyası
 https://vs11.photomag.biz/v/Los.dos.hemisferios.de.Lucca.2025.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
-#EXTINF:-1 tvg-name="Moonfall"tvg-id="ext"tvg-logo="https://images.macellan.online/images/movie/poster/280/420/100/b47b8eeq5u88pwa1162b07a5.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Moonfall
-https://cdn.jfvid.com/vod/converted-video/vod-content/51/83/46/34/38/06/33/48/13/4/c2991d81-d989-4a44-a214-170880ce3340/kaltura/desc_b6fd899b30e13cacaad7e900f1499cd1/vYvdmTw_fSVQ/vw=1024,vh=428,fps=24.00,vbrt=676087,abrt=129379,vcodec=avc1.64001E,acodec=mp4a.40.2,label=576p/index-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="My Fault (2023)"tvg-id="ext"tvg-logo="https://www.hdfilmizle.to/v/8687/poster/watch/my-fault-izle.webp"group-title="GİZEM":http-referrer="":http-user-agent="",My Fault (2023)
 https://vs14.photofunny.org/v/Culpa.mia.2023.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
 #EXTINF:-1 tvg-name="Sıcak Kalpler"tvg-id="ext"tvg-logo="https://filmkovasi.org/wp-content/uploads/2024/12/sicak-kalpler-180x270.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Sıcak Kalpler
@@ -327,16 +311,12 @@ https://p3.photofunny.org/v/z9hsjyry4bq2/720.m3u8
 https://sx1.rovideo.buzz/v/d/tt0159365/tr/480
 #EXTINF:-1 tvg-name="Tatlı Villa"tvg-id="ext"tvg-logo="https://www.hdfilmizle.to/v/501293/poster/watch/tatli-villa.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Tatlı Villa
 https://vs15.photomag.biz/v/La.Dolce.Villa.2025.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
-#EXTINF:-1 tvg-name="Tenten’in Maceraları "tvg-id="ext"tvg-logo="https://www.buzfilmizle3.com/wp-content/uploads/Tentenin-Maceralari.jpg.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Tenten’in Maceraları
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/47/84/66/93/30/34/98/94/4/f9d7d9d1-7248-4c56-8943-1acbf04a3464/kaltura/desc_cdd5c67409d9b65ad055024b561f0493/vAWLulGPIdnQ/master.m3u8
 #EXTINF:-1 tvg-name="The End"tvg-id="ext"tvg-logo="https://filmekseni.net/uploads/poster/fin_list.webp"group-title="GİZEM":http-referrer="":http-user-agent="",The End
 https://d2.rovideo.buzz/v/d/tt1245492/tr/1080
 #EXTINF:-1 tvg-name="The Road yol"tvg-id="ext"tvg-logo="https://filmekseni.net/uploads/poster/yol_list.webp"group-title="GİZEM":http-referrer="":http-user-agent="",The Road yol
 https://box-tu-954.vmeas.cloud/hls/xqx2oeqrpjokjiqbteasjjymwwdc3ctrrsfqw46q33xzcxar53dbvdd5jmda/index-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Wonderwell"tvg-id="ext"tvg-logo="https://cdn.filmmodu.tv/uploads/movie/poster/14057/thumb_deoxTZeVAULpVvbbxrNxAcyHAkk.webp"group-title="GİZEM":http-referrer="":http-user-agent="",Wonderwell
 https://sx1.rovideox.org/v/d/tt6195756/tr/1080
-#EXTINF:-1 tvg-name="Zamanda Aşk"tvg-id="Zamanda Aşk"tvg-logo="https://jetfilmizle.nl/wp-content/posterler/2022/09/zamanda-ask-izle.jpg"group-title="GİZEM":http-referrer="":http-user-agent="",Zamanda Aşk
-https://cdn.jfvid.com/vod/converted-video/vod-content/16/10/98/18/14/66/18/16/23/2/e7ed2f58-0614-4e11-bc7e-9b4c20b80657/kaltura/desc_7c91583b486fd2285841cf667c8d5ec9/v1pEA1dxjIEI/vw=1920,vh=800,fps=24.00,vbrt=1602541,abrt=130876,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png"group-title="Belgesel":http-referrer="":http-user-agent="",Trt Belgesel
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtbelgesel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6NDc6NTEgUE0maGFzaF92YWx1ZT1SMjZZYW9FNk0weUpzSDJ6OFRZcUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geographic
@@ -1570,45 +1550,45 @@ https://vidmody.com/vs/tt2308733
 #EXTINF:-1 tvg-name="Evde Tek Başına 6 2021"tvg-id="ext"tvg-logo="https://images.justwatch.com/poster/320040834/s718/home-sweet-home-alone.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Evde Tek Başına 6 2021
 https://vidmody.com/vs/tt11012066
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 1. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1656.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266856.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 2. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1657.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266857.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 3. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1658.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266858.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 4. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1659.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266859.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 5. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1660.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266860.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 6. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1661.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266861.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 7. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1662.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266852.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 8. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1663.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266863.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 9. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1664.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266864.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584648/s718/sezon-1.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 1. Sezon 10. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1665.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266865.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 1. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1666.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266866.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 2. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1667.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266867.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 3. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1668.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266868.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 4. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1669.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266869.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 5. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1670.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266870.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 6. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1671.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266871.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 7. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1672.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266872.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 8. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1673.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266873.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 9. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1674.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266874.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/8584616/s718/sezon-2.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 2. Sezon 10. Bölüm
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1675.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266875.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f3/Game_of_Thrones_sezon_3_dvd.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 3. Sezon 1. Bölüm
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1676.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f3/Game_of_Thrones_sezon_3_dvd.jpg"group-title="Game of Thrones":http-referrer="":http-user-agent="",Game of Thrones 3. Sezon 2. Bölüm
@@ -2195,10 +2175,6 @@ https://uzunmuhalefet.serv00.net/rtspme.php?id=TE35FzBS&.m3u8
 https://uzunmuhalefet.serv00.net/rtspme.php?id=BGeBe5Ba&.m3u8
 #EXTINF:-1 tvg-name="Aksaray"tvg-id="ext"tvg-logo="https://i.imgur.com/U5haGKx.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Aksaray
 https://uzunmuhalefet.serv00.net/rtspme.php?id=2s4tndDi&.m3u8
-#EXTINF:-1 tvg-name="Ankara"tvg-id="ext"tvg-logo="https://i.imgur.com/EtX0Jx2.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Ankara
-https://stream.ankara.bel.tr/live/1/index.m3u8
-#EXTINF:-1 tvg-name="Ankara"tvg-id="ext"tvg-logo="https://i.imgur.com/EtX0Jx2.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Ankara
-https://stream.ankara.bel.tr/live/2/index.m3u8
 #EXTINF:-1 tvg-name="Ankara"tvg-id="ext"tvg-logo=""group-title="KAMERALAR":http-referrer="":http-user-agent="",Ankara
 http://cdn10-ipkamerademo.yayin.com.tr/ipkamerademo/ipkamerademo/playlist.m3u8
 #EXTINF:-1 tvg-name="Bal ±kesir"tvg-id="ext"tvg-logo="https://i.imgur.com/Wf7oTo8.png"group-title="KAMERALAR":http-referrer="":http-user-agent="",Bal ±kesir
@@ -4932,11 +4908,11 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352330.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E02
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352345.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E03
-http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352344.mp4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352332.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E04
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352343.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E05
-http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352334.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E06
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
@@ -5133,8 +5109,6 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/312523.mp4
 http://yayin.netradyom.com:9910/RADYOBANKO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivaewqDS3tmugwFRWrLrshTx4h1E_S1s8S6ucCGhZhvkdt7k-XyxJK_Pp--j0T-yUywdKtXnpMcxrE3Au8pfnn7F3mN1FTVrz9DQDX_RTrHc7IEvbbO6v4IeviEoxHPcV8KV4aI0tGnfEBswzxiB0nFMhKXNh9w1kGDChkx4kIg92HatyVsG_oFf4VmQ/s1600/c"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ÇETÜKBEY ARABESK
 http://radyo.yayin.com.tr:5980/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-hH65iY7cVIE/Wa0huWzyFwI/AAAAAAAAU5c/hRIylKHIiToQs-8ST4HXBtTEy0ZvsYdQgCLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO DAMAR FM
-https://player.web.tr/listen/e2e83b936dab89779a3a7f88b2048eff
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-PWbaCBhR7jI/Wa0pEwv5osI/AAAAAAAAU6g/JLoz36eWVEQYVvEzySuueszeElt_eDkIwCLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO EKSEN
 http://eksenwmp.radyotvonline.com/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-OEjWzcFzj6c/Wa0qOS7WvyI/AAAAAAAAU6s/b9XpoE28gKITAWiP2hMTeXcJR19kyYedACLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ENERJİ
@@ -5161,8 +5135,6 @@ https://stream.radyoodtu.com.tr/canli;
 https://stream.radyoodtu.com.tr/easy;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ HİT
 https://stream.radyoodtu.com.tr/hit;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ ROCK
-http://stream.radyoodtu.com.tr/rock;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ KARIŞIK KASET
 https://stream.radyoodtu.com.tr/karisikkaset;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-cr4BVToSt3M/Wa5-_wTf7-I/AAAAAAAAVAA/W91fDXCC7_Y1ulEFZ_TdvxbHuVXAUWEEQCLcBGAs/s1600/r.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO RENK
@@ -5231,14 +5203,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_S
 http://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-DKNhdtS_sIY/WbAEK8B2iAI/AAAAAAAAVNI/MoHkzf8SwT8GqiPhsm2I2U8ZKwE-SPjaACLcBGAs/s1600/03.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO
 http://stream.radyolarburada.com/radio/8020/yonradyo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-v91vqYYw4YE/YPAdPO5iOfI/AAAAAAAAZcA/XK37D8ZBQ3ATeTwe_gJZ0vmZnTzIuRXeQCLcBGAsYHQ/s0/yonrock.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO ROCK
-https://stream.radyolarburada.com/radio/8090/yonrock
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-qonjKeB5CPU/WbALcYSKxHI/AAAAAAAAVN0/EpUtQLlOn5g0aNZka_h2idmJyzcWARYkgCLcBGAs/s1600/06.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO TÜRKÜ
-http://stream.radyolarburada.com/radio/8050/yonturku
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-GrxybaxqCjY/WbAPg-1A73I/AAAAAAAAVOo/nhMD9Gun8mo1w4hN8K1t6V_FBY6vEBSJgCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YUNUS FM
 http://95.173.162.184:7350/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-dLxVUxRkfy0/VplGqLOR-RI/AAAAAAAAN9Q/nyJtf--UVtU/s1600/galatasaraytv4.jpg"group-title="RADYO":http-referrer="":http-user-agent="",GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-cEPVP5jztjA/VgwZVCtemHI/AAAAAAAAMJk/6hIuRoXfaII/s1600/trtantalyard.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT ANTALYA RADYOSU
 https://radio-trtantalya.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-QrO5wLzfyTY/VgwZlxuhloI/AAAAAAAAMJs/iDPdh2y7VBQ/s1600/trtcukurovard.jpg"group-title="RADYO":http-referrer="":http-user-agent="",TRT ÇUKUROVA RADYOSU
@@ -5297,18 +5263,12 @@ http://bilecikfm.kesintisizyayin.com:9980/;
 http://ip131.radyotelekom.com:9832/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-1OaBgHVOxlo/WZ8UQ5W3r6I/AAAAAAAAT3s/lkVt49pTqysADfeZ4Dac9DL7TcgZjxKEACLcBGAs/s1600/26.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BRT BAYRAK TÜRK MÜZİĞİ
 http://sc.brtk.net:8010/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-CJbLR6aS9Gw/WaAhum8YotI/AAAAAAAAT40/vQglkM7jgCYM4Bm_v3a97Bi5WmHiGEnsACLcBGAs/s1600/1001.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA 1001 FM
-http://stream.radyolarburada.com/radio/8280/1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-CJbLR6aS9Gw/WaAhum8YotI/AAAAAAAAT40/vQglkM7jgCYM4Bm_v3a97Bi5WmHiGEnsACLcBGAs/s1600/1001.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA 1001 FM
-https://stream.radyolarburada.com/radio/8280/1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-n9o7m5JMG5I/WaA6ukfDWEI/AAAAAAAAT7I/F3Ng12uqo5cmS_B0Dv0krAmwexmH8XiCgCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSA RADYO S
 http://icecast.netmedya.net/radyos
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-kqCl6mFOhuU/WaFPCZaRADI/AAAAAAAAT8o/n0_eFwzXbMIvQVvvN1bQyrzIvhSWed0PACLcBGAs/s1600/b.jpg"group-title="RADYO":http-referrer="":http-user-agent="",BURSADA BUGÜN RADYO
 https://radyo.bursadabugun.com/stream
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-xYWSJ-O_WhE/WaF5Bm7ztSI/AAAAAAAAT_g/nln19UuWJywHnmGdEQ89sI3biisU6HvZgCLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DAMAR FM
 http://yayin.damarfm.com:8080/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-zyEUMclTIX0/WaF_Fmt8TOI/AAAAAAAAUAQ/RslstCGSI9AfLGuXd3sZf6-6hK1GBR3NACLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DEM RADYO
-http://s1.voscast.com:9572/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-i2z9JROnTME/WaKmCCVSVzI/AAAAAAAAUBc/NIqOYRCxls48mKrNpw593B4MyCnvBU60QCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DENİZLİ SES RADYO
 http://95.173.188.166:9300/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-AvGXm8CavA0/WaKq3D2ovcI/AAAAAAAAUBs/NMWewl3wrA8BmSZHmEQjatfXzrhMblLnQCLcBGAs/s1600/rd.jpg"group-title="RADYO":http-referrer="":http-user-agent="",DERYA FM Konya
@@ -5421,8 +5381,6 @@ http://yayin1.yayindakiler.com:3054/;
 http://yayin1.canliyayin.org:8286/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL FM Seçenek 2
 http://kralwmp.radyotvonline.com/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-LvKJKicNe7U/WbFWrn2OUEI/AAAAAAAAVSA/yAtWx8KpHSAlAwO5aiOimeq_C8rM3YG9gCLcBGAs/s1600/s.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KIRKLARELİ SOYLU FM
-http://yayin2.yayindakiler.com:4034/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-1B5J4OyC_qg/WtsVXqs_lkI/AAAAAAAAWD4/aTVtnrNILRczF5J5wmd9dl5WqIIxiYMHACLcBGAs/s1600/t.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KONYA TİRYAKİ FM
 http://yayin.turkhosted.com:6056/mp3
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.jpg"group-title="RADYO":http-referrer="":http-user-agent="",KRAL FM
@@ -5449,16 +5407,12 @@ http://stream.taksimbilisim.com:8004/;
 http://radyo2000.radyomhd.com:1100/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-QK8P4j4oU7g/Wav_ex0DeDI/AAAAAAAAU00/pphcjSResJEnWtZpCxrAGATdPTbu_CNxQCLcBGAs/s1600/3h.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO 3 HİLAL
 http://uchilal.com:8000/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-16HsPxWicU8/WawF8jHx-9I/AAAAAAAAU1o/U6SpZPByM34OSBWAH5H0yZ4snYLrgeGzACLcBGAs/s1600/a.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO A
-https://listen.powerapp.com.tr/radyoa/mpeg/icecast.audio
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-fbHwU-6G-zw/XrMEQ3XamzI/AAAAAAAAYZE/FY_SDNDlH8k4GT69FLLaMoEN-FYxPSNKQCLcBGAsYHQ/s1600/afet.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO AFET
 https://anadolu.liderhost.com.tr:10889/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-uyTRebjgnPo/WawXWoiM-LI/AAAAAAAAU3U/2GLxsZRhGnEXL_qsZs_2QcjzqeT90noOQCLcBGAs/s1600/b.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO BANKO
 http://yayin.netradyom.com:9910/RADYOBANKO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivaewqDS3tmugwFRWrLrshTx4h1E_S1s8S6ucCGhZhvkdt7k-XyxJK_Pp--j0T-yUywdKtXnpMcxrE3Au8pfnn7F3mN1FTVrz9DQDX_RTrHc7IEvbbO6v4IeviEoxHPcV8KV4aI0tGnfEBswzxiB0nFMhKXNh9w1kGDChkx4kIg92HatyVsG_oFf4VmQ/s1600/c"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ÇETÜKBEY ARABESK
 http://radyo.yayin.com.tr:5980/;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-hH65iY7cVIE/Wa0huWzyFwI/AAAAAAAAU5c/hRIylKHIiToQs-8ST4HXBtTEy0ZvsYdQgCLcBGAs/s1600/d.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO DAMAR FM
-https://player.web.tr/listen/e2e83b936dab89779a3a7f88b2048eff
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://3.bp.blogspot.com/-PWbaCBhR7jI/Wa0pEwv5osI/AAAAAAAAU6g/JLoz36eWVEQYVvEzySuueszeElt_eDkIwCLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO EKSEN
 http://eksenwmp.radyotvonline.com/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-OEjWzcFzj6c/Wa0qOS7WvyI/AAAAAAAAU6s/b9XpoE28gKITAWiP2hMTeXcJR19kyYedACLcBGAs/s1600/e.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ENERJİ
@@ -5485,8 +5439,6 @@ https://stream.radyoodtu.com.tr/canli;
 https://stream.radyoodtu.com.tr/easy;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ HİT
 https://stream.radyoodtu.com.tr/hit;
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ ROCK
-http://stream.radyoodtu.com.tr/rock;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ODTÜ KARIŞIK KASET
 https://stream.radyoodtu.com.tr/karisikkaset;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-cr4BVToSt3M/Wa5-_wTf7-I/AAAAAAAAVAA/W91fDXCC7_Y1ulEFZ_TdvxbHuVXAUWEEQCLcBGAs/s1600/r.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO RENK
@@ -5555,9 +5507,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_S
 http://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-DKNhdtS_sIY/WbAEK8B2iAI/AAAAAAAAVNI/MoHkzf8SwT8GqiPhsm2I2U8ZKwE-SPjaACLcBGAs/s1600/03.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO
 http://stream.radyolarburada.com/radio/8020/yonradyo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-v91vqYYw4YE/YPAdPO5iOfI/AAAAAAAAZcA/XK37D8ZBQ3ATeTwe_gJZ0vmZnTzIuRXeQCLcBGAsYHQ/s0/yonrock.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO ROCK
-https://stream.radyolarburada.com/radio/8090/yonrock
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-qonjKeB5CPU/WbALcYSKxHI/AAAAAAAAVN0/EpUtQLlOn5g0aNZka_h2idmJyzcWARYkgCLcBGAs/s1600/06.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YÖN RADYO TÜRKÜ
-http://stream.radyolarburada.com/radio/8050/yonturku
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-GrxybaxqCjY/WbAPg-1A73I/AAAAAAAAVOo/nhMD9Gun8mo1w4hN8K1t6V_FBY6vEBSJgCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YUNUS FM
 http://95.173.162.184:7350/;
