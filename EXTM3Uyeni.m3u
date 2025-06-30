@@ -1,4 +1,24 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
+#EXTINF:-1 tvg-name="Pavyon-S01E01"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266710.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E02"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266711.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E03"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266712.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E04"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266713.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E05"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266714.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E06"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266716.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E01"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266717.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E02"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266718.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E03"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266719.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E04"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266720.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çöküş
 https://edagadavay.click/uploads/encode/roz7usw78wmosgpn5hrg/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E01
@@ -15,8 +35,10 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352342.mp4
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352341.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E07
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/352340.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çöküş
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Çöküş
 https://edagadavay.click/uploads/encode/roz7usw78wmosgpn5hrg/480p/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/7-kogustaki-mucize_list.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Koğuştaki Mucize
+https://ganadavay.click/uploads/encode/gxjswx4ubvftkht87a1b/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E01
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251099.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E02
@@ -27,6 +49,8 @@ http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251101.mp4
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251102.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Hakan_Muhaf%C4%B1z_afi%C5%9Fi.jpg"group-title="HAKAN MUHAFIZ":http-referrer="":http-user-agent="",Hakan: Muhafız S01 E05
 http://fe.191462.xyz:80/series/AYetisen120823/vjrbqkCdnh/251103.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/7-kogustaki-mucize_list.webp"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Koğuştaki Mucize
+https://ganadavay.click/uploads/encode/gxjswx4ubvftkht87a1b/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B1
 http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349920.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S1B2
@@ -3572,13 +3596,25 @@ http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/121.mkv
 #EXTINF:-1 tvg-name="Kemal.Sunal-Atla.Gel.Saban"tvg-id=""tvg-logo=""group-title="KEMAL SUNAL":http-referrer="":http-user-agent="",Kemal.Sunal-Atla.Gel.Saban
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/120.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E01"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E01
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/3301.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266710.mp4
 #EXTINF:-1 tvg-name="Pavyon-S01E02"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E02
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/3302.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266711.mp4
 #EXTINF:-1 tvg-name="Pavyon-S01E03"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E03
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/3303.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266712.mp4
 #EXTINF:-1 tvg-name="Pavyon-S01E04"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E04
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/3304.mkv
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266713.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E05"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266714.mp4
+#EXTINF:-1 tvg-name="Pavyon-S01E06"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S01E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266716.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E01"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S02E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266717.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E02"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S02E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266718.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E03"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S02E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266719.mp4
+#EXTINF:-1 tvg-name="Pavyon-S02E04"tvg-id=""tvg-logo=""group-title="PAVYON":http-referrer="":http-user-agent="",Pavyon-S02E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266720.mp4
 #EXTINF:-1 tvg-name="YD-Vikings.S01E01"tvg-id=""tvg-logo=""group-title="VİKİNGLER":http-referrer="":http-user-agent="",YD-Vikings.S01E01
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/2719.mkv
 #EXTINF:-1 tvg-name="YD-Vikings.S01E02"tvg-id=""tvg-logo=""group-title="VİKİNGLER":http-referrer="":http-user-agent="",YD-Vikings.S01E02
