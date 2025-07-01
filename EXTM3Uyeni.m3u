@@ -5509,3 +5509,7 @@ http://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 http://stream.radyolarburada.com/radio/8020/yonradyo
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-GrxybaxqCjY/WbAPg-1A73I/AAAAAAAAVOo/nhMD9Gun8mo1w4hN8K1t6V_FBY6vEBSJgCLcBGAs/s1600/13.jpg"group-title="RADYO":http-referrer="":http-user-agent="",YUNUS FM
 http://95.173.162.184:7350/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="İNGİLİZCE EĞİTİM.":http-referrer="":http-user-agent="",ingilizce 1
+file://192.168.1.1/(usb2_sda1)vroyun/354275.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",
+
