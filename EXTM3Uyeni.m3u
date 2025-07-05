@@ -1,24 +1,24 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml,https://www.open-epg.com/files/turkey2.xml,https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/turkey4.xml,https://gitlatte.github.io/m3ueditor/epg-listeleri/turkey.xml" 
 #EXTINF:-1 tvg-name="Pavyon-S01E01"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E01
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266710.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150304.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E02"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E02
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266711.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150305.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E03"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E03
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266712.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150306.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E04"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E04
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266713.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150307.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E05"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E05
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266714.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150308.mkv
 #EXTINF:-1 tvg-name="Pavyon-S01E06"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S01E06
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266716.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150309.mkv
 #EXTINF:-1 tvg-name="Pavyon-S02E01"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E01
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266717.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150310.mkv
 #EXTINF:-1 tvg-name="Pavyon-S02E02"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E02
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266718.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150311.mkv
 #EXTINF:-1 tvg-name="Pavyon-S02E03"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E03
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266719.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150312.mkv
 #EXTINF:-1 tvg-name="Pavyon-S02E04"tvg-id=""tvg-logo=""group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pavyon-S02E04
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/266720.mp4
+http://kingtr.xyz:8080/series/Nazmiabi/TL8aSufXH9WH/150313.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/downfall21_1502.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çöküş
 https://edagadavay.click/uploads/encode/roz7usw78wmosgpn5hrg/480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E01
@@ -91,30 +91,52 @@ http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361828.mp4
 http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361829.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Gassal.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",GASSAL S2B10
 http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/361830.mp4
-#EXTINF:-1 tvg-name="BİEN1"tvg-id="BİEN1"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
-#EXTINF:-1 tvg-name="BİEN2"tvg-id="BİEN2"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/318927.ts
-#EXTINF:-1 tvg-name="BİEN3"tvg-id="BİEN3"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/201419.ts
-#EXTINF:-1 tvg-name="BİEN4"tvg-id="BİEN4"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN4
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
-#EXTINF:-1 tvg-name="BİEN5"tvg-id="BİEN5"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN5
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/824.ts
-#EXTINF:-1 tvg-name="BİEN6"tvg-id="BİEN6"tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN6
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/822.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/823.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN3 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9369.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/9368.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN2 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/824.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/201419.ts
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",BİEN1 YEDEK
-http://fe.191462.xyz:8080/live/AYetisen120823/vjrbqkCdnh/4521.ts
+#EXTINF:-1 tvg-name="TR: b-SPORTS HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194336
+#EXTINF:-1 tvg-name="TR: b-SPORTS HD+"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS HD+
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194335
+#EXTINF:-1 tvg-name="TR: b-SPORTS FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194334
+#EXTINF:-1 tvg-name="TR: b-SPORTS FHD+"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS FHD+
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194333
+#EXTINF:-1 tvg-name="TR: b-SPORTS 4K"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 4K
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194354
+#EXTINF:-1 tvg-name="TR: b-SPORTS 2 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 2 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194339
+#EXTINF:-1 tvg-name="TR: b-SPORTS 2 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 2 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194340
+#EXTINF:-1 tvg-name="TR: b-SPORTS 3 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 3 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194341
+#EXTINF:-1 tvg-name="TR: b-SPORTS 3 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 3 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194342
+#EXTINF:-1 tvg-name="TR: b-SPORTS 4 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 4 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194343
+#EXTINF:-1 tvg-name="TR: b-SPORTS 4 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 4 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194344
+#EXTINF:-1 tvg-name="TR: b-SPORTS 5 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 5 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194345
+#EXTINF:-1 tvg-name="TR: b-SPORTS 5 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS 5 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194346
+#EXTINF:-1 tvg-name="TR: b-SPORTS MAX 1 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS MAX 1 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194347
+#EXTINF:-1 tvg-name="TR: b-SPORTS MAX 1 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS MAX 1 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194348
+#EXTINF:-1 tvg-name="TR: b-SPORTS MAX 2 HD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS MAX 2 HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194349
+#EXTINF:-1 tvg-name="TR: b-SPORTS MAX 2 FHD"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-SPORTS MAX 2 FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/194350
+#EXTINF:-1 tvg-name="TR: b-CONNECT 1"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 1
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189088
+#EXTINF:-1 tvg-name="TR: b-CONNECT 2"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 2
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189089
+#EXTINF:-1 tvg-name="TR: b-CONNECT 3"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 3
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189090
+#EXTINF:-1 tvg-name="TR: b-CONNECT 4"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 4
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189091
+#EXTINF:-1 tvg-name="TR: b-CONNECT 5"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 5
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189092
+#EXTINF:-1 tvg-name="TR: b-CONNECT 6"tvg-id=""tvg-logo=""group-title="BİEN":http-referrer="":http-user-agent="",TR: b-CONNECT 6
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/189093
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",ATV
@@ -147,6 +169,38 @@ https://canlitvulusal.xyz/live/showmax/index.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV.tr"tvg-id="NTV.tr"tvg-logo="https://i.imgur.com/jXbs8FZ.png"group-title="Ulusal":http-referrer="":http-user-agent="",NTV.tr
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80136
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166515
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: DISCOVERY ID HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80138
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: DISCOVERY ID FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166513
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: NATIONAL GEOGRAPHIC HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80134
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: NATIONAL GEOGRAPHIC FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166516
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: NAT GEO WILD HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80133
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: NAT GEO WILD FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166517
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: BBC Earth HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80139
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: BBC Earth FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166512
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: ViASAT HiSTORY HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80145
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: VIASAT EXPLORE HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80135
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: HISTORY HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80140
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: HISTORY FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166511
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: LOVE NATURE HD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/80152
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Ulusal":http-referrer="":http-user-agent="",TR: LOVE NATURE FHD
+http://kingtr.xyz:8080/Nazmiabi/TL8aSufXH9WH/166509
 #EXTINF:-1 tvg-name="Nat Geo HD TR"tvg-id="NATIONAL GEOGRAPHIC HD.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/2560px-Nat_Geo_HD_Logo.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",Nat Geo HD TR
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="NAT.GEO.WILD.tr"tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg"group-title="Ulusal":http-referrer="":http-user-agent="",Nat Geo Wild
@@ -5511,5 +5565,3 @@ http://stream.radyolarburada.com/radio/8020/yonradyo
 http://95.173.162.184:7350/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="İNGİLİZCE EĞİTİM.":http-referrer="":http-user-agent="",ingilizce 1
 http://192.168.1.1:80/(usb2_sda1)vroyun/354275.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-referrer="":http-user-agent="",
-
