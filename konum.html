@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Canlı Firebase Haritası</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    html, body { height: 100%; margin: 0; }
+    #map { width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  const firebaseUrl = "https://test-d477c-default-rtdb.firebaseio.com/samim.json";
+  const map = L.map('map').setView([40.86, 29.27], 15);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  let markers = [];
+  let polyline = null;
+
+  async function fetchAndDraw() {
+    try {
+      const response = await fetch(firebaseUrl);
+      const data = await response.json();
+
+      // Temizle
+      markers.forEach(m => map.removeLayer(m));
+      markers = [];
+      if (polyline) map.removeLayer(polyline);
+
+      const coords = [];
+
+      // Saat sırasına göre sırala
+      const sortedKeys = Object.keys(data).sort();
+
+      for (let saat of sortedKeys) {
+        let val = data[saat];
+        if (typeof val === "string") {
+          val = val.replace(/"/g, "").trim();
+          const parts = val.split("-");
+          if (parts.length === 2 && parts[0] && parts[1]) {
+            const lat = parseFloat(parts[0]);
+            const lon = parseFloat(parts[1]);
+            if (!isNaN(lat) && !isNaN(lon)) {
+              const marker = L.marker([lat, lon]).addTo(map)
+                             .bindPopup(saat)
+                             .bindTooltip(saat, { permanent: false });
+              markers.push(marker);
+              coords.push([lat, lon]);
+            }
+          }
+        }
+      }
+
+      // Çizgiyi oluştur
+      if (coords.length >= 2) {
+        polyline = L.polyline(coords, { color: 'blue' }).addTo(map);
+        map.fitBounds(polyline.getBounds());
+      } else if (coords.length === 1) {
+        map.setView(coords[0], 16);
+      }
+
+    } catch (err) {
+      console.error("Veri çekilemedi:", err);
+    }
+  }
+
+  // İlk yükleme
+  fetchAndDraw();
+
+  // 5 saniyede bir veriyi güncelle
+  setInterval(fetchAndDraw, 5000);
+</script>
+
+</body>
+</html>
