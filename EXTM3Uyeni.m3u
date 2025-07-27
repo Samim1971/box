@@ -673,56 +673,6 @@ http://noxcon.cfd:80/ozkan43/43ozkan/865301
 http://norsvpx.top:8080/231679575500969074/1511679575500969/57988
 #EXTINF:-1 tvg-name="Sinema 2"tvg-id="Sinema Tv 2.tr"tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv2-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",Sinema 2
 http://noxcon.cfd:80/ozkan43/43ozkan/865290
-#EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="Spor":http-referrer="":http-user-agent="",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor&dfp_paln=AQzzBGQEgCRcf_WAZicRz-M1KieikSgFLDj203aRTx6OPWmFR-Y_opWbjFmN30KkANjbC0Cyx4fs5Q6QVuLi62BtGhJ_cBdr24SVPCz7prEAL2wadcHneIIdw6BlulQRu9gkBJ_dxSoNypBSwsPMZhnIpwtZejaMdbYweERSUuuh1CE4sQrLWr2btMJWJenD8n3gZQ3c6j9RvA4EHKDi94DaBPR-ektZozqbVrGdlvJ-fjXSQlnSfzuYjrAETUnzN0i2XlRQeNOmU3_R--on7qvK4U6DBmoBuOZ9YMAlW4rHI9MuynRT6NX4ee6XQEC59kbDKgDzHg8zvNrX5So4bMZYX8HFWRGmj198idUZW1fgtNPrapDSMtKampqT-OhCmL567GjkhtFhSG2yPITF2Q__ch7ciyCWnf3HgciU6uUZlTRcL0H7Lz5N6vOpcMPFUN3qmeECdEZTbDLB5xkSQuRF3DttNCxP0s_DgEX7CHdbdHj5nbkyEm6M1Q54n6TpnvlID-VDGVQg2kSPcnQmA_j021nMEJa4X7_Rc_w0uZd5HW4PPYlxn_RGT26Wdm99Aobec0x7A6_KEKWioZxEYaOyL9Wg4ZkSYqaD6naxgqm2cYyh6pgSh2tzOj8R4aAXdYy-AYYyYISDAxf__V-i6FG9JsaL6F-0CM3fRSdV6HEMvyMozjBFpRnx3wbTYJlIv2j4L0AmQK49gje2KY17lpR80c3tqAqrRyZuC-tkN2j5EAJW7IhBbDFY3V0Ujs5GhvZ-NBYznzpPlw9qmy3GI1zmascCNVlNfTVQFqo57QSTfA7aomqBo5acb_Vsixm6cKV6u5D0x17GLUIx26HzeT-0bxg4ZEShZM_8LKGSbTcXBjc0yaOgv6VIgShjzEJxR--5VD_1pgoccrqx5gKd0Q4cK0WOGIet5QG9n05FoS5QIDwAUJprvkZTiIW7f5_W8_PGBWCxGWHCmCckYjjLO6MJ4qwRnnx8EzUBp6-PG6GPScu20IlZK4dgs1NtlQ9o3CTnvlxTUlbMKtaHRzkhd3fZ708ouqCgN-hX4DNh8bIAX7Ae6b_pvGzLFtc75mJQmOEoc4xTMJedi5WK3Jb2cqeCeH1gQiTqbaO4
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="TRT Spor Yıldız.tr"tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="HT Spor"tvg-id="HT Spor.tr"tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Sports Tv.tr"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="FB TV.tr"tvg-id="FB TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzS70I58r2o70L-oPmTBqtL--C_sv4vR1Pw&s"group-title="Spor":http-referrer="":http-user-agent="",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TJK TV"tvg-id="Spor_TJKTV"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="Spor":http-referrer="":http-user-agent="",TJK TV
-https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
-#EXTINF:-1 tvg-name="TJK TV 2"tvg-id="Spor_TJKTV_2"tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"group-title="Spor":http-referrer="":http-user-agent="",TJK TV 2
-https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1 tvg-name="TR: NBA Sport HD"tvg-id="NBA Sport.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",TR: NBA Sport HD
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-name="TR: Tivibu Sport 3 FHD"tvg-id="Tivibu Spor 3.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230125889044.png"group-title="Spor":http-referrer="":http-user-agent="okhttp/4.12.0",TR: Tivibu Sport 3 FHD
-https://tv.arectv34.sbs/live/t3.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2"tvg-id=""tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png"group-title="Spor":http-referrer="https://twitter.com/":http-user-agent="googleusercontent",Spor Smart 2
-https://tv.arectv34.sbs/live/smart2.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 1
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 2"tvg-id="beIN Sports 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 2
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinb2.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 3"tvg-id="beIN Sports 3.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 3
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinb3.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 4"tvg-id="beIN Sports 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 4
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinb4.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5"tvg-id="beIN Sports 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 5
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinb5.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5"tvg-id="beIN Sports 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="Spor":http-referrer="":http-user-agent="",beIN Sports 5
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57825
-#EXTINF:-1 tvg-name="Tabii Spor HD"tvg-id="Tabii Spor.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor HD
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 1 HD"tvg-id="Tabii Spor 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 1 HD
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 2 HD"tvg-id="Tabii Spor 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 2 HD
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 3 HD"tvg-id="Tabii Spor 3.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 3 HD
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 4 HD"tvg-id="Tabii Spor 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 4 HD
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 5 HD"tvg-id="Tabii Spor 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 5 HD
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 6 HD"tvg-id="Tabii Spor 6.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 6 HD
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 7 HD"tvg-id="Tabii Spor 7.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 7 HD
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr"tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK TV"tvg-id=""tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png"group-title="[TR] Müzik":http-referrer="":http-user-agent="",DREAM TÜRK TV
@@ -1019,7 +969,141 @@ https://vidmody.com/vs/tt32138821/
 https://vidmody.com/vs/tt32065103/
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0120679.jpg"group-title="Belgesel":http-referrer="":http-user-agent="",Frida (2002)
 https://vidmody.com/vs/tt0120679/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/16951452.jpg"group-title="Belgesel":http-referrer="":http-user-agent="",Anna Nicole Smith: Beni Tanımıyorsunuz (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320054.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320055.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320056.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320057.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320058.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320059.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E07
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320060.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E08
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320061.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E09
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320062.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320063.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E11
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320064.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E12
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320065.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E13
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320066.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E14
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320067.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E15
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320068.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E16
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320069.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E17
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320070.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E18
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320071.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E19
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320072.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S01 E20
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320073.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352960.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352961.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352962.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352963.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352964.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352965.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E07
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352966.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E08
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352967.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E09
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352959.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352958.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E11
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352957.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E12
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352949.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E13
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352950.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E14
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352951.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E15
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352952.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E16
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352953.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E17
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352954.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E18
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352955.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E19
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352956.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Star Trek: Prodigy":http-referrer="":http-user-agent="",Star Trek: Prodigy S02 E20
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352968.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375682.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375683.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375684.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375685.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375686.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375687.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E07
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375688.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Berlin":http-referrer="":http-user-agent="",Berlin S01 E08
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/375689.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E01
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320243.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E02
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/320706.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E03
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/321197.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E04
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/322594.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E05
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/323088.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E06
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/326523.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E07
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/326970.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E08
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/327717.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E09
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/328074.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E10
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/328228.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E11
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/346965.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E12
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/347822.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E13
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/348210.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E14
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/348727.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E15
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/349892.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E16
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/350133.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E17
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/350419.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E18
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/350820.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E19
+http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/351103.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Tolgshow Çılgın Sezon":http-referrer="":http-user-agent="",Tolgshow Çılgın Sezon S01 E20
 https://vidmody.com/vs/tt16951452/
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZmOTU4MWEtMzRkYi00NzYyLWJmMGQtZjFmZDllMTEyY2JjXkEyXkFqcGc@._V1_.jpg"group-title="Belgesel":http-referrer="":http-user-agent="",Lover-Stalker-Killer(2024)
 https://vidmody.com/vs/tt30852970/
@@ -2265,22 +2349,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834778_B289DDBC&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 tvg-name="Yola Geldik"tvg-id="ext"tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_yola_geldik-1561406650.jpg"group-title="PUHU FİLMLER":http-referrer="":http-user-agent="",Yola Geldik
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-name="ATV 2"tvg-id="ATV.tr"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",ATV 2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-name="Kanal D 4"tvg-id="KANAL D.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",Kanal D 4
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="Show TV 3"tvg-id="SHOW TV.tr"tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",Show TV 3
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-name="StarTV.tr"tvg-id="STAR TV.tr"tvg-logo="https://i.imgur.com/9O3DHRB.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",StarTV 3
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="TV8.tr"tvg-id="tv8.tr"tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"group-title="Ulusal yedek":http-referrer="":http-user-agent="",TV8.tr
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-name="TR: TARIM TV"tvg-id="Tarım TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHra123KEPCglYHaU8Ls8I0qwujErfcQRpTddndOl5oM1Ucw-kDT5UToRo&s=10"group-title="[TR] Belgesel":http-referrer="":http-user-agent="",TR: TARIM TV
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="TRT Çocuk.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJdXDQVyNqYJHsbkH0Gl2aQW_dGh2kD7lsQ&usqp=CAU"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="TRT Diyanet Çocuk.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwBQtkeuk0a1Ofxhin7lGP_VtWNecIwOsSA&s"group-title="[TR] Çocuk":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Ekol TV"tvg-id="Ekol TV.tr"tvg-logo="https://yt3.googleusercontent.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz=s900-c-k-c0x00ffffff-no-rj"group-title="Haber":http-referrer="":http-user-agent="",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-name="GZT TV"tvg-id="GZT TV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png"group-title="Haber":http-referrer="":http-user-agent="",GZT TV
@@ -2941,12 +3009,6 @@ http://vip.nuaktv.xyz:2095/adm7435/dmm11/166812
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/129358
 #EXTINF:-1 tvg-name="TR: FERDİ TAYFUR  HD"tvg-id=""tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FERDI.TAYFUR.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TR: FERDİ TAYFUR  HD
 http://vip.nuaktv.xyz:2095/adm7435/dmm11/72278
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.img.anlatilaninotesi.com.tr/i/logo/logo.svg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",SPUTNIK RADYO
-https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E03
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352332.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lafeltrinelli.it/images/8031179426140_0_0_424_0_75.jpg"group-title="OUTLANDER":http-referrer="":http-user-agent="",Outlander S01 E05
-http://fe.191462.xyz:8080/series/AYetisen120823/vjrbqkCdnh/352334.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-uyTRebjgnPo/WawXWoiM-LI/AAAAAAAAU3U/2GLxsZRhGnEXL_qsZs_2QcjzqeT90noOQCLcBGAs/s1600/b.jpg"group-title="RADYO":http-referrer="":http-user-agent="",RADYO BANKO
 http://yayin.netradyom.com:9910/RADYOBANKO
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivaewqDS3tmugwFRWrLrshTx4h1E_S1s8S6ucCGhZhvkdt7k-XyxJK_Pp--j0T-yUywdKtXnpMcxrE3Au8pfnn7F3mN1FTVrz9DQDX_RTrHc7IEvbbO6v4IeviEoxHPcV8KV4aI0tGnfEBswzxiB0nFMhKXNh9w1kGDChkx4kIg92HatyVsG_oFf4VmQ/s1600/c"group-title="RADYO":http-referrer="":http-user-agent="",RADYO ÇETÜKBEY ARABESK
