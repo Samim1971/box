@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b1/The_Tomorrow_War.jpeg/250px-The_Tomorrow_War.jpeg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Yarının Savaşı
+https://vs13.gamephotos.pro/v/The.Tomorrow.War.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img04.imgsinemalar.com/images/afis_buyuk/x/x-moor-1408538526.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kanlı Bataklık 
+https://vs10.photour.org/v/XMOOR.2014.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 #EXTINF:-1 tvg-name="TV8.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8
@@ -1497,353 +1501,353 @@ https://vs15.photoflax.org/v/Cakallarla.Dans.7.2024.WEB-DL.1080p.H.264-HDM/maste
 https://vs17.photofunia.pro/v/Ask.Sadece.Bir.An.2025.WEB-DL.1080p.H.264-HDM/master.m3u8
 #EXTINF:-1 tvg-name="Takıntılar"tvg-id=""tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ab21ae072ec96349e681e1df3ea20282.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Takıntılar
 https://vs15.photofunia.pro/v/Takintilar.2024.WEB-DL.1080p.H.264-HDM/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjZjZhNzUtMDQyMC00OWZmLWIzMjQtZDM2OWRhNzgwOGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Enola Holmes 2 (2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjZjZhNzUtMDQyMC00OWZmLWIzMjQtZDM2OWRhNzgwOGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Enola Holmes 2 (2022)
 https://vidmody.com/vs/tt14641788/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Enola Holmes  (2020)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Enola Holmes  (2020)
 https://vidmody.com/vs/tt7846844/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/29644189.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Siyah Telefon 2 (2025)Black Phone 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/29644189.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Siyah Telefon 2 (2025)Black Phone 2
 https://vidmody.com/vs/tt29644189/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRkM2JlMTktODE1ZS00MmVlLWIzYWEtYzhjNTg1NGU3OWIxXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Last Voyage of the Demeter (2023)Drakula: Son Yolculuk
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRkM2JlMTktODE1ZS00MmVlLWIzYWEtYzhjNTg1NGU3OWIxXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Last Voyage of the Demeter (2023)Drakula: Son Yolculuk
 https://vidmody.com/vs/tt1001520/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE0NjU1MmUtZWUzMS00ZWRiLWE5ZjYtODk3NmRlMmExYWI1XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Tom Clancy'den Acımasız (2021) Without Remorse
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE0NjU1MmUtZWUzMS00ZWRiLWE5ZjYtODk3NmRlMmExYWI1XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Tom Clancy'den Acımasız (2021) Without Remorse
 https://vidmody.com/vs/tt0499097/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ2MGRhYWQtZjQ4Ni00Y2EyLWI2OGQtOTYzNDkwZGU1NmI4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kış Bahar Yaz Ya da Güz (2024)Winter Spring Summer or Fall
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ2MGRhYWQtZjQ4Ni00Y2EyLWI2OGQtOTYzNDkwZGU1NmI4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kış Bahar Yaz Ya da Güz (2024)Winter Spring Summer or Fall
 https://vidmody.com/vs/tt24515124/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI4ZWQ5YjYtMmYwMy00OWFmLWFmNDYtZGNlNWMxNTllZjc4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Culpa mía (2023) Benim Hatam
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI4ZWQ5YjYtMmYwMy00OWFmLWFmNDYtZGNlNWMxNTllZjc4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Culpa mía (2023) Benim Hatam
 https://vidmody.com/vs/tt21909764/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjczOWRiYmYtNTAwNy00YjQ2LWFmYzYtYmZiYzA3MjM3NDZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Üç Dedektif ve Karpat Tazısı (2025) Die drei ??? und der Karpatenhund
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjczOWRiYmYtNTAwNy00YjQ2LWFmYzYtYmZiYzA3MjM3NDZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Üç Dedektif ve Karpat Tazısı (2025) Die drei ??? und der Karpatenhund
 https://vidmody.com/vs/tt31412707/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVmNDk1YzQtNTNiMy00NDhlLWFhZTYtYzk2ZGI4MzNiZTkzXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Good News (2025)Uçuş Harekatı-İyi Haber
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVmNDk1YzQtNTNiMy00NDhlLWFhZTYtYzk2ZGI4MzNiZTkzXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Good News (2025)Uçuş Harekatı-İyi Haber
 https://vidmody.com/vs/tt33550069/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1OTY4NTAtOGQyZS00NDkwLWExM2UtOTA3N2NjOTA4MDNjXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",She Walks in Darkness (2025)Karanlıkta Saklı
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1OTY4NTAtOGQyZS00NDkwLWExM2UtOTA3N2NjOTA4MDNjXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",She Walks in Darkness (2025)Karanlıkta Saklı
 https://vidmody.com/vs/tt32129665/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",I Know What You Did Last Summer (2025) Geçen Yaz Ne Yaptığını Biliyorum  Korku-Gizem-Gerilim
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",I Know What You Did Last Summer (2025) Geçen Yaz Ne Yaptığını Biliyorum  Korku-Gizem-Gerilim
 https://vidmody.com/vs/tt4045450/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEzZDM5ZDQtNTJhMy00NjAwLWFlMGYtZmNlMzE2MDM5YjVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Limpia (2025) Suç -Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEzZDM5ZDQtNTJhMy00NjAwLWFlMGYtZmNlMzE2MDM5YjVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Limpia (2025) Suç -Dram
 https://vidmody.com/vs/tt34682204/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczOGFhN2MtMmM2MS00ZjBlLTgxN2UtMzZiYTVjOGMwOGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Daima Seninle (2024)Daniela Forever -Bilimkurgu-Romantik-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczOGFhN2MtMmM2MS00ZjBlLTgxN2UtMzZiYTVjOGMwOGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Daima Seninle (2024)Daniela Forever -Bilimkurgu-Romantik-Dram
 https://vidmody.com/vs/tt26676914/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU1NWM1MjktNTgyZi00ZDAwLWEwZmYtMTEwYzQ4MmQ1OGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Öfke Çemberi 2 (2025)Furioza Again 2  -Aksiyon
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU1NWM1MjktNTgyZi00ZDAwLWEwZmYtMTEwYzQ4MmQ1OGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Öfke Çemberi 2 (2025)Furioza Again 2  -Aksiyon
 https://vidmody.com/vs/tt36265413/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdiYzY2YmYtOGU4NC00NDY5LTk1OTYtYWM0ODdmOTMyZWI5XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Furioza (2021)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdiYzY2YmYtOGU4NC00NDY5LTk1OTYtYWM0ODdmOTMyZWI5XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Furioza (2021)
 https://vidmody.com/vs/tt10515864/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZlN2Y5ZGEtMmU0MS00ZWI0LThlMjQtMjIyZTIxMWRlYjNlXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Maintenance Required (2025) Romantik Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZlN2Y5ZGEtMmU0MS00ZWI0LThlMjQtMjIyZTIxMWRlYjNlXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Maintenance Required (2025) Romantik Komedi
 https://vidmody.com/vs/tt33335602/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyMDczNjYtNzE4ZC00MmNkLWE2YjItOWE4YmMxMDgxNGIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Balloonist (2025) De Ballonvaarder   Dram Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyMDczNjYtNzE4ZC00MmNkLWE2YjItOWE4YmMxMDgxNGIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Balloonist (2025) De Ballonvaarder   Dram Komedi
 https://vidmody.com/vs/tt38346012/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlZTUyOWEtZTIyZC00NjA0LWIzZWMtNzFhMGYzZTA4NzExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Armand (2024) Psikolojik drama
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlZTUyOWEtZTIyZC00NjA0LWIzZWMtNzFhMGYzZTA4NzExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Armand (2024) Psikolojik drama
 https://vidmody.com/vs/tt26745321/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlhNjFjYjktZDM3MS00OTRhLWFlMWEtNWIxZDY0NmMyNDM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Marked Men  Rule  Shaw (2025) Romantik
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlhNjFjYjktZDM3MS00OTRhLWFlMWEtNWIxZDY0NmMyNDM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Marked Men  Rule  Shaw (2025) Romantik
 https://vidmody.com/vs/tt26452781/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",10 Numaralı Kamaradaki Kadın (2025)The Woman in Cabin 10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",10 Numaralı Kamaradaki Kadın (2025)The Woman in Cabin 10
 https://vidmody.com/vs/tt7130300/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4B9e_OJom5YNj7gIMdDtz8BWrp6IDJyTWQ&s"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Suçüstü (2025)  Caught Stealing   Suç  Gerilim  Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4B9e_OJom5YNj7gIMdDtz8BWrp6IDJyTWQ&s"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Suçüstü (2025)  Caught Stealing   Suç  Gerilim  Komedi
 https://vidmody.com/vs/tt1493274/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Lost Bus (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Lost Bus (2025)
 https://vidmody.com/vs/tt21103218/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmYjBmOWQtMmY1NS00Njk3LWFkYWYtZWY3ODQ0N2U2NTBhXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ekip (Crew ) (2024 ) Komedi Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmYjBmOWQtMmY1NS00Njk3LWFkYWYtZWY3ODQ0N2U2NTBhXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ekip (Crew ) (2024 ) Komedi Dram
 https://vidmody.com/vs//tt21383812/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4MzM2MjgtNjljMC00OWU4LWFkNGMtODI5NmJkOTU2MjA0XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ateş Hattı (2025)A Line of Fire      Aksiyon  Gerilim
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4MzM2MjgtNjljMC00OWU4LWFkNGMtODI5NmJkOTU2MjA0XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ateş Hattı (2025)A Line of Fire      Aksiyon  Gerilim
 https://vidmody.com/vs/tt33712667/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmODBmMDItYjQxMi00ZDU5LWFhOWEtZGU4YzRkNzM1Nzg3XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ölü Arkadaşım Zoe (2025)My Dead Friend Zoe
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmODBmMDItYjQxMi00ZDU5LWFhOWEtZGU4YzRkNzM1Nzg3XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ölü Arkadaşım Zoe (2025)My Dead Friend Zoe
 https://vidmody.com/vs/tt22022784/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E4MmM2ODctYTIyNS00ZGIxLWJmYjctYTUxYThhNzY4MmMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Hileli Soygun (2025) Play Dirty
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E4MmM2ODctYTIyNS00ZGIxLWJmYjctYTUxYThhNzY4MmMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Hileli Soygun (2025) Play Dirty
 https://vidmody.com/vs/tt18392014/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNiZDU2MWItMTNkMy00NGM4LWJmOGUtNmFiNjQwZmUwZGZjXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Friendship (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNiZDU2MWItMTNkMy00NGM4LWJmOGUtNmFiNjQwZmUwZGZjXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Friendship (2024)
 https://vidmody.com/vs/tt30505698/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY0N2Y5MDAtYmI0OS00ZTEwLTlkNDEtODA2ZjQ5OWRmMzE5XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Panda Planı (2024)Xiong mao ji hua
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY0N2Y5MDAtYmI0OS00ZTEwLTlkNDEtODA2ZjQ5OWRmMzE5XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Panda Planı (2024)Xiong mao ji hua
 https://vidmody.com/vs/tt28630624/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE4N2ZlNWQtMDRhNC00ZmYzLWI5ODMtODAzZjRiOTkxZGZhXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Steve (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE4N2ZlNWQtMDRhNC00ZmYzLWI5ODMtODAzZjRiOTkxZGZhXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Steve (2025)
 https://vidmody.com/vs/tt32985279/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiNTYxMGQtNTZlNC00MjgxLWI0NWEtMDQyYjIxODRkNTQ3XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Bahçedeki Kadın (2025)The Woman in the Yard   Korku Gizem
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiNTYxMGQtNTZlNC00MjgxLWI0NWEtMDQyYjIxODRkNTQ3XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bahçedeki Kadın (2025)The Woman in the Yard   Korku Gizem
 https://vidmody.com/vs/tt31314296/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU0Mjc1YzktYTc5ZC00OTk2LWExODAtN2UwOGNiN2Q0Y2E4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ruth ve Boaz (2025) Romantik Dram Müzik
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU0Mjc1YzktYTc5ZC00OTk2LWExODAtN2UwOGNiN2Q0Y2E4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ruth ve Boaz (2025) Romantik Dram Müzik
 https://vidmody.com/vs/tt32306048/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ2MmEwZmMtNzA4MC00MjljLWIyOWItZjhhMmI0NWJhNzJmXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Mantis (2025)-Samagwi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ2MmEwZmMtNzA4MC00MjljLWIyOWItZjhhMmI0NWJhNzJmXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Mantis (2025)-Samagwi
 https://vidmody.com/vs/tt33312131/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0Y2M4N2EtODMxNi00NGUyLTk1YzMtYjI5OGY2N2MyNTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",French Lover (2025) Romantik Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0Y2M4N2EtODMxNi00NGUyLTk1YzMtYjI5OGY2N2MyNTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",French Lover (2025) Romantik Komedi
 https://vidmody.com/vs/tt32360696/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIzYWM0YmUtZjFkZS00N2MwLWEyMDUtZGU5NTgwOTFiZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sacramento (2024) Komedi Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIzYWM0YmUtZjFkZS00N2MwLWEyMDUtZGU5NTgwOTFiZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sacramento (2024) Komedi Dram
 https://vidmody.com/vs/tt13491834/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JjMjNjNzItYWIzZS00YTliLWJjNjMtODAzYjI3ZGRmZGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Prisoner of War (2025)Aksiyon-Drama
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JjMjNjNzItYWIzZS00YTliLWJjNjMtODAzYjI3ZGRmZGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Prisoner of War (2025)Aksiyon-Drama
 https://vidmody.com/vs/tt33057137/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI3OWFjMTctZDJlZi00ZDM0LTgxYTUtN2VhZDBjYjExMzI0XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Belki   Komedi Dram Romantik
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI3OWFjMTctZDJlZi00ZDM0LTgxYTUtN2VhZDBjYjExMzI0XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Belki   Komedi Dram Romantik
 https://vidmody.com/vs/tt36754289/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YjkzZTAtYTE1ZC00ZWMxLTk4ODUtOGIwMzg3MzcyZjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Wrong Paris (2025) Öteki Paris  Komedi Dram Romantik
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YjkzZTAtYTE1ZC00ZWMxLTk4ODUtOGIwMzg3MzcyZjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Wrong Paris (2025) Öteki Paris  Komedi Dram Romantik
 https://vidmody.com/vs/tt33039440/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Fantastic Four: First Steps (2025) Fantastik Dörtlü: İlk Adımlar
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Fantastic Four: First Steps (2025) Fantastik Dörtlü: İlk Adımlar
 https://vidmody.com/vs/tt10676052/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4NmRhNGUtOWFjMy00YzIwLWIzZDQtMmIyYmIxOTNiMzg2XkEyXkFqcGc@._V1_QL75_UX820_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Swiped (2025) Dökümantasyon-drama-Biyografi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4NmRhNGUtOWFjMy00YzIwLWIzZDQtMmIyYmIxOTNiMzg2XkEyXkFqcGc@._V1_QL75_UX820_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Swiped (2025) Dökümantasyon-drama-Biyografi
 https://vidmody.com/vs/tt31909270/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxNDBhNmQtOWVkMC00MDdkLWI2N2EtZjllNGZjMDc5NjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Day of the Fight (2023) Boxing-Drama-Spor
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxNDBhNmQtOWVkMC00MDdkLWI2N2EtZjllNGZjMDc5NjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Day of the Fight (2023) Boxing-Drama-Spor
 https://vidmody.com/vs/tt21987878/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Heart Eyes (2025) Kara Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Heart Eyes (2025) Kara Komedi
 https://vidmody.com/vs/tt32558992/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlZjViNzYtYzhlMi00ZTk4LTg0NDAtNzE2Y2ExMzE3ZGFlXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Bright Lawyer (2025)Uma Advogada Brilhante  -Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlZjViNzYtYzhlMi00ZTk4LTg0NDAtNzE2Y2ExMzE3ZGFlXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bright Lawyer (2025)Uma Advogada Brilhante  -Komedi
 https://vidmody.com/vs/tt32864398/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmODQzYmItNTZlMy00Mjg0LTk1NjctYjM4ZGI0NTM3ZTVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Phoenician Scheme (2025) Kara Komedi -Aksiyon
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmODQzYmItNTZlMy00Mjg0LTk1NjctYjM4ZGI0NTM3ZTVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Phoenician Scheme (2025) Kara Komedi -Aksiyon
 https://vidmody.com/vs/tt30840798/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Materialists (2025) Romantik Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Materialists (2025) Romantik Komedi
 https://vidmody.com/vs/tt30253473/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4MDU5NGYtNWUwNy00NDY2LWE5ZDQtOGEwYzMwYjUzYjUzXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Marcello mio (2024) Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4MDU5NGYtNWUwNy00NDY2LWE5ZDQtOGEwYzMwYjUzYjUzXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Marcello mio (2024) Komedi
 https://vidmody.com/vs/tt32086069/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk4YTEyODQtZmI2OC00MzZiLTg3MWQtZWMwMmIzOWM5OTQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Bifo & CMYLMZ (2011)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk4YTEyODQtZmI2OC00MzZiLTg3MWQtZWMwMmIzOWM5OTQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bifo & CMYLMZ (2011)
 https://vidmody.com/vs/tt4184166/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE5MGYyM2MtYzVkOC00NDYwLWIwMjktODMzYTU2Y2ZjYmQ4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Turno Nocturno (2024) Gece Vardiyası
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE5MGYyM2MtYzVkOC00NDYwLWIwMjktODMzYTU2Y2ZjYmQ4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Turno Nocturno (2024) Gece Vardiyası
 https://vidmody.com/vs/tt13657394/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJjZTA0YjYtMTU3My00OTYxLTg1ZmYtYWU5YjgwN2YzYTFmXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Nightride (2021) Gece Yolculuğu
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJjZTA0YjYtMTU3My00OTYxLTg1ZmYtYWU5YjgwN2YzYTFmXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Nightride (2021) Gece Yolculuğu
 https://vidmody.com/vs/tt15298578/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ3NmY4NjMtZmFlYy00YThmLWI2MGEtMWJjNWM1NmFiZDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",High Rollers (2025) Yüksek Bahisciler
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ3NmY4NjMtZmFlYy00YThmLWI2MGEtMWJjNWM1NmFiZDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",High Rollers (2025) Yüksek Bahisciler
 https://vidmody.com/vs/tt27829510/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4MzM2MjgtNjljMC00OWU4LWFkNGMtODI5NmJkOTU2MjA0XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",A Line of Fire (2025) Ateş Hattı
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4MzM2MjgtNjljMC00OWU4LWFkNGMtODI5NmJkOTU2MjA0XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",A Line of Fire (2025) Ateş Hattı
 https://vidmody.com/vs/tt33712667/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMyOGEzN2ItMWE1ZC00OGVmLTljMGYtYTZiYTQzNTUyNjQ4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sharp Corner (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMyOGEzN2ItMWE1ZC00OGVmLTljMGYtYTZiYTQzNTUyNjQ4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sharp Corner (2024)
 https://vidmody.com/vs/tt9569096/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYxZjA3ZDAtN2UyYS00NTI4LWE3ODUtOWRhNjM1NjkyZTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Zapped (2014) Komedi-Aile
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYxZjA3ZDAtN2UyYS00NTI4LWE3ODUtOWRhNjM1NjkyZTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Zapped (2014) Komedi-Aile
 https://vidmody.com/vs/tt3544734/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA4ZjUwYWQtN2EwYy00YzE2LWE5ZTMtZWJiNTZhNmFlZTM5XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Treasure (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA4ZjUwYWQtN2EwYy00YzE2LWE5ZTMtZWJiNTZhNmFlZTM5XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Treasure (2024)
 https://vidmody.com/vs/tt9462944/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RmZTQ2NjYtYWNkOC00NzlhLWJjMjgtOGJjZWJmOGJjNDM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Echoes (2014) Dram-Korku
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RmZTQ2NjYtYWNkOC00NzlhLWJjMjgtOGJjZWJmOGJjNDM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Echoes (2014) Dram-Korku
 https://vidmody.com/vs/tt3033948/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI1YjUzZTYtYmYxOC00NWNiLTg2NDYtOGE1YzVkMThjMDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",London Calling (2025)Aksiyon-Komedi-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI1YjUzZTYtYmYxOC00NWNiLTg2NDYtOGE1YzVkMThjMDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",London Calling (2025)Aksiyon-Komedi-Dram
 https://vidmody.com/vs/tt30425872/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMzOTcwNzQtYWVlZi00YmUyLWI5ODAtNzRhMmJlNzQwMjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Limonov: The Ballad (2024)Dökümandrama-Biyografi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMzOTcwNzQtYWVlZi00YmUyLWI5ODAtNzRhMmJlNzQwMjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Limonov: The Ballad (2024)Dökümandrama-Biyografi
 https://vidmody.com/vs/tt2963262/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVlMGVmNjQtNGI0NC00ZWVmLTk5MDQtOGM5MzBlYTQxNTU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Meanwhile On Earth (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVlMGVmNjQtNGI0NC00ZWVmLTk5MDQtOGM5MzBlYTQxNTU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Meanwhile On Earth (2024)
 https://vidmody.com/vs/tt21247132/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZiNzRhYzMtNjYxYS00ZTAzLWI3OGQtYzU0MWYyYzJiZmE4XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Freud's Last Session (2023)Freud'un Son Seansı
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZiNzRhYzMtNjYxYS00ZTAzLWI3OGQtYzU0MWYyYzJiZmE4XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Freud's Last Session (2023)Freud'un Son Seansı
 https://vidmody.com/vs/tt20420628/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Until Dawn (2025)Korku
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Until Dawn (2025)Korku
 https://vidmody.com/vs/tt30955489/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3MzI3Y2UtNjlkMy00ZDIzLWEwOGUtMGEzMzNlMmY3MTkzXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Inspector Zende (2025) Komedi-Dram-Gerilim
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3MzI3Y2UtNjlkMy00ZDIzLWEwOGUtMGEzMzNlMmY3MTkzXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Inspector Zende (2025) Komedi-Dram-Gerilim
 https://vidmody.com/vs/tt35076553/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlhMDY0NTAtOTQwZi00ZjIxLTk2ZmYtZjU1Y2FiYWRhZDk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Lee (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlhMDY0NTAtOTQwZi00ZjIxLTk2ZmYtZjU1Y2FiYWRhZDk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Lee (2023)
 https://vidmody.com/vs/tt5112584/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM3NGNjNGUtMzIzYi00NDI3LTg3ZjktYmMxMGE5MDZmMjJkXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Damned (2024) Korku-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM3NGNjNGUtMzIzYi00NDI3LTg3ZjktYmMxMGE5MDZmMjJkXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Damned (2024) Korku-Dram
 https://vidmody.com/vs/tt15010692/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1ZjJkYmItNTVmOS00NWVkLWE1ODQtOWRkZjRmMWM4N2U0XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ghostlight (2024) Komedi-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1ZjJkYmItNTVmOS00NWVkLWE1ODQtOWRkZjRmMWM4N2U0XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ghostlight (2024) Komedi-Dram
 https://vidmody.com/vs/tt30321095/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Death of a Unicorn (2025) Korku-Fantastik-Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Death of a Unicorn (2025) Korku-Fantastik-Komedi
 https://vidmody.com/vs/tt28443655/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyZThkMDYtY2FlYy00MmFjLThkZGMtMDgxZTk1Zjg2YjRmXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Canary Black (2024 ) Siyah Kanarya  -Aksiyon-Gerilim-Suç
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyZThkMDYtY2FlYy00MmFjLThkZGMtMDgxZTk1Zjg2YjRmXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Canary Black (2024 ) Siyah Kanarya  -Aksiyon-Gerilim-Suç
 https://vidmody.com/vs/tt20048582/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31194612.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Highest 2 Lowest (2025) Gerilim-Suç-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31194612.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Highest 2 Lowest (2025) Gerilim-Suç-Dram
 https://vidmody.com/vs/tt31194612/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2MTk3ZTUtMzJiYS00NWE5LTliMTItYTEyMmU1Y2JiZDZmXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Gobaekeui yeoksa (2025) -Düpedüz Aşk
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2MTk3ZTUtMzJiYS00NWE5LTliMTItYTEyMmU1Y2JiZDZmXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Gobaekeui yeoksa (2025) -Düpedüz Aşk
 https://vidmody.com/vs/tt33549683/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q0ZDk2OTgtZTQwMy00NTgwLThlZDAtYjkzYzMxNDUzNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Khao Chum Thong Khanong Chum Chon (2025)-Altına Hücum-Gold Rush Gang
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q0ZDk2OTgtZTQwMy00NTgwLThlZDAtYjkzYzMxNDUzNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Khao Chum Thong Khanong Chum Chon (2025)-Altına Hücum-Gold Rush Gang
 https://vidmody.com/vs/tt36711248/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",I Know What You Did Last Summer (2025) sinema çekimi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",I Know What You Did Last Summer (2025) sinema çekimi
 https://vidmody.com/vs/tt4045450/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE4YjM4NDQtNmIxYy00NTU5LTlkNjUtMmQ2N2E5YmZlYmEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Hallow Road (2025 )
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE4YjM4NDQtNmIxYy00NTU5LTlkNjUtMmQ2N2E5YmZlYmEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Hallow Road (2025 )
 https://vidmody.com/vs/tt19403516/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViYmVjMTQtY2M1YS00NjczLTk5NjEtMDBlYWE5MTljN2NkXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ogni Maledetto Fantacalcio (2025) Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViYmVjMTQtY2M1YS00NjczLTk5NjEtMDBlYWE5MTljN2NkXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ogni Maledetto Fantacalcio (2025) Komedi
 https://vidmody.com/vs/tt37038661/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZlYTYzYWYtZTFhMS00MTI1LTk2NWQtYzNiNWIyYzdlM2FhXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Planeta Singli 4: Wyspa (2025) Bekarlar gezegeni:Yunan Macerası
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZlYTYzYWYtZTFhMS00MTI1LTk2NWQtYzNiNWIyYzdlM2FhXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Planeta Singli 4: Wyspa (2025) Bekarlar gezegeni:Yunan Macerası
 https://vidmody.com/vs/tt37727295/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0800175.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kızıl Sonja (2025) Red Sonja
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0800175.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kızıl Sonja (2025) Red Sonja
 https://vidmody.com/vs//tt0800175/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/15514498.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Eenie Meanie (2025) Aksiyon-Komedi-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/15514498.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Eenie Meanie (2025) Aksiyon-Komedi-Dram
 https://vidmody.com/vs/tt15514498/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExYjQ0MGItZmFhOC00N2YxLWEzYzktZTM2OTg1ODk0ZTgxXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Airplane 2025  -Komedi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExYjQ0MGItZmFhOC00N2YxLWEzYzktZTM2OTg1ODk0ZTgxXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Airplane 2025  -Komedi
 https://vidmody.com/vs/tt34956433/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Thursday Murder Club (2025)Perşembe Günü Cinayet Kulübü
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Thursday Murder Club (2025)Perşembe Günü Cinayet Kulübü
 https://vidmody.com/vs/tt12001534/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0079116.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Escape from Alcatraz : Alcatraz'dan Kaçış (1979 )
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0079116.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Escape from Alcatraz : Alcatraz'dan Kaçış (1979 )
 https://vidmody.com/vs/tt0079116/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODUyOTc1ZDYtNjc5Ny00MzRkLTg5MDQtYTU3ZjM1MTExY2Y4XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Fall for me (2025) Aşk Tuzağı
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BODUyOTc1ZDYtNjc5Ny00MzRkLTg5MDQtYTU3ZjM1MTExY2Y4XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Fall for me (2025) Aşk Tuzağı
 https://vidmody.com/vs/tt32543884/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11891850.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Acı Gerçekler (2024) Hard Truths
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11891850.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Acı Gerçekler (2024) Hard Truths
 https://vidmody.com/vs/tt11891850/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQzNDNmNTQtNjkxYS00MDc4LTk0YzktMThlY2I5NjNlZDlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Blank (2022)Dram-Bilimkurgu-Gerilim
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQzNDNmNTQtNjkxYS00MDc4LTk0YzktMThlY2I5NjNlZDlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Blank (2022)Dram-Bilimkurgu-Gerilim
 https://vidmody.com/vs/tt8290476/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/19861162.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Dönüş (2024) Macera -Dram-Tarihi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/19861162.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Dönüş (2024) Macera -Dram-Tarihi
 https://vidmody.com/vs/tt19861162/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3402138.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Çıplak Silah (2025)The Naked Gun
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/3402138.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çıplak Silah (2025)The Naked Gun
 https://vidmody.com/vs/tt3402138/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31956415.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Freakier Friday (2025)Komedi-Aile-Fantastik
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31956415.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Freakier Friday (2025)Komedi-Aile-Fantastik
 https://vidmody.com/vs/tt31956415/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31567422.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Gece Elbet Çöker (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31567422.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Gece Elbet Çöker (2025)
 https://vidmody.com/vs/tt31567422/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26581740.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Silahlar (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26581740.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Silahlar (2025)
 https://vidmody.com/vs/tt26581740/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/37543886.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Stolen: Heist of the Century :Asrın Elmas Soygunu (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/37543886.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Stolen: Heist of the Century :Asrın Elmas Soygunu (2025)
 https://vidmody.com/vs/tt37543886/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/28249919.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Varlık (2024) Korku-Gerilim-Dram
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/28249919.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Varlık (2024) Korku-Gerilim-Dram
 https://vidmody.com/vs/tt28249919/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/30445556.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Pickup (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/30445556.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Pickup (2025)
 https://vidmody.com/vs/tt30445556/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32149847.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Drop: Kabul Et veya Reddet (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32149847.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Drop: Kabul Et veya Reddet (2025)
 https://vidmody.com/vs/tt32149847/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4978342.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",My Oxford Year (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4978342.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",My Oxford Year (2025)
 https://vidmody.com/vs/tt4978342/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/21375602.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Love Me (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/21375602.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Love Me (2024)
 https://vidmody.com/vs/tt21375602/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYwNzkyODAtZTRlNi00MmE2LTlmODktZmJmYWVmMzQ5NTk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Daniela Forever (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYwNzkyODAtZTRlNi00MmE2LTlmODktZmJmYWVmMzQ5NTk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Daniela Forever (2024)
 https://vidmody.com/vs/tt26676914/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1707687.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Street Kings 2: Motor City (2011)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1707687.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Street Kings 2: Motor City (2011)
 https://vidmody.com/vs/tt1707687/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0407304.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Dünyalar Savaşı (2005)War of the Worlds
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0407304.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Dünyalar Savaşı (2005)War of the Worlds
 https://vidmody.com/vs/tt0407304/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13186306.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",War of the Worlds (2025)Dünyalar Savaşı
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13186306.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",War of the Worlds (2025)Dünyalar Savaşı
 https://vidmody.com/vs/tt13186306/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyNTRmYjItMDBjYi00YWNhLWEwMmQtNzJhODNiNjEzOWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Happy Gilmore 2 (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyNTRmYjItMDBjYi00YWNhLWEwMmQtNzJhODNiNjEzOWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Happy Gilmore 2 (2025)
 https://vidmody.com/vs/tt31868189/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11655566.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Lilo & Stitch (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11655566.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Lilo & Stitch (2025)
 https://vidmody.com/vs/tt11655566/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y1MjcwMWMtN2IyZi00MGIwLWFiM2YtZjkzZWE1NmJlMGFhXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",84 Jegopmiteo (2025) Wall to Wall
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y1MjcwMWMtN2IyZi00MGIwLWFiM2YtZjkzZWE1NmJlMGFhXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",84 Jegopmiteo (2025) Wall to Wall
 https://vidmody.com/vs/tt32237537/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/37457638.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Pero No Mucho (2025) Almost Family
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/37457638.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Pero No Mucho (2025) Almost Family
 https://vidmody.com/vs/tt37457638/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31036941.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Jurassic World: Yeniden Doğuş (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31036941.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Jurassic World: Yeniden Doğuş (2025)
 https://vidmody.com/vs/tt31036941/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26843513.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sovereign (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26843513.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sovereign (2025)
 https://vidmody.com/vs/tt26843513/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Superman (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Superman (2025)
 https://vidmody.com/vs/tt5950044/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26342662.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",M3GAN 2.0 (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26342662.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",M3GAN 2.0 (2025)
 https://vidmody.com/vs/tt26342662/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31241595.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Zombies 4: Dawn of the Vampires (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31241595.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Zombies 4: Dawn of the Vampires (2025)
 https://vidmody.com/vs/tt31241595/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11950888.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Cellar Door (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/11950888.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Cellar Door (2024)
 https://vidmody.com/vs/tt11950888/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26677014.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Penguen Dersleri : The Penguin Lessons (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26677014.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Penguen Dersleri : The Penguin Lessons (2024)
 https://vidmody.com/vs/tt26677014/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/33299083.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Madea's Destination Wedding (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/33299083.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Madea's Destination Wedding (2025)
 https://vidmody.com/vs/tt33299083/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27675583.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ortak Bela : Bad Boa's (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27675583.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ortak Bela : Bad Boa's (2025)
 https://vidmody.com/vs/tt27675583/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31806049.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Tuğla : Brick (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31806049.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Tuğla : Brick (2025)
 https://vidmody.com/vs/tt31806049/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1674782.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Karate Kid: Efsane Dövüşçüler (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1674782.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Karate Kid: Efsane Dövüşçüler (2025)
 https://vidmody.com/vs/tt1674782/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdlN2Q0ZjktNWI3Ny00NGYzLWJmNmItN2Y3YmNhMmZmNjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ziam (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdlN2Q0ZjktNWI3Ny00NGYzLWJmNmItN2Y3YmNhMmZmNjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ziam (2025)
 https://vidmody.com/vs/tt35669009/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczNWMxNGEtNTI0ZC00ZjQ3LTk1MzktNzBkYmYxZTcwNjJiXkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Zorlu Ev:Hard Home (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczNWMxNGEtNTI0ZC00ZjQ3LTk1MzktNzBkYmYxZTcwNjJiXkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Zorlu Ev:Hard Home (2024)
 https://vidmody.com/vs/tt31974111/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/29424168.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Inside (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/29424168.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Inside (2024)
 https://vidmody.com/vs/tt29424168/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5402714.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Öbür Dünyadan : Here After (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5402714.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Öbür Dünyadan : Here After (2024)
 https://vidmody.com/vs/tt5402714/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32246771.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Onu Geri Getir : Bring Her Back (Korku-Gizem)(2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32246771.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Onu Geri Getir : Bring Her Back (Korku-Gizem)(2025)
 https://vidmody.com/vs/tt32246771/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg0NTFlMzktYjM3NS00NmI0LTlmZmMtNTVlNWRjMTNlNjRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Yunan (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg0NTFlMzktYjM3NS00NmI0LTlmZmMtNTVlNWRjMTNlNjRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yunan (2025)
 https://vidmody.com/vs/tt24022322/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1137450.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Öldürme Arzusu:Death Wish (2018)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1137450.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Öldürme Arzusu:Death Wish (2018)
 https://vidmody.com/vs/tt1137450/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/21201300.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Karabasan:Bagman (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/21201300.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Karabasan:Bagman (2024)
 https://vidmody.com/vs/tt21201300/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22964884.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Upon Entry (2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22964884.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Upon Entry (2022)
 https://vidmody.com/vs/tt22964884/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22874848.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sessiz Saat :The Silent Hour (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22874848.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sessiz Saat :The Silent Hour (2024)
 https://vidmody.com/vs/tt22874848/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32086046.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Süleyman’ın Hikayesi:L'histoire de Souleymane (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32086046.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Süleyman’ın Hikayesi:L'histoire de Souleymane (2024)
 https://vidmody.com/vs/tt32086046/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU5MDAzNzgtOTgyYS00M2ZiLWJjNWQtNjA0YmIwMDBlMTRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Tanımlanamayan :Unidentified (2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU5MDAzNzgtOTgyYS00M2ZiLWJjNWQtNjA0YmIwMDBlMTRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Tanımlanamayan :Unidentified (2022)
 https://vidmody.com/vs/tt22488952/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27621210.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ice Road: Vengeance (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27621210.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ice Road: Vengeance (2025)
 https://vidmody.com/vs/tt27621210/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31193180.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Günahkârlar (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/31193180.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Günahkârlar (2025)
 https://vidmody.com/vs/tt31193180/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/28639058.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kaplanlarla Av:Tigres et Hyènes (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/28639058.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kaplanlarla Av:Tigres et Hyènes (2024)
 https://vidmody.com/vs/tt28639058/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/6654210.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sonsuz : Infinite (2021)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/6654210.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sonsuz : Infinite (2021)
 https://vidmody.com/vs/tt6654210/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/16311594.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",F1: The Movie (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/16311594.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",F1: The Movie (2025)
 https://vidmody.com/vs/tt16311594/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/7556122.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Old Guard (2020)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/7556122.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Old Guard (2020)
 https://vidmody.com/vs/tt7556122/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/14961624.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Old Guard 2 (2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/14961624.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Old Guard 2 (2025)
 https://vidmody.com/vs/tt14961624/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22004344.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Havuzdaki Büfe:Snack Shack (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22004344.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Havuzdaki Büfe:Snack Shack (2024)
 https://vidmody.com/vs/tt22004344/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/15552142.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Caddo Lake (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/15552142.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Caddo Lake (2024)
 https://vidmody.com/vs/tt15552142/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2396589.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Savaştan Sonra (2017)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2396589.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Savaştan Sonra (2017)
 https://vidmody.com/vs//tt2396589/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RkYTg4YWQtNmE3Ny00MmE3LWJkNzQtZTFhNWNjOGM3OTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Dolaşan Dünya-The Wandering Earth 1 (2019)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RkYTg4YWQtNmE3Ny00MmE3LWJkNzQtZTFhNWNjOGM3OTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Dolaşan Dünya-The Wandering Earth 1 (2019)
 https://vidmody.com/vs//tt7605074/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg5MTNkZGUtNGViNS00NzFlLTg1NDYtN2Y2NzY3NWNmNzg2XkEyXkFqcGc@._V1_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Gezegenler Savaşı-The Wandering Earth 2 (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg5MTNkZGUtNGViNS00NzFlLTg1NDYtN2Y2NzY3NWNmNzg2XkEyXkFqcGc@._V1_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Gezegenler Savaşı-The Wandering Earth 2 (2023)
 https://vidmody.com/vs/tt13539646/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0318649.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sahara (2005)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0318649.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sahara (2005)
 https://vidmody.com/vs//tt0318649/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sonic The Hedgehog 3 -Aksiyon-Komedi (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sonic The Hedgehog 3 -Aksiyon-Komedi (2024)
 https://vidmody.com/vs/tt18259086/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26671415.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Yedi Tül-Seven Veils (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/26671415.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yedi Tül-Seven Veils (2023)
 https://vidmody.com/mm/tt26671415/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22050754.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Ziyaretçiler:Bölüm 1 -The Strangers: Chapter 1 (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/22050754.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Ziyaretçiler:Bölüm 1 -The Strangers: Chapter 1 (2024)
 https://vidmody.com/vs/tt22050754/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32178949.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kutsal İncirin Tohumu-Dâne-ye anjîr-e ma'âbed  (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32178949.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kutsal İncirin Tohumu-Dâne-ye anjîr-e ma'âbed  (2024)
 https://vidmody.com/mm/tt32178949/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/18559464.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",My Old Ass (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/18559464.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",My Old Ass (2024)
 https://vidmody.com/mm/tt18559464/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32550101.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Straw -Son Damla(2025)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/32550101.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Straw -Son Damla(2025)
 https://vidmody.com/mm/tt32550101/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/18073328.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kan ve Altın-Blood & Gold (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/18073328.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Kan ve Altın-Blood & Gold (2023)
 https://vidmody.com/mm/tt18073328/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2560078.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Boston Strangler (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2560078.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Boston Strangler (2023)
 https://vidmody.com/mm/tt2560078/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2396589.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Savaştan Sonra-Mudbound (2017)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2396589.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Savaştan Sonra-Mudbound (2017)
 https://vidmody.com/mm//tt2396589/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4996328.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sıradan Melekler-Ordinary Angels (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4996328.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sıradan Melekler-Ordinary Angels (2024)
 https://vidmody.com/mm/tt4996328/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0881320.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Dip -Sanctum(2011)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0881320.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Dip -Sanctum(2011)
 https://vidmody.com/mm/tt0881320/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13874422.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Sonsuz Sır -The Eternal Daughter(2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13874422.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Sonsuz Sır -The Eternal Daughter(2022)
 https://vidmody.com/mm/tt13874422/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1622547.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Çaylak Soyguncular-30 Minutes or Less (2011)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/1622547.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Çaylak Soyguncular-30 Minutes or Less (2011)
 https://vidmody.com/mm/tt1622547/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5608166.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Dashing Through the Snow (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5608166.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Dashing Through the Snow (2023)
 https://vidmody.com/mm/tt5608166/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/12226632.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Büyük George Foreman-Big George Foreman(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/12226632.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Büyük George Foreman-Big George Foreman(2023)
 https://vidmody.com/mm/tt12226632/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13957560.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Keriz Parası-Dumb Money (2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13957560.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Keriz Parası-Dumb Money (2023)
 https://vidmody.com/vs/tt13957560/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/30024043.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Savcı Ng poon (2024)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/30024043.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Savcı Ng poon (2024)
 https://vidmody.com/mm/tt30024043/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0974554.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Aşkın Peşinde:Elegy-Dram-Romantik(2008)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0974554.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Aşkın Peşinde:Elegy-Dram-Romantik(2008)
 https://vidmody.com/mm/tt0974554/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0084021.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Grease 2-Komedi-Müzik-Müzikal(1982)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0084021.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Grease 2-Komedi-Müzik-Müzikal(1982)
 https://vidmody.com/mm/tt0084021/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/14849194.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Holdovers-Komedi-Dram(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/14849194.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Holdovers-Komedi-Dram(2023)
 https://vidmody.com/vs/tt14849194/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkzOTI5OWYtNzlkMS00YTY2LWJhNjQtYmZhYjIwMjA4YWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Lucy ist jetzt Gangster-Komedi-Suç-Aile(2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkzOTI5OWYtNzlkMS00YTY2LWJhNjQtYmZhYjIwMjA4YWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Lucy ist jetzt Gangster-Komedi-Suç-Aile(2022)
 https://vidmody.com/mm/tt11307462/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img3.acsta.net/c_300_300/pictures/23/09/14/15/32/2181429.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Misyon:Eğlence Okulu-Die (un)langweiligste Schule der Welt-Komedi-Aile(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img3.acsta.net/c_300_300/pictures/23/09/14/15/32/2181429.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Misyon:Eğlence Okulu-Die (un)langweiligste Schule der Welt-Komedi-Aile(2023)
 https://vidmody.com/mm/tt21630718/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13457790.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Critic-Suç-Dram-Gizem(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13457790.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Critic-Suç-Dram-Gizem(2023)
 https://vidmody.com/vs/tt13457790/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/7160372.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",İlgi Alanı-The Zone of Interest-Dram-Tarihi-Savaş(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/7160372.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",İlgi Alanı-The Zone of Interest-Dram-Tarihi-Savaş(2023)
 https://vidmody.com/mm/tt7160372/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/17009710.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Bir Düşüşün Anatomisi-Anatomie d'une chute-Suç-Dram-Gerilim(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/17009710.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bir Düşüşün Anatomisi-Anatomie d'une chute-Suç-Dram-Gerilim(2023)
 https://vidmody.com/mm/tt17009710/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/23561236.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Amerikan Romanı-American Fiction-Komedi-Dram(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/23561236.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Amerikan Romanı-American Fiction-Komedi-Dram(2023)
 https://vidmody.com/mm/tt23561236/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/12/07/08/09/4714605.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Başka Bir Hayatta-Past Lives-Dram-Romantik(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/23/12/07/08/09/4714605.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Başka Bir Hayatta-Past Lives-Dram-Romantik(2023)
 https://vidmody.com/mm/tt13238346/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27724113.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Konvoi-Aksiyon-Dram-Tarihi(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/27724113.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Konvoi-Aksiyon-Dram-Tarihi(2023)
 https://vidmody.com/mm/tt27724113/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/10095582.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Tragedy of Macbeth-Dram-Tarih-Gerilim (2021)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/10095582.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Tragedy of Macbeth-Dram-Tarih-Gerilim (2021)
 https://vidmody.com/vs/tt10095582/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2557276.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Against the Sun:Güneşe Karşı-Savaş -Macera  (2014)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/2557276.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Against the Sun:Güneşe Karşı-Savaş -Macera  (2014)
 https://vidmody.com/mm/tt2557276/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/8685520.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Korkusuzlar: Midway Savaşı Aksiyon-Macera-Tarih (2019)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/8685520.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Korkusuzlar: Midway Savaşı Aksiyon-Macera-Tarih (2019)
 https://vidmody.com/mm/tt8685520/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5220602.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",D-Day Assassıns:Kurtuluş Günü-Savaş  (2019)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/5220602.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",D-Day Assassıns:Kurtuluş Günü-Savaş  (2019)
 https://vidmody.com/mm/tt5220602/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/9853500.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Bandit -Suç-Dram-Gerilim (2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/9853500.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bandit -Suç-Dram-Gerilim (2022)
 https://vidmody.com/mm/tt9853500/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0808151.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Angels & Demons:Melekler ve Şeytanlar-Gizem-Gerilim(2009)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0808151.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Angels & Demons:Melekler ve Şeytanlar-Gizem-Gerilim(2009)
 https://vidmody.com/mm/tt0808151/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0245686.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Joe Dirt-Macera-Komedi-Dram(2001)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0245686.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Joe Dirt-Macera-Komedi-Dram(2001)
 https://vidmody.com/mm/tt0245686/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4126340.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Joe Dirt 2: Beautiful Loser -Komedi-Dram(2015)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/4126340.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Joe Dirt 2: Beautiful Loser -Komedi-Dram(2015)
 https://vidmody.com/mm/tt4126340/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/23873418.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",20.0 Megaquake -Aksiyon-Dram-Bilim Kurgu(2022)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/23873418.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",20.0 Megaquake -Aksiyon-Dram-Bilim Kurgu(2022)
 https://vidmody.com/mm/tt23873418/main/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13566172.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",The Dive -Gerilim-Dram(2023)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13566172.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",The Dive -Gerilim-Dram(2023)
 https://vidmody.com/vs/tt13566172/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0857295.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Timber Falls:Cinnet-Korku-Gerilim (2007)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/0857295.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Timber Falls:Cinnet-Korku-Gerilim (2007)
 https://vidmody.com/mm/tt0857295/main/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/bifYmCujLshZo4qVdmUpP7Q2iLn.jpg"group-title="YABANCI TR DBL FİLMLER":http-referrer="":http-user-agent="",A Classic Horror Story
 https://vidmody.com/mm/tt12877640/main/index.m3u8
