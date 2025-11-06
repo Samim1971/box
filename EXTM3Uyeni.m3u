@@ -9,7 +9,7 @@ https://p1.gamephotos.pro/v/1ifrdgmglvl3/master.m3u8
 https://p2.photofunia.pro/v/u0a82jzgjkff/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/b32e317a5796aded1be8d29048d9e19889f3418d/The_Tomorrow_War.jpeg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Yarının Savaşı
 https://vs13.gamephotos.pro/v/The.Tomorrow.War.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/b32e317a5796aded1be8d29048d9e19889f3418d/x-moor-1408538526.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kanlı Bataklık 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/b32e317a5796aded1be8d29048d9e19889f3418d/x-moor-1408538526.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Kanlı Bataklık
 https://vs10.photour.org/v/XMOOR.2014.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/b32e317a5796aded1be8d29048d9e19889f3418d/thelaast.jpg"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Son Çatışma (2025)
 https://vs9.photoflax.org/v/The.Last.Gunfight.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
@@ -33,6 +33,18 @@ https://vs19.photour.org/v/The.Last.Showgirl.2024.Bluray.1080p.DUAL.x264-HDM/mas
 https://vs19.photofunia.pro/v/The.Summer.Book.2024.Bluray.1080p.DUAL.x264-HDM/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/938b98f423375d5a311c639b3c9259a4e420e503/a-house-of-dynamite.webp"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",A House of Dynamite
 https://vs12.photostack.net/v/A.HOUSE.OF.DYNAMITE.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing BÖLÜM 1
+https://storage.diziyou.to/episodes/20551_tr/720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing BÖLÜM 2
+https://storage.diziyou.to/episodes/20552_tr/720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing  BÖLÜM 3
+https://storage.diziyou.to/episodes/20553_tr/720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing  BÖLÜM 4
+https://storage.diziyou.to/episodes/20554_tr/720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing  BÖLÜM 5
+https://storage.diziyou.to/episodes/20555_tr/720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/Samim1971/resim/9ab81a84639226d0526c18199989704daf3835b6/keep-breathing.jpg"group-title="DİZİ Keep Breathing":http-referrer="":http-user-agent="",Keep Breathing BÖLÜM 6
+https://storage.diziyou.to/episodes/20556_tr/720p.m3u8
 #EXTINF:-1 tvg-name="TV8.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8
