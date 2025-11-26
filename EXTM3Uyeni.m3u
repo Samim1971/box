@@ -52,7 +52,9 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek
-http://161.123.116.21/live/Jason1/Jason2/1847370.ts
+http://otom.191462.xyz/live/murat.yalcin/04.07.2022/790.ts
+#EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek 1
+http://tv1site.com:8080/live/mkafali2tv54/DaMKHXNvyTHa/7046.ts
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek 2
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek 3
@@ -92,17 +94,13 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal7.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-name="TR: beIN Sports 1 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 1 ᶠᴴᴰ
-http://161.123.116.21/live/Jason1/Jason2/1847065.ts
+http://otom.191462.xyz/live/murat.yalcin/04.07.2022/349629.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 2 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 2 ᶠᴴᴰ
-http://161.123.116.21/live/Jason1/Jason2/1847067.ts
+http://otom.191462.xyz/live/murat.yalcin/04.07.2022/9368.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 3 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 3 ᶠᴴᴰ
-http://161.123.116.21/live/Jason1/Jason2/1847070.ts
+http://otom.191462.xyz/live/murat.yalcin/04.07.2022/9369.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 4 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 4 ᶠᴴᴰ
-http://161.123.116.21/live/Jason1/Jason2/1847072.ts
-#EXTINF:-1 tvg-name="TR: beIN Sports 5 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 5 ᶠᴴᴰ
-http://rstm.tvsapp.xyz:8080/nik/nik/71614
-#EXTINF:-1 tvg-name="TR: beIN Sports Haber ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports Haber ᶠᴴᴰ
-http://rstm.tvsapp.xyz:8080/nik/nik/51327
+http://otom.191462.xyz/live/murat.yalcin/04.07.2022/20835.ts
 #EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TRT Spor
@@ -127,13 +125,13 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 7 HD"tvg-id="Tabii Spor 7.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",Tabii Spor 7 HD
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TR: beIN Sports 1 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TR: beIN Sports 1 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 1 ᶠᴴᴰ yedek1
 http://161.123.116.21/live/Jason1/Jason2/1847065.ts
-#EXTINF:-1 tvg-name="TR: beIN Sports 2 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TR: beIN Sports 2 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 2 ᶠᴴᴰ yedek 1
 http://161.123.116.21/live/Jason1/Jason2/1847067.ts
-#EXTINF:-1 tvg-name="TR: beIN Sports 3 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TR: beIN Sports 3 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 3 ᶠᴴᴰ yedek 1
 http://161.123.116.21/live/Jason1/Jason2/1847070.ts
-#EXTINF:-1 tvg-name="TR: beIN Sports 4 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TR: beIN Sports 4 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 4 ᶠᴴᴰ yedek 1
 http://161.123.116.21/live/Jason1/Jason2/1847072.ts
 #EXTINF:-1 tvg-name="Now TV"tvg-id="NOW.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
