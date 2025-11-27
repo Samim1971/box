@@ -94,13 +94,13 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal7.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-name="TR: beIN Sports 1 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 1 ᶠᴴᴰ
-http://otom.191462.xyz/live/murat.yalcin/04.07.2022/349629.ts
+http://nuhygo.shop:8080/live/Phantom/CsegFKSTB8/351541.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 2 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 2 ᶠᴴᴰ
-http://otom.191462.xyz/live/murat.yalcin/04.07.2022/9368.ts
+http://nuhygo.shop:8080/live/Phantom/CsegFKSTB8/196216.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 3 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 3 ᶠᴴᴰ
-http://otom.191462.xyz/live/murat.yalcin/04.07.2022/9369.ts
+http://nuhygo.shop:8080/live/Phantom/CsegFKSTB8/196217.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 4 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 4 ᶠᴴᴰ
-http://otom.191462.xyz/live/murat.yalcin/04.07.2022/20835.ts
+http://nuhygo.shop:8080/live/Phantom/CsegFKSTB8/196218.ts
 #EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRT Spor.tr"tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TRT Spor
@@ -126,13 +126,13 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 7 HD"tvg-id="Tabii Spor 7.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10"group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",Tabii Spor 7 HD
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TR: beIN Sports 1 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 1 ᶠᴴᴰ yedek1
-http://161.123.116.21/live/Jason1/Jason2/1847065.ts
+http://nuhygo.shop:8080/live/rcp4978/1ef30f4a23ba5829/351541.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 2 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 2 ᶠᴴᴰ yedek 1
-http://161.123.116.21/live/Jason1/Jason2/1847067.ts
+http://nuhygo.shop:8080/live/rcp4978/1ef30f4a23ba5829/196216.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 3 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 3 ᶠᴴᴰ yedek 1
-http://161.123.116.21/live/Jason1/Jason2/1847070.ts
+http://nuhygo.shop:8080/live/rcp4978/1ef30f4a23ba5829/196217.ts
 #EXTINF:-1 tvg-name="TR: beIN Sports 4 ᶠᴴᴰ"tvg-id=""tvg-logo=""group-title="TR✦ beIN Yedek":http-referrer="":http-user-agent="",TR: beIN Sports 4 ᶠᴴᴰ yedek 1
-http://161.123.116.21/live/Jason1/Jason2/1847072.ts
+http://nuhygo.shop:8080/live/rcp4978/1ef30f4a23ba5829/196218.ts
 #EXTINF:-1 tvg-name="Now TV"tvg-id="NOW.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"group-title="Ulusal":http-referrer="":http-user-agent="",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="NOW.tr"tvg-id="Now_tv"tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png"group-title="Ulusal":http-referrer="":http-user-agent="",NOW.tr
