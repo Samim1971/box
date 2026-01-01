@@ -12176,7 +12176,7 @@ https://vidmody.com/mm/tt3521164/main/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://turkcealtyazi.org/film/200/13622970.jpg"group-title="DORUK":http-referrer="":http-user-agent="",Moana 2
 https://vidmody.com/vs/tt13622970/
 #EXTINF:-1 tvg-name="TV8.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek
@@ -12190,13 +12190,13 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",atv
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="ATV 1"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",ATV 1
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/582px-Atv_logo_2010.svg.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="ShowTV.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Show TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="FAVORİLER":http-referrer="":http-user-agent="",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="HalkTV.tr"tvg-id="HALK TV.tr"tvg-logo="https://i.imgur.com/xM0HA30.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",HalkTV.tr
@@ -12204,9 +12204,9 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TRT 1
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TRT 1
-http://162.212.179.33:80/dvrfl05/gin-trt1eu/playlist.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="StarTV.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Star TV
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-name="Star TV"tvg-id="Star.tr"tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=234bba7f4c081135a3feabade1f0b977&dfp_paln=AQzzBGQE82jSDfFyOeHIPRF18Sb7vlEyah0b7vJoHrWC_ZHFnoQamX1or7-_kxDQzU_LZzORTaUhsEuQ_QLvyVFdT2MwYAMyoTIi19Wkgh5P-jaWmVQhMI5B7KZXEpNktnPQFdZsUk0JYV0fWOADN9P0Af49xO3WXQNPR1YPGBFw8oqb684b9zhJNNGBot45Fl8HVorh1qogZGjnTR0nJY3WZDcFGIVDZgVhxWTgFyzUaD1xwOKdmHEB-KPm0qA6PwrR4aqVgpEnp-suYs3EmmytFXWDOSiKAUOcyRz6xJAWiADCFjW9mm1vDSkzATpQSK_LDOgS1_hvSNfkFa5Egfjm6KI0GysAGUx2uDVGgLtlIgb9CUGVcfvZpSWiKBTlpuF2Lmf1jcNqygZvKfQycqtr7zJSyEQXSFzwA9f6FtHMyYEJLSUPbnmf_-eosOKDFcFMltV5bFkkKeim0z60naG4PUkGJ-anNI7j-ccsDSaHPLdmcXbuevCtxJpY7uggPad_wvZRo2tQss_O4oq2khBWianx1OFR3rllHeFP-_cgKk7Q7T1yfv_oS_p3LTlAlFEsrEqQmutegorkQfIgFiEwdcsJHBNYBf2_MZRsQ8-PONAPHIATeQuNINdQxS0a0uEUpXherYbYFlPtUy2vtbh45PqA-6PEg9kLKY5oRlspelpz_OTMYMWQQkI-jyLw_xAaTrMfdR3DgmamO65gsCnjCuq75vKJdFV1EBe5Li8zpBm7-I83H2PzebDtgKdbOMIr3sR-hc-gid-7Cv8EuOQlrRPLJva77fXARONOBGHvsiz_e_r0brZObtydQWNpaPmxWJzlQ9CwxSxXKHVebfJIPkeUXkPu_sH1wN0NP6Y_jz3PGSEmxeZe6p-sfbhAQgEnEVDbDhPnPa6SQgKMxcNUcNBCgCGzif4IVMmYv3Yx6oj9s4LWRLGmdIQlDCQGEHdMsr2E9tkos0Of-Sx7vIlne-wVa17VRv9M6R2vTW0CI3QRRPR7qTkkXaSmlYCFDoF1u7mjhRRdQ4X042HhLZ_j0uSMcGCWKYd3ZD79iusDs7iw9IYTHzsWz6lAVdY8-7kArvy0WAH9LiyXx0H7EUyFpcjn20P1syvmSYYb94m7clPUsJtK8BOP8_B3bXzXuZwEN4Hzni9xWBAU-vHxgfHyrjyezBsHTFs.
 #EXTINF:-1 tvg-name="Now TV"tvg-id="NOW.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Now TV
@@ -12214,13 +12214,17 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="Beyaz TV"tvg-id="Beyaz TV.tr"tvg-logo="https://www.beyaztv.com.tr/images/logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-name="KanalD.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:-1 tvg-name="KanalD.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-name="Now.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-name="BeyazTV.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-name="Kanal7.tr"tvg-id=""tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",Kanal 7
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRT Haber.tr"tvg-logo="https://play-lh.googleusercontent.com/stko3vRumvnhku9Jptzr3ZS7sLDJ3NjIlJxa0N7R6D3pba4x4UcRGqFREZC2VUM_5w"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber Turk.tr"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
@@ -27414,7 +27418,7 @@ http://zafertv85.shop:8080/srf7837/afda41fa1a81e97c/20484
 #EXTINF:-1 tvg-name="|TR| Atv HD"tvg-id="24KitchenTurkey.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png"group-title="TR/ ULUSAL TV [HD]":http-referrer="":http-user-agent="",|TR| Atv HD
 http://zafertv85.shop:8080/srf7837/afda41fa1a81e97c/6266
 #EXTINF:-1 tvg-name="|TR| Kanal D HD"tvg-id="KanalD.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png"group-title="TR/ ULUSAL TV [HD]":http-referrer="":http-user-agent="",|TR| Kanal D HD
-http://zafertv85.shop:8080/srf7837/afda41fa1a81e97c/6275
+http://elitetr2.xyz:8080/doguscoskun/NzuuoDcYM/88968
 #EXTINF:-1 tvg-name="|TR| Now Tv HD"tvg-id="24KitchenTurkey.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/now-tv-logo.png"group-title="TR/ ULUSAL TV [HD]":http-referrer="":http-user-agent="",|TR| Now Tv HD
 http://zafertv85.shop:8080/srf7837/afda41fa1a81e97c/6276
 #EXTINF:-1 tvg-name="|TR| Star Tv HD"tvg-id="StarTV.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png"group-title="TR/ ULUSAL TV [HD]":http-referrer="":http-user-agent="",|TR| Star Tv HD
