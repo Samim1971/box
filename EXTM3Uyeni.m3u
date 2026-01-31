@@ -4555,3 +4555,515 @@ http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/76143.mp4
 http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/76144.mp4
 #EXTINF:-1 tvg-name="TR:Lucifer S06 E10"tvg-id=""tvg-logo="http://germanydns.com:8000/images/series/ekZobS8isE6mA53RAiGDG93hBxL.jpg"group-title="LUCIFER":http-referrer="":http-user-agent="",TR:Lucifer S06 E10
 http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/76145.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",DAMAR TURK FM
+https://live.radyositesihazir.com:10997/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Arabesk FM
+http://yayin.arabeskfm.biz:8042/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",KRAL FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Power POP
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Slow Turk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo 7
+http://46.20.3.250/;stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Super Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Virgin Radio Türkiye
+http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",KRAL TÜRK FM
+https://live.radyositesihazir.com/8032/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Metro FM
+http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Best Fm
+http://46.20.7.126/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Baba Radyo
+http://46.20.7.116/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Türkülerle Türkiye
+http://37.247.98.8/listen.pls?sid=22
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Süper FM
+http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Alem FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Power FM Türkiye
+https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Damar Turk FM
+https://live.radyositesihazir.com:10997/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",JoyTürk Akustik
+https://27873.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac?/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",a HABER
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Ankara Havalari
+http://37.247.98.8/listen.pls?sid=30
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",POWER TÜRK FM
+https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",DamarTurk FM
+https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",90lar turkey
+http://37.247.98.8/stream/166/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",PAL Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo 45lik yeni
+https://stream.radyo45lik.com:4545/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Joy Fm
+http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",JOY TÜRK TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",dinamo.fm sleep
+http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",pop 90 turkey
+http://provisioning.streamtheworld.com/pls/POP90AAC.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Karadeniz FM
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",102.1 Arabeskin Merkezi Fm
+https://canli.arabeskinmerkezi.com:9180/listen.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",ALTIN SARKILAR
+http://37.247.98.8/listen.pls?sid=25
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Voyage
+http://voyagewmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Pal station
+http://shoutcast.radyogrup.com:1020/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Turku Radyo
+http://radyo.turkuradyo.net:4591/listen.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",NTV Radyo
+http://46.20.3.207/listen.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Fenomen Clubbin
+https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Park Fm
+http://yayin.netradyom.com:8050/PARKFM/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT3
+http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Ekin
+http://yayin.turkhosted.com:6006/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Number one
+https://n10101m.mediatriple.net/numberone
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT FM
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Habertürk Radyo
+https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Alem Fm
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",ASPOR
+http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Havin FM
+http://yayin6.radyohizmeti.com:7050/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",baba radyo
+http://officialbabaradyo.radyotvonline.net/babaofficial
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",İstanbul FM
+https://ssldyg2.radyotvonline.com/istanbulfm/istanbulfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Şiran
+https://live.radyositesihazir.com/8078/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",FENOMEN TÜRK
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Pal Fm
+https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Powerturk R&B Hip Hop
+https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",dinamo.fm deep
+http://channels.dinamo.fm/deep-mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Diyanet Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",KRAL POP ALTERNATİF 2
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radio 5 Turkey
+https://radyo.yayin.com.tr/tunein/radiotrc.asx
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Numberone Turk
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",powerturk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",HAYATMİX
+https://hayatmix.yayin.com.tr/mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo 35
+https://yayin.turkhosted.com/6012/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT Radyo Kurdî
+https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Metro fm turkey
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Vatan Türkü
+http://95.0.173.195:9000/turku
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",ALEM FM
+https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TürküRadyo
+https://yayin.turkhosted.com/4591/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",dinamo.fm caffe
+http://channels.dinamo.fm/caffe-mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Banko
+http://yayin.netradyom.com:9910/RADYOBANKO
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radio Ava Turkiye
+http://play.markaradyo.com:8002/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",KRAL POP
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Dejavu
+http://radyodejavu.canliyayinda.com:8054/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Kurd1 FM
+https://listen.radioking.com/radio/119251/stream/158701
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Hemdem Radyo
+http://yayin.hemdemradyo.com/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Loops Radio House Station
+https://loopsdeep.ozelip.com/7806/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Halk Tv
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6vahxsup0jxl&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",LALEGÜL FM
+https://icecast.netmedya.net/lalegulfm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",PowerTürk Akustik
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo 9
+https://radyo.yayin.com.tr:4010/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Vav Radyo
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Erzincan Cem Radyo
+https://erzincan.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",GİMSA RADYO
+http://yayin1.canliyayin.org:9482/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",90 lar Pop
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Cnn Türk Radyo
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Risalet Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",POWER TÜRK DANS TÜRKİYE
+https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Avrasya Türk Radyo
+https://sslyayin.netyayin.net:10909/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Spor
+http://46.20.4.5:8170/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Aşk FM
+http://yayin.asymedya.com:8020/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Marmaris Yacht Marin FM
+https://radio.guventechnology.com:7003//stream/radyomarin
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Fenomen Türkçe Rap
+https://live.radyofenomen.com/fenomenturkrap/abr/fenomenturkrap/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",JOY TÜRK ROCK TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo ILEF Ankara
+http://radyo.cc.ankara.edu.tr:8089/listen.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT NAĞME
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",PowerTürk Dans
+https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Loops Radio Elektronica Station
+https://ssl22.radyotelekom.com/8232/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Arkadas Radyo
+http://yayin2.yayindakiler.com:4134/;stream.nsv
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Türkiyem FM
+https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Turkuvaz Anadolu
+http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Fakir Fm
+https://live.radyositesihazir.com/1025/stream/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Odea Radyo
+https://27793.live.streamtheworld.com/ODEA128AAC.aac
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",FENOMEN DANS
+https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Alevi Canlar
+https://alevifm.80.yayin.com.tr/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Gundi FM
+http://gundifm.ozelip.com:7830/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TGRT FM
+https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRK YUSUF FM
+https://stream.zeno.fm/zxdq9cx917htv
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",dinamo.fm smog
+http://channels.dinamo.fm/smog-mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",107.4 Radio Voyage
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Viva
+https://edge1.radyotvonline.net/shoutcast/play/radyoviva
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Türkü Radyo
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",SUPER FM 2 TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Erzincan Nostalji Radyo
+https://erzincannostalji.ozelip.com/8238/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",FENOMEN KARISIK
+https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",HOS MİX
+https://anadolu.liderhost.com.tr:10871/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT Radyo Haber
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Mydonose Türk
+https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",POWER XL TURKEY
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Diyanet Kur'an Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Türkrap FM
+http://95.173.188.166:9984/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Power love
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Tarkan
+https://stream.pcradio.ru/tarkan-hi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radio Glamorize
+https://live.radioglamorize.com/stream1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",ALTIN ŞARKILAR
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Istanbul FM
+https://yayin.istanbulfm.com.tr/istanbulfm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Akra FM
+https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",dinamo.fm legacy
+http://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Köroğlu FM
+https://yayin.turkhosted.com:6068/stream?/;stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Govend radyo
+https://stream-56.zeno.fm/xzzu8kynq2zuv?zs=nZP7ZCRXQPOpDFenayr0bQ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",AÇS Radyo
+https://ip169.ozelip.com:10838/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Turkuaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Gökçeada
+https://radyo.yayin.com.tr:6179/;
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",FENOMEN TÜRKÇE RAP
+https://live.radyofenomen.com/fenomenturkrap/abr/fenomenturkrap/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Semerkand Radyo
+http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Magico
+https://play.radioking.io/radyo-magico
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",FENOMEN POP
+https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radyo Sinerji
+https://radio.guventechnology.com/9994/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Kurd1
+https://www.radioking.com/play/kurd1-radyo
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Radio 44
+https://radyo44.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Borusan Klasik
+http://provisioning.streamtheworld.com/pls/BORUSAN_KLASIKAAC.pls
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Number One Türk
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Sezen Radyo
+http://radyo1.radyo-dinle.tc:8038/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Yaren FM
+https://yarenfmn.80.yayin.com.tr//stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Abuzer FM
+http://live.radyotvonline.com:9030/;stream.nsv
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",S1lhoutte Arabesk FM
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Diyarbakır Çağrı FM
+https://live.cagrifm.com.tr/cagrifm
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Pir Yolu
+http://radyopiryolu.canliyayinda.com:8165/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",BesteFM
+https://server35971.streamplus.de/stream.mp3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Kıyı Türkçe
+https://kiyiturk.radioca.st/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",Dost
+http://yayin1.yayindakiler.com:3156/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",retro turk
+http://provisioning.streamtheworld.com/pls/RETROTURKAAC.pls
+#EXTINF:-1 tvg-name="TR:Fringe S01 E01"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E01
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59365.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E02"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E02
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59366.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E03"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E03
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59367.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E04"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E04
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59388.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E05"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E05
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59369.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E06"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E06
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59370.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E07"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E07
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59371.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E08"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E08
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59392.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E09"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E09
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59373.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E10"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E10
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59394.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E11"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E11
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59395.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E12"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E12
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59396.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E13"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E13
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59397.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E14"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E14
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59398.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E15"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E15
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59399.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E16"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E16
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59380.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E17"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E17
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59381.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E18"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E18
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59402.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E19"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E19
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59383.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S01 E20"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S01 E20
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59385.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E01"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E01
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59405.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E02"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E02
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59406.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E03"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E03
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59407.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E04"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E04
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59408.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E05"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E05
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59432.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E06"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E06
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59410.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E07"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E07
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59411.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E08"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E08
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59412.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E09"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E09
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59413.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E10"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E10
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59414.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E11"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E11
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59415.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E12"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E12
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59416.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E13"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E13
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59440.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E14"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E14
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59441.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E15"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E15
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59442.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E16"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E16
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59420.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E17"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E17
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59421.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E18"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E18
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59422.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E19"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E19
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59423.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E20"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E20
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59424.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E21"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E21
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59425.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E22"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E22
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59426.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S02 E23"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S02 E23
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59428.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E01"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E01
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59448.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E02"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E02
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59449.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E03"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E03
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59450.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E04"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E04
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59451.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E05"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E05
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59452.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E06"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E06
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59453.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E07"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E07
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59454.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E08"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E08
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59455.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E09"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E09
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59456.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E10"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E10
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59457.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E11"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E11
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59458.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E12"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E12
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59459.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E13"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E13
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59460.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E14"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E14
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59461.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E15"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E15
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59462.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E16"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E16
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59463.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E17"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E17
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59464.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E18"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E18
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59465.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E19"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E19
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59466.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E20"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E20
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59467.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E21"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E21
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59468.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S03 E22"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S03 E22
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59469.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E01"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E01
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59470.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E02"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E02
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59471.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E03"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E03
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59472.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E04"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E04
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59473.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E05"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E05
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59474.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E06"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E06
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59475.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E07"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E07
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59476.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E08"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E08
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59477.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E09"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E09
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59478.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E10"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E10
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59479.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E11"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E11
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59480.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E12"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E12
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59481.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E13"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E13
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59482.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E14"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E14
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59483.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E15"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E15
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59484.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E16"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E16
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59485.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E17"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E17
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59486.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E18"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E18
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59487.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E19"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E19
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59488.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E20"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E20
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59489.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E21"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E21
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59490.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S04 E22"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S04 E22
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59491.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E01"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E01
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59492.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E02"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E02
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59496.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E03"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E03
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59495.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E04"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E04
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59497.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E05"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E05
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59499.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E06"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E06
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59501.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E07"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E07
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59503.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E08"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E08
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59508.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E09"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E09
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59509.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E10"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E10
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59510.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E11"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E11
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59512.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E12"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E12
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59514.mp4
+#EXTINF:-1 tvg-name="TR:Fringe S05 E13"tvg-id=""tvg-logo="http://tv.germanyservers.co:8000/images/series/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg"group-title="TR:NETFLIX":http-referrer="":http-user-agent="",TR:Fringe S05 E13
+http://elitetr2.xyz:8080/series/Eksizade53/Eksizade5353/59516.mp4
