@@ -1,30 +1,80 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 (TTNET ÖZEL)
+http://barboplay.shop:8080/mtt8042/cn2105/334642
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 SD [480p]
+http://barboplay.shop:8080/mtt8042/cn2105/35762
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 720p
+http://barboplay.shop:8080/mtt8042/cn2105/351541
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 HD [VIP]
+http://barboplay.shop:8080/mtt8042/cn2105/98925
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 FHD
+http://barboplay.shop:8080/mtt8042/cn2105/126272
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 VIP H265
+http://barboplay.shop:8080/mtt8042/cn2105/190072
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 4K [Feed]
+http://barboplay.shop:8080/mtt8042/cn2105/35650
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 8K [Feed]
+http://barboplay.shop:8080/mtt8042/cn2105/191152
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 HD (Kutu Yayin)
+http://barboplay.shop:8080/mtt8042/cn2105/456568
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 HD (BoX)
+http://barboplay.shop:8080/mtt8042/cn2105/456567
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 2 SD
+http://barboplay.shop:8080/mtt8042/cn2105/196216
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 2 HD
+http://barboplay.shop:8080/mtt8042/cn2105/35730
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 2 UHD
+http://barboplay.shop:8080/mtt8042/cn2105/195811
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 3 SD
+http://barboplay.shop:8080/mtt8042/cn2105/196217
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 3 HD
+http://barboplay.shop:8080/mtt8042/cn2105/6097
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 3 UHD
+http://barboplay.shop:8080/mtt8042/cn2105/195812
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 4 SD
+http://barboplay.shop:8080/mtt8042/cn2105/196218
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 4 HD
+http://barboplay.shop:8080/mtt8042/cn2105/6098
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 4 UHD
+http://barboplay.shop:8080/mtt8042/cn2105/195813
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 5 HD
+http://barboplay.shop:8080/mtt8042/cn2105/125936
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports Max 1
+http://barboplay.shop:8080/mtt8042/cn2105/6099
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports Max 2
+http://barboplay.shop:8080/mtt8042/cn2105/6100
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Connect 1 |Mac Saati|
+http://barboplay.shop:8080/mtt8042/cn2105/137710
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Connect 2 |Mac Saati|
+http://barboplay.shop:8080/mtt8042/cn2105/137711
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Connect 3 |Mac Saati|
+http://barboplay.shop:8080/mtt8042/cn2105/137712
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 4K (MAÇ ZAMANI)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89599
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/334642
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 UHD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89012
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/35762
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 2 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 2 UHD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89017
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196216
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 3 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 3 UHD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89019
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196217
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 4 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 4 UHD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89021
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196218
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 5 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 5 UHD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/104160
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/125936
 #EXTINF:-1 tvg-name="TR:GERMANY SPORTS 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:GERMANY SPORTS 1 HD
 http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/105874
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 HD (50FPS)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 HD (50FPS)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89006
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/98925
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89004
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/351541
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89026
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/35650
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 SD (DUSUK KALITE)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 SD (DUSUK KALITE)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89371
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/191152
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 2 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89007
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196216
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 2 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 2 HD (YEDEK)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/112574
+http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/35730
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 3 HD
 http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89009
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 3 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 3 HD (YEDEK)
@@ -171,6 +221,8 @@ https://vs17.photoflick.org/v/Whatever.It.Takes.2000.WEB-DL.1080p.DUAL.H.264-HDM
 https://p3.photomag.biz/v/m1nn8tjo9ixj/1080.m3u8
 #EXTINF:-1 tvg-name="Hükümet Kadın 2"tvg-id="Hükümet Kadın 2"tvg-logo="https://www.hdfilmizle.to/v/25099/poster/watch/hukumet-kadin-2.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Hükümet Kadın 2
 https://p3.photostack.net/v/2m73ok8u8fon/1080.m3u8
+#EXTINF:-1 tvg-name="Bursa Bülbülü 2023"tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG3ca3sAmhVMOsHTJJ5QMqivhkq.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bursa Bülbülü 2023
+http://elitetr2.xyz:8080/movie/Eksizade53/Eksizade5353/92108.mp4
 #EXTINF:-1 tvg-name="Karayip Korsanları 1 Siyah İncinin Laneti"tvg-id="Karayip Korsanları 1 Siyah İncinin Laneti"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-karayip-korsanlari-1-siyah-incinin-laneti-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Karayip Korsanları 1 Siyah İncinin Laneti
 https://s1.imagehub.pics/ma/F2SlLKycpP5Yo3WmLJ5fLKWcYwRhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi1vr1
 #EXTINF:-1 tvg-name="Karayip Korsanları 2 Ölü Adamın Sandığı"tvg-id="Karayip Korsanları 2 Ölü Adamın Sandığı"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-karayip-korsanlari-2-full-hd-film-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Karayip Korsanları 2 Ölü Adamın Sandığı
