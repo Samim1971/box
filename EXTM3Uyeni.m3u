@@ -1,4 +1,24 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name="Yol Arkadaşım 2"tvg-id="Yol Arkadaşım 2"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-2-55842.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 2
+https://s16.pixypost.art/mo/JJ9fYxSln2SxLKAcoF4lYwVjZGthI0IPYHEZYwRjBQOjd0zxpTy4rKOip3DhLKW0s0xi16vr1
+#EXTINF:-1 tvg-name="Yol Arkadaşım 1"tvg-id="Yol Arkadaşım 1"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-1-60739.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 1
+https://s13.imglink.pro/mw/JJ9fYxSln2SxLKAcoF4lZQR3YyqSDv1RGP4kZQtjpNd0zxnJ1aoTyhnl5jpz8s0xi13vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 1 (TTNET ÖZEL)
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/139901.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 1 720p
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/214051.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 1 HD [VIP]
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/33901.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 2 SD
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/148075.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 2 HD
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/114123.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 3 SD
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/104267.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 3 HD
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/63479.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek 2":http-referrer="":http-user-agent="",|TR| beIN Sports 4 SD
+http://vipavrasyatv.trbluetv.xyz:2095/live/mert1115/M9WgjRGx5g/63479.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 (TTNET ÖZEL)
 http://barboplay.shop:8080/mtt8042/cn2105/334642
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Sports 1 SD [480p]
@@ -47,8 +67,8 @@ http://barboplay.shop:8080/mtt8042/cn2105/6100
 http://barboplay.shop:8080/mtt8042/cn2105/137710
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Connect 2 |Mac Saati|
 http://barboplay.shop:8080/mtt8042/cn2105/137711
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SPOR BEINSPOR  yedek":http-referrer="":http-user-agent="",|TR| beIN Connect 3 |Mac Saati|
-http://barboplay.shop:8080/mtt8042/cn2105/137712
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bkmonline.net/uploads/202002121307142863116.jpg"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Bayi Toplantısı
+https://p2.photomag.biz/v/0si08oedumr4/1080.m3u8
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 4K (MAÇ ZAMANI)
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/334642
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 UHD
@@ -61,8 +81,6 @@ http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196217
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196218
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 5 UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 5 UHD
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/125936
-#EXTINF:-1 tvg-name="TR:GERMANY SPORTS 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:GERMANY SPORTS 1 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/105874
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 HD (50FPS)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 HD (50FPS)
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/98925
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 1 HD
@@ -75,18 +93,6 @@ http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/191152
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/196216
 #EXTINF:-1 tvg-name="TR:BEINSPORTS 2 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 2 HD (YEDEK)
 http://ext2707.xyz:8080/kerembugra.10/7HRB2SpAdN/35730
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 3 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89009
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 3 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 3 HD (YEDEK)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/112579
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 4 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 4 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89011
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 4 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 4 HD (YEDEK)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/115512
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 5 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 5 HD
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/89811
-#EXTINF:-1 tvg-name="TR:BEINSPORTS 5 HD (YEDEK)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png"group-title="SPOR BEINSPOR":http-referrer="":http-user-agent="",TR:BEINSPORTS 5 HD (YEDEK)
-http://elitetr2.xyz:8080/Eksizade53/Eksizade5353/112581
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="FAVORİLER":http-referrer="":http-user-agent="",TV 8 yedek 3
@@ -1775,10 +1781,6 @@ https://vidmody.com/vs/tt7975244
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-name="Yol Arkadaşım 1"tvg-id="Yol Arkadaşım 1"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-1-60739.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 1
-https://s13.imglink.pro/mw/JJ9fYxSln2SxLKAcoF4lZQR3YyqSDv1RGP4kZQtjpNd0zxnJ1aoTyhnl5jpz8s0xi13vr1
-#EXTINF:-1 tvg-name="Yol Arkadaşım 2"tvg-id="Yol Arkadaşım 2"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-2-55842.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 2
-https://s16.pixypost.art/mo/JJ9fYxSln2SxLKAcoF4lYwVjZGthI0IPYHEZYwRjBQOjd0zxpTy4rKOip3DhLKW0s0xi16vr1
 #EXTINF:-1 tvg-name="Yüzüklerin Efendisi 2: İki Kule"tvg-id="Yüzüklerin Efendisi 2: İki Kule"tvg-logo="https://www.hdfilmizle.to/v/256/poster/watch/yuzuklerin-efendisi-2-iki-kule-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yüzüklerin Efendisi 2: İki Kule
 https://vs1.photour.org/m5/n2p5Az5lLJ16oTAyd0zxpTuiqT91pv5ipzps0xi1vr1
 #EXTINF:-1 tvg-name="Yüzüklerin Efendisi 3: Kralın Dönüşü"tvg-id="Yüzüklerin Efendisi 3: Kralın Dönüşü"tvg-logo="https://www.hdfilmizle.to/v/212/poster/watch/yuzuklerin-efendisi-3-kralin-donusu-hd-izle.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yüzüklerin Efendisi 3: Kralın Dönüşü
@@ -2619,28 +2621,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr"tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"group-title="MÜZİK":http-referrer="":http-user-agent="",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="|TR| beIN Sports 1 720p"tvg-id=""tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 1 720p
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447237.ts
-#EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",beIN Sports 1
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447237.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 1 SD [480p]"tvg-id="24KitchenTurkey.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 1 SD [480p]
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447238.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 2 SD"tvg-id=""tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 2 SD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447241.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 2 HD"tvg-id="24KitchenTurkey.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 2 HD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447240.ts
-#EXTINF:-1 tvg-name="beIN Sports 2"tvg-id="beIN Sports 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",beIN Sports 2
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447239.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 3 SD"tvg-id=""tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 3 SD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447243.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 3 HD"tvg-id="24KitchenTurkey.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 3 HD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447242.ts
-#EXTINF:-1 tvg-name="beIN Sports 3"tvg-id="beIN Sports 3.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",beIN Sports 3
-https://vettelchannel-trgoals.hf.space/proxy/m3u?url=https://r0.4928d54d950ee70q17.lat/yayinb3.m3u8
-#EXTINF:-1 tvg-name="|TR| beIN Sports 4 SD"tvg-id=""tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 4 SD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447245.ts
-#EXTINF:-1 tvg-name="|TR| beIN Sports 4 HD"tvg-id="24KitchenTurkey.tr"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",|TR| beIN Sports 4 HD
-http://tv1site.com:8080//live/zuXwSN9Fvm/7Pz7msSbh48/447244.ts
 #EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-name="A Spor"tvg-id="A Spor.tr"tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png"group-title="TR/ BEIN SPOR":http-referrer="":http-user-agent="",A Spor
@@ -4907,203 +4887,203 @@ https://kiyiturk.radioca.st/
 http://yayin1.yayindakiler.com:3156/
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="RADYOLAR":http-referrer="":http-user-agent="",retro turk
 http://provisioning.streamtheworld.com/pls/RETROTURKAAC.pls
-#EXTINF:-1,Fringe S01 E01
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E01
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543151.mkv
-#EXTINF:-1,Fringe S01 E02
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E02
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543152.mkv
-#EXTINF:-1,Fringe S01 E03
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E03
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543153.mkv
-#EXTINF:-1,Fringe S01 E04
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E04
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543154.mkv
-#EXTINF:-1,Fringe S01 E05
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E05
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543155.mkv
-#EXTINF:-1,Fringe S01 E06
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E06
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543156.mkv
-#EXTINF:-1,Fringe S01 E07
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E07
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543157.mkv
-#EXTINF:-1,Fringe S01 E08
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E08
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543158.mkv
-#EXTINF:-1,Fringe S01 E09
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E09
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543159.mkv
-#EXTINF:-1,Fringe S01 E10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E10
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543160.mkv
-#EXTINF:-1,Fringe S01 E11
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E11
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543161.mkv
-#EXTINF:-1,Fringe S01 E12
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E12
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543162.mkv
-#EXTINF:-1,Fringe S01 E13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E13
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543163.mkv
-#EXTINF:-1,Fringe S01 E14
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E14
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543164.mkv
-#EXTINF:-1,Fringe S01 E15
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E15
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543165.mkv
-#EXTINF:-1,Fringe S01 E16
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E16
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543166.mkv
-#EXTINF:-1,Fringe S01 E17
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E17
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543167.mkv
-#EXTINF:-1,Fringe S01 E18
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E18
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543168.mkv
-#EXTINF:-1,Fringe S01 E19
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E19
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543169.mkv
-#EXTINF:-1,Fringe S01 E20
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S01 E20
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543170.mkv
-#EXTINF:-1,Fringe S02 E01
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E01
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543171.mkv
-#EXTINF:-1,Fringe S02 E02
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E02
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543172.mkv
-#EXTINF:-1,Fringe S02 E03
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E03
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543173.mkv
-#EXTINF:-1,Fringe S02 E04
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E04
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543174.mkv
-#EXTINF:-1,Fringe S02 E05
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E05
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543175.mkv
-#EXTINF:-1,Fringe S02 E06
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E06
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543176.mkv
-#EXTINF:-1,Fringe S02 E07
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E07
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543177.mkv
-#EXTINF:-1,Fringe S02 E08
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E08
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543178.mkv
-#EXTINF:-1,Fringe S02 E09
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E09
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543179.mkv
-#EXTINF:-1,Fringe S02 E10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E10
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543180.mkv
-#EXTINF:-1,Fringe S02 E11
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E11
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543181.mkv
-#EXTINF:-1,Fringe S02 E12
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E12
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543182.mkv
-#EXTINF:-1,Fringe S02 E13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E13
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543183.mkv
-#EXTINF:-1,Fringe S02 E14
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E14
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543184.mkv
-#EXTINF:-1,Fringe S02 E15
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E15
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543185.mkv
-#EXTINF:-1,Fringe S02 E16
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E16
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543186.mkv
-#EXTINF:-1,Fringe S02 E17
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E17
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543187.mkv
-#EXTINF:-1,Fringe S02 E18
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E18
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543188.mkv
-#EXTINF:-1,Fringe S02 E19
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E19
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543189.mkv
-#EXTINF:-1,Fringe S02 E20
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E20
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543190.mkv
-#EXTINF:-1,Fringe S02 E21
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E21
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543191.mkv
-#EXTINF:-1,Fringe S02 E22
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E22
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543192.mkv
-#EXTINF:-1,Fringe S02 E23
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S02 E23
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543193.mkv
-#EXTINF:-1,Fringe S03 E01
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E01
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543194.mkv
-#EXTINF:-1,Fringe S03 E02
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E02
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543195.mkv
-#EXTINF:-1,Fringe S03 E03
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E03
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543196.mkv
-#EXTINF:-1,Fringe S03 E04
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E04
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543197.mkv
-#EXTINF:-1,Fringe S03 E05
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E05
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543198.mkv
-#EXTINF:-1,Fringe S03 E06
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E06
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543199.mkv
-#EXTINF:-1,Fringe S03 E07
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E07
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543200.mkv
-#EXTINF:-1,Fringe S03 E08
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E08
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543201.mkv
-#EXTINF:-1,Fringe S03 E09
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E09
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543202.mkv
-#EXTINF:-1,Fringe S03 E10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E10
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543203.mkv
-#EXTINF:-1,Fringe S03 E11
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E11
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543204.mkv
-#EXTINF:-1,Fringe S03 E12
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E12
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543205.mkv
-#EXTINF:-1,Fringe S03 E13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E13
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543206.mkv
-#EXTINF:-1,Fringe S03 E14
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E14
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543207.mkv
-#EXTINF:-1,Fringe S03 E15
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E15
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543208.mkv
-#EXTINF:-1,Fringe S03 E16
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E16
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543209.mkv
-#EXTINF:-1,Fringe S03 E17
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E17
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543210.mkv
-#EXTINF:-1,Fringe S03 E18
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E18
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543211.mkv
-#EXTINF:-1,Fringe S03 E19
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E19
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543212.mkv
-#EXTINF:-1,Fringe S03 E20
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E20
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543213.mkv
-#EXTINF:-1,Fringe S03 E21
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E21
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543214.mkv
-#EXTINF:-1,Fringe S03 E22
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S03 E22
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543215.mkv
-#EXTINF:-1,Fringe S04 E01
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E01
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543216.mkv
-#EXTINF:-1,Fringe S04 E02
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E02
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543217.mkv
-#EXTINF:-1,Fringe S04 E03
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E03
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543218.mkv
-#EXTINF:-1,Fringe S04 E04
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E04
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543219.mkv
-#EXTINF:-1,Fringe S04 E05
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E05
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543220.mkv
-#EXTINF:-1,Fringe S04 E06
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E06
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543221.mkv
-#EXTINF:-1,Fringe S04 E07
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E07
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543222.mkv
-#EXTINF:-1,Fringe S04 E08
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E08
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543223.mkv
-#EXTINF:-1,Fringe S04 E09
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E09
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543224.mkv
-#EXTINF:-1,Fringe S04 E10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E10
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543225.mkv
-#EXTINF:-1,Fringe S04 E11
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E11
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543226.mkv
-#EXTINF:-1,Fringe S04 E12
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E12
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543227.mkv
-#EXTINF:-1,Fringe S04 E13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E13
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543228.mkv
-#EXTINF:-1,Fringe S04 E14
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E14
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543229.mkv
-#EXTINF:-1,Fringe S04 E15
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E15
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543230.mkv
-#EXTINF:-1,Fringe S04 E16
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E16
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543231.mkv
-#EXTINF:-1,Fringe S04 E17
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E17
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543232.mkv
-#EXTINF:-1,Fringe S04 E18
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E18
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543233.mkv
-#EXTINF:-1,Fringe S04 E19
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E19
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543234.mkv
-#EXTINF:-1,Fringe S04 E20
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E20
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543235.mkv
-#EXTINF:-1,Fringe S04 E21
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E21
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543236.mkv
-#EXTINF:-1,Fringe S04 E22
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S04 E22
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543237.mkv
-#EXTINF:-1,Fringe S05 E01
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E01
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543238.mkv
-#EXTINF:-1,Fringe S05 E02
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E02
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543239.mkv
-#EXTINF:-1,Fringe S05 E03
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E03
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543240.mkv
-#EXTINF:-1,Fringe S05 E04
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E04
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543241.mkv
-#EXTINF:-1,Fringe S05 E05
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E05
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543242.mkv
-#EXTINF:-1,Fringe S05 E06
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E06
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543243.mkv
-#EXTINF:-1,Fringe S05 E07
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E07
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543244.mkv
-#EXTINF:-1,Fringe S05 E08
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E08
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543245.mkv
-#EXTINF:-1,Fringe S05 E09
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E09
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543246.mkv
-#EXTINF:-1,Fringe S05 E10
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E10
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543247.mkv
-#EXTINF:-1,Fringe S05 E11
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E11
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543248.mkv
-#EXTINF:-1,Fringe S05 E12
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E12
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543249.mkv
-#EXTINF:-1,Fringe S05 E13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Fringe":http-referrer="":http-user-agent="",Fringe S05 E13
 http://ext2707.xyz:8080/series/kerembugra.10/7HRB2SpAdN/543250.mkv
