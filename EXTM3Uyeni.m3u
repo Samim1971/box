@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Sen Anlat Karadeniz 7. Bölü"tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 7. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/007_tm/sen_anlat_karadeniz_007.smil/hlssubplaylist-ovenMgjd_oacn6s7.m3u8?st=4B1tWbdBtbnd4X8eTSFj5A&e=1773226458
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 8. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/008_1bjk/sen_anlat_karadeniz_008.smil/hlssubplaylist-ovenMgjd_oacn6s7.m3u8?st=mOZnEqXS6_qd_UFdxBZyfA&e=1773226557
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 9. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/009_krdz/sen_anlat_karadeniz_009.smil/hlssubplaylist-ovenMgjd_oacn6s7.m3u8?st=k6UTLuotl8J3GIMpUcSUJg&e=1773226616
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 10. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/010/sen_anlat_karadeniz_010.smil/hlssubplaylist-ovenMgjd_oacnEs7.m3u8?st=1z6QDXApvA-RxY1Wn3jHfA&e=1773226628
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 11. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/011/sen_anlat_karadeniz_011.smil/hlssubplaylist-ovenMgjd_oacnEs7.m3u8?st=OLFtAOs3xNhlua9KHYqbCw&e=1773226642
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 12. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/012_meb/sen_anlat_karadeniz_012.smil/hlssubplaylist-ovenMgjd_oacn6s7.m3u8?st=VAsFZQy4J9oIerKkcnVqdg&e=1773226654
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="SEN ANLAT KARADENİZ":http-referrer="":http-user-agent="",Sen Anlat Karadeniz 13. Bölü
+https://atv-vod.ercdn.net/sen_anlat_karadeniz/013/sen_anlat_karadeniz_013.smil/hlssubplaylist-ovenMgjd_oacnEs7.m3u8?st=ty9qMczFLvY0F3eKHHkQlQ&e=1773226666
 #EXTINF:-1 tvg-name="Yol Arkadaşım 2"tvg-id="Yol Arkadaşım 2"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-2-55842.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 2
 https://s16.pixypost.art/mo/JJ9fYxSln2SxLKAcoF4lYwVjZGthI0IPYHEZYwRjBQOjd0zxpTy4rKOip3DhLKW0s0xi16vr1
 #EXTINF:-1 tvg-name="Yol Arkadaşım 1"tvg-id="Yol Arkadaşım 1"tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/yol-arkadasim-1-60739.webp"group-title="ARŞİV FİLMLER":http-referrer="":http-user-agent="",Yol Arkadaşım 1
