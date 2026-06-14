@@ -17,8 +17,6 @@ https://turkmedya.radyotvonline.net/alemfmaac
 http://37.247.98.8/listen.pls?sid=25
 #EXTINF:-1 tvg-name="Ankara Havalari"tvg-id=""tvg-logo=""group-title="",Ankara Havalari
 http://37.247.98.8/listen.pls?sid=30
-#EXTINF:-1 tvg-name="Axa Rojava"tvg-id=""tvg-logo=""group-title="",Axa Rojava
-https://stream.zeno.fm/h6mn2c8ha8zuv
 #EXTINF:-1 tvg-name="Aşk FM"tvg-id=""tvg-logo=""group-title="",Aşk FM
 http://yayin.asymedya.com:8020/;
 #EXTINF:-1 tvg-name="Baba Radyo"tvg-id=""tvg-logo=""group-title="",Baba Radyo
@@ -95,8 +93,6 @@ https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KRAL TÜRK FM"tvg-id=""tvg-logo=""group-title="",KRAL TÜRK FM
 https://live.radyositesihazir.com/8032/stream
-#EXTINF:-1 tvg-name="Kurd1 FM"tvg-id=""tvg-logo=""group-title="",Kurd1 FM
-https://listen.radioking.com/radio/119251/stream/158701
 #EXTINF:-1 tvg-name="Köroğlu FM"tvg-id=""tvg-logo=""group-title="",Köroğlu FM
 https://yayin.turkhosted.com:6068/stream?/;stream.mp3
 #EXTINF:-1 tvg-name="Metro FM"tvg-id=""tvg-logo=""group-title="",Metro FM
@@ -235,8 +231,6 @@ https://hayatmix.yayin.com.tr/mp3
 https://anadolu.liderhost.com.tr:10871/
 #EXTINF:-1 tvg-name="Istanbul FM"tvg-id=""tvg-logo=""group-title="",Istanbul FM
 https://yayin.istanbulfm.com.tr/istanbulfm
-#EXTINF:-1 tvg-name="Kurd1"tvg-id=""tvg-logo=""group-title="",Kurd1
-https://www.radioking.com/play/kurd1-radyo
 #EXTINF:-1 tvg-name="Kıyı Türkçe"tvg-id=""tvg-logo=""group-title="",Kıyı Türkçe
 https://kiyiturk.radioca.st/
 #EXTINF:-1 tvg-name="LALEGÜL FM"tvg-id=""tvg-logo=""group-title="",LALEGÜL FM
@@ -301,8 +295,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/
 https://stream.pcradio.ru/tarkan-hi
 #EXTINF:-1 tvg-name="TRT Radyo Haber"tvg-id=""tvg-logo=""group-title="",TRT Radyo Haber
 https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Radyo Kurdî"tvg-id=""tvg-logo=""group-title="",TRT Radyo Kurdî
-https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Turkuvaz Anadolu"tvg-id=""tvg-logo=""group-title="",Turkuvaz Anadolu
 http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8
 #EXTINF:-1 tvg-name="Türkiyem FM"tvg-id=""tvg-logo=""group-title="",Türkiyem FM
