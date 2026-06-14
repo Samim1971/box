@@ -1,313 +1,307 @@
-#EXTM3U
-#EXTINF:0,DAMAR TURK FM
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DAMAR TURK FM" tvg-logo="" group-title="",DAMAR TURK FM
 https://live.radyositesihazir.com:10997/
-#EXTINF:0,Arabesk FM
-http://yayin.arabeskfm.biz:8042/
-#EXTINF:0,KRAL FM
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk FM" tvg-logo="" group-title="",Arabesk FM
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue
-#EXTINF:0,Power POP
+#EXTINF:-1 tvg-id="" tvg-name="Power POP" tvg-logo="" group-title="",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
-#EXTINF:0,Slow Turk
+#EXTINF:-1 tvg-id="" tvg-name="Slow Turk" tvg-logo="" group-title="",Slow Turk
 https://radyo.duhnet.tv/ak_dtvh_slowturk
-#EXTINF:0,Radyo 7
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 7" tvg-logo="" group-title="",Radyo 7
 http://46.20.3.250/;stream
-#EXTINF:0,Super Fm
+#EXTINF:-1 tvg-id="" tvg-name="Super Fm" tvg-logo="" group-title="",Super Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
-#EXTINF:0,Virgin Radio Türkiye
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio Türkiye" tvg-logo="" group-title="",Virgin Radio Türkiye
 http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
-#EXTINF:0,KRAL TÜRK FM
+#EXTINF:-1 tvg-id="" tvg-name="KRAL TÜRK FM" tvg-logo="" group-title="",KRAL TÜRK FM
 https://live.radyositesihazir.com/8032/stream
-#EXTINF:0,Metro FM
+#EXTINF:-1 tvg-id="" tvg-name="Metro FM" tvg-logo="" group-title="",Metro FM
 http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
-#EXTINF:0,Best Fm
-http://46.20.7.126/;stream.mp3
-#EXTINF:0,Baba Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Baba Radyo" tvg-logo="" group-title="",Baba Radyo
 http://46.20.7.116/
-#EXTINF:0,Türkülerle Türkiye
+#EXTINF:-1 tvg-id="" tvg-name="Türkülerle Türkiye" tvg-logo="" group-title="",Türkülerle Türkiye
 http://37.247.98.8/listen.pls?sid=22
-#EXTINF:0,Süper FM
+#EXTINF:-1 tvg-id="" tvg-name="Süper FM" tvg-logo="" group-title="",Süper FM
 http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls
-#EXTINF:0,Alem FM
+#EXTINF:-1 tvg-id="" tvg-name="Alem FM" tvg-logo="" group-title="",Alem FM
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:0,Power FM Türkiye
+#EXTINF:-1 tvg-id="" tvg-name="Power FM Türkiye" tvg-logo="" group-title="",Power FM Türkiye
 https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8
-#EXTINF:0,Radyo Seymen
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Seymen" tvg-logo="" group-title="",Radyo Seymen
 https://yayin.radyoseymen.com.tr:1070/stream
-#EXTINF:0,Kafa Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Kafa Radyo" tvg-logo="" group-title="",Kafa Radyo
 https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:0,Damar Turk FM
+#EXTINF:-1 tvg-id="" tvg-name="Damar Turk FM" tvg-logo="" group-title="",Damar Turk FM
 https://live.radyositesihazir.com:10997/;
-#EXTINF:0,JoyTürk Akustik
-https://27873.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac?/;stream.mp3
-#EXTINF:0,a HABER
+#EXTINF:-1 tvg-id="" tvg-name="JoyTürk Akustik" tvg-logo="" group-title="",JoyTürk Akustik
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="a HABER" tvg-logo="" group-title="",a HABER
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
-#EXTINF:0,Ankara Havalari
+#EXTINF:-1 tvg-id="" tvg-name="Ankara Havalari" tvg-logo="" group-title="",Ankara Havalari
 http://37.247.98.8/listen.pls?sid=30
-#EXTINF:0,POWER TÜRK FM
+#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK FM" tvg-logo="" group-title="",POWER TÜRK FM
 https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
-#EXTINF:0,DamarTurk FM
+#EXTINF:-1 tvg-id="" tvg-name="DamarTurk FM" tvg-logo="" group-title="",DamarTurk FM
 https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
-#EXTINF:0,90lar turkey
+#EXTINF:-1 tvg-id="" tvg-name="90lar turkey" tvg-logo="" group-title="",90lar turkey
 http://37.247.98.8/stream/166/
-#EXTINF:0,PAL Nostalji
+#EXTINF:-1 tvg-id="" tvg-name="PAL Nostalji" tvg-logo="" group-title="",PAL Nostalji
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:0,Radyo 45lik yeni
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 45lik yeni" tvg-logo="" group-title="",Radyo 45lik yeni
 https://stream.radyo45lik.com:4545/
-#EXTINF:0,TRT Türkü
+#EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="",TRT Türkü
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0,Joy Fm
+#EXTINF:-1 tvg-id="" tvg-name="Joy Fm" tvg-logo="" group-title="",Joy Fm
 http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls
-#EXTINF:0,JOY TÜRK TURKEY
+#EXTINF:-1 tvg-id="" tvg-name="JOY TÜRK TURKEY" tvg-logo="" group-title="",JOY TÜRK TURKEY
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
-#EXTINF:0,dinamo.fm sleep
+#EXTINF:-1 tvg-id="" tvg-name="dinamo.fm sleep" tvg-logo="" group-title="",dinamo.fm sleep
 http://channels.dinamo.fm/sleep-mp3
-#EXTINF:0,pop 90 turkey
+#EXTINF:-1 tvg-id="" tvg-name="pop 90 turkey" tvg-logo="" group-title="",pop 90 turkey
 http://provisioning.streamtheworld.com/pls/POP90AAC.pls
-#EXTINF:0,Radyo Fenomen
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Fenomen" tvg-logo="" group-title="",Radyo Fenomen
 https://live.radyofenomen.com/fenomen/128/icecast.audio
-#EXTINF:0,Radyo Alaturka
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Alaturka" tvg-logo="" group-title="",Radyo Alaturka
 https://yayin.jumboserver.net:9100/stream
-#EXTINF:0,Karadeniz FM
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz FM" tvg-logo="" group-title="",Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
-#EXTINF:0,102.1 Arabeskin Merkezi Fm
+#EXTINF:-1 tvg-id="" tvg-name="102.1 Arabeskin Merkezi Fm" tvg-logo="" group-title="",102.1 Arabeskin Merkezi Fm
 https://canli.arabeskinmerkezi.com:9180/listen.pls
-#EXTINF:0,ALTIN SARKILAR
+#EXTINF:-1 tvg-id="" tvg-name="ALTIN SARKILAR" tvg-logo="" group-title="",ALTIN SARKILAR
 http://37.247.98.8/listen.pls?sid=25
-#EXTINF:0,Radyo Voyage
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Voyage" tvg-logo="" group-title="",Radyo Voyage
 http://voyagewmp.radyotvonline.com/;stream.mp3
-#EXTINF:0,Pal station
-http://shoutcast.radyogrup.com:1020/
-#EXTINF:0,Turku Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Pal station" tvg-logo="" group-title="",Pal station
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turku Radyo" tvg-logo="" group-title="",Turku Radyo
 http://radyo.turkuradyo.net:4591/listen.pls
-#EXTINF:0,Radyo Turkuvaz
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Turkuvaz" tvg-logo="" group-title="",Radyo Turkuvaz
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
-#EXTINF:0,NTV Radyo
+#EXTINF:-1 tvg-id="" tvg-name="NTV Radyo" tvg-logo="" group-title="",NTV Radyo
 http://46.20.3.207/listen.pls
-#EXTINF:0,Radyo Fenomen Clubbin
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Fenomen Clubbin" tvg-logo="" group-title="",Radyo Fenomen Clubbin
 https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:0,Park Fm
+#EXTINF:-1 tvg-id="" tvg-name="Park Fm" tvg-logo="" group-title="",Park Fm
 http://yayin.netradyom.com:8050/PARKFM/
-#EXTINF:0,TRT3
+#EXTINF:-1 tvg-id="" tvg-name="TRT3" tvg-logo="" group-title="",TRT3
 http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
-#EXTINF:0,Radyo Ekin
-http://yayin.turkhosted.com:6006/
-#EXTINF:0,Number one
-https://n10101m.mediatriple.net/numberone
-#EXTINF:0,TRT FM
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Ekin" tvg-logo="" group-title="",Radyo Ekin
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-id="" tvg-name="Number one" tvg-logo="" group-title="",Number one
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT FM" tvg-logo="" group-title="",TRT FM
 https://trt.radyotvonline.net/trtfm
-#EXTINF:0,Habertürk Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Habertürk Radyo" tvg-logo="" group-title="",Habertürk Radyo
 https://haberturkradyo.radyotvonline.net/haberturkradyo
-#EXTINF:0,Alem Fm
+#EXTINF:-1 tvg-id="" tvg-name="Alem Fm" tvg-logo="" group-title="",Alem Fm
 https://turkmedya.radyotvonline.net/alemfmaac
-#EXTINF:0,ASPOR
+#EXTINF:-1 tvg-id="" tvg-name="ASPOR" tvg-logo="" group-title="",ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
-#EXTINF:0,Havin FM
+#EXTINF:-1 tvg-id="" tvg-name="Havin FM" tvg-logo="" group-title="",Havin FM
 http://yayin6.radyohizmeti.com:7050/;stream.mp3
-#EXTINF:0,baba radyo
+#EXTINF:-1 tvg-id="" tvg-name="baba radyo" tvg-logo="" group-title="",baba radyo
 http://officialbabaradyo.radyotvonline.net/babaofficial
-#EXTINF:0,İstanbul FM
-https://ssldyg2.radyotvonline.com/istanbulfm/istanbulfm.stream/playlist.m3u8
-#EXTINF:0,Radyo Şiran
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul FM" tvg-logo="" group-title="",İstanbul FM
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Şiran" tvg-logo="" group-title="",Radyo Şiran
 https://live.radyositesihazir.com/8078/stream
-#EXTINF:0,FENOMEN TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="FENOMEN TÜRK" tvg-logo="" group-title="",FENOMEN TÜRK
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
-#EXTINF:0,Pal Fm
+#EXTINF:-1 tvg-id="" tvg-name="Pal Fm" tvg-logo="" group-title="",Pal Fm
 https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8
-#EXTINF:0,Powerturk R&B Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="Powerturk R&amp;B Hip Hop" tvg-logo="" group-title="",Powerturk R&B Hip Hop
 https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
-#EXTINF:0,dinamo.fm deep
+#EXTINF:-1 tvg-id="" tvg-name="dinamo.fm deep" tvg-logo="" group-title="",dinamo.fm deep
 http://channels.dinamo.fm/deep-mp3
-#EXTINF:0,Diyanet Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Diyanet Radyo" tvg-logo="" group-title="",Diyanet Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
-#EXTINF:0,KRAL POP ALTERNATİF 2
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP ALTERNATİF 2" tvg-logo="" group-title="",KRAL POP ALTERNATİF 2
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-#EXTINF:0,Radio 5 Turkey
+#EXTINF:-1 tvg-id="" tvg-name="Radio 5 Turkey" tvg-logo="" group-title="",Radio 5 Turkey
 https://radyo.yayin.com.tr/tunein/radiotrc.asx
-#EXTINF:0,Numberone Turk
-https://n10101m.mediatriple.net/numberoneturk
-#EXTINF:0,powerturk
+#EXTINF:-1 tvg-id="" tvg-name="Numberone Turk" tvg-logo="" group-title="",Numberone Turk
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="powerturk" tvg-logo="" group-title="",powerturk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:0,HAYATMİX
+#EXTINF:-1 tvg-id="" tvg-name="HAYATMİX" tvg-logo="" group-title="",HAYATMİX
 https://hayatmix.yayin.com.tr/mp3
-#EXTINF:0,Radyo 35
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 35" tvg-logo="" group-title="",Radyo 35
 https://yayin.turkhosted.com/6012/stream
-#EXTINF:0,TRT Radyo Kurdî
+#EXTINF:-1 tvg-id="" tvg-name="TRT Radyo Kurdî" tvg-logo="" group-title="",TRT Radyo Kurdî
 https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
-#EXTINF:0,Metro fm turkey
+#EXTINF:-1 tvg-id="" tvg-name="Metro fm turkey" tvg-logo="" group-title="",Metro fm turkey
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
-#EXTINF:0,Radyo Vatan Türkü
-http://95.0.173.195:9000/turku
-#EXTINF:0,ALEM FM
-https://edge1.radyotvonline.net/shoutcast/play/alemfm
-#EXTINF:0,TürküRadyo
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Vatan Türkü" tvg-logo="" group-title="",Radyo Vatan Türkü
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="TürküRadyo" tvg-logo="" group-title="",TürküRadyo
 https://yayin.turkhosted.com/4591/stream
-#EXTINF:0,dinamo.fm caffe
+#EXTINF:-1 tvg-id="" tvg-name="dinamo.fm caffe" tvg-logo="" group-title="",dinamo.fm caffe
 http://channels.dinamo.fm/caffe-mp3
-#EXTINF:0,Radyo Banko
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Banko" tvg-logo="" group-title="",Radyo Banko
 http://yayin.netradyom.com:9910/RADYOBANKO
-#EXTINF:0,Radio Ava Turkiye
-http://play.markaradyo.com:8002/stream
-#EXTINF:0,KRAL POP
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ava Turkiye" tvg-logo="" group-title="",Radio Ava Turkiye
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP" tvg-logo="" group-title="",KRAL POP
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:0,Radyo Dejavu
-http://radyodejavu.canliyayinda.com:8054/
-#EXTINF:0,Kurd1 FM
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Dejavu" tvg-logo="" group-title="",Radyo Dejavu
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Kurd1 FM" tvg-logo="" group-title="",Kurd1 FM
 https://listen.radioking.com/radio/119251/stream/158701
-#EXTINF:0,Hemdem Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Hemdem Radyo" tvg-logo="" group-title="",Hemdem Radyo
 http://yayin.hemdemradyo.com/
-#EXTINF:0,Loops Radio House Station
+#EXTINF:-1 tvg-id="" tvg-name="Loops Radio House Station" tvg-logo="" group-title="",Loops Radio House Station
 https://loopsdeep.ozelip.com/7806/stream
-#EXTINF:0,Halk Tv
+#EXTINF:-1 tvg-id="" tvg-name="Halk Tv" tvg-logo="" group-title="",Halk Tv
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6vahxsup0jxl&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
-#EXTINF:0,LALEGÜL FM
+#EXTINF:-1 tvg-id="" tvg-name="LALEGÜL FM" tvg-logo="" group-title="",LALEGÜL FM
 https://icecast.netmedya.net/lalegulfm
-#EXTINF:0,PowerTürk Akustik
+#EXTINF:-1 tvg-id="" tvg-name="PowerTürk Akustik" tvg-logo="" group-title="",PowerTürk Akustik
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-#EXTINF:0,Radyo 9
-https://radyo.yayin.com.tr:4010/
-#EXTINF:0,Vav Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 9" tvg-logo="" group-title="",Radyo 9
+https://www.youtube.com/@israel9tv/live
+#EXTINF:-1 tvg-id="" tvg-name="Vav Radyo" tvg-logo="" group-title="",Vav Radyo
 https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
-#EXTINF:0,Erzincan Cem Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Erzincan Cem Radyo" tvg-logo="" group-title="",Erzincan Cem Radyo
 https://erzincan.80.yayin.com.tr/stream
-#EXTINF:0,GİMSA RADYO
+#EXTINF:-1 tvg-id="" tvg-name="GİMSA RADYO" tvg-logo="" group-title="",GİMSA RADYO
 http://yayin1.canliyayin.org:9482/stream
-#EXTINF:0,90 lar Pop
+#EXTINF:-1 tvg-id="" tvg-name="90 lar Pop" tvg-logo="" group-title="",90 lar Pop
 https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
-#EXTINF:0,Cnn Türk Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Türk Radyo" tvg-logo="" group-title="",Cnn Türk Radyo
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0
-#EXTINF:0,Risalet Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Risalet Radyo" tvg-logo="" group-title="",Risalet Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
-#EXTINF:0,POWER TÜRK DANS TÜRKİYE
+#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK DANS TÜRKİYE" tvg-logo="" group-title="",POWER TÜRK DANS TÜRKİYE
 https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
-#EXTINF:0,Avrasya Türk Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Avrasya Türk Radyo" tvg-logo="" group-title="",Avrasya Türk Radyo
 https://sslyayin.netyayin.net:10909/
-#EXTINF:0,Radyo Spor
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Spor" tvg-logo="" group-title="",Radyo Spor
 http://46.20.4.5:8170/
-#EXTINF:0,Aşk FM
+#EXTINF:-1 tvg-id="" tvg-name="Aşk FM" tvg-logo="" group-title="",Aşk FM
 http://yayin.asymedya.com:8020/;
-#EXTINF:0,Marmaris Yacht Marin FM
+#EXTINF:-1 tvg-id="" tvg-name="Marmaris Yacht Marin FM" tvg-logo="" group-title="",Marmaris Yacht Marin FM
 https://radio.guventechnology.com:7003//stream/radyomarin
-#EXTINF:0,Fenomen Türkçe Rap
-https://live.radyofenomen.com/fenomenturkrap/abr/fenomenturkrap/128/chunks.m3u8
-#EXTINF:0,JOY TÜRK ROCK TURKEY
+#EXTINF:-1 tvg-id="" tvg-name="Fenomen Türkçe Rap" tvg-logo="" group-title="",Fenomen Türkçe Rap
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="JOY TÜRK ROCK TURKEY" tvg-logo="" group-title="",JOY TÜRK ROCK TURKEY
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/
-#EXTINF:0,Radyo ILEF Ankara
+#EXTINF:-1 tvg-id="" tvg-name="Radyo ILEF Ankara" tvg-logo="" group-title="",Radyo ILEF Ankara
 http://radyo.cc.ankara.edu.tr:8089/listen.pls
-#EXTINF:0,TRT NAĞME
+#EXTINF:-1 tvg-id="" tvg-name="TRT NAĞME" tvg-logo="" group-title="",TRT NAĞME
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,PowerTürk Dans
+#EXTINF:-1 tvg-id="" tvg-name="PowerTürk Dans" tvg-logo="" group-title="",PowerTürk Dans
 https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
-#EXTINF:0,Loops Radio Elektronica Station
+#EXTINF:-1 tvg-id="" tvg-name="Loops Radio Elektronica Station" tvg-logo="" group-title="",Loops Radio Elektronica Station
 https://ssl22.radyotelekom.com/8232/stream
-#EXTINF:0,Arkadas Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Arkadas Radyo" tvg-logo="" group-title="",Arkadas Radyo
 http://yayin2.yayindakiler.com:4134/;stream.nsv
-#EXTINF:0,Türkiyem FM
+#EXTINF:-1 tvg-id="" tvg-name="Türkiyem FM" tvg-logo="" group-title="",Türkiyem FM
 https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream
-#EXTINF:0,Turkuvaz Anadolu
+#EXTINF:-1 tvg-id="" tvg-name="Turkuvaz Anadolu" tvg-logo="" group-title="",Turkuvaz Anadolu
 http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8
-#EXTINF:0,Fakir Fm
+#EXTINF:-1 tvg-id="" tvg-name="Fakir Fm" tvg-logo="" group-title="",Fakir Fm
 https://live.radyositesihazir.com/1025/stream/
-#EXTINF:0,Odea Radyo
-https://27793.live.streamtheworld.com/ODEA128AAC.aac
-#EXTINF:0,FENOMEN DANS
+#EXTINF:-1 tvg-id="" tvg-name="Odea Radyo" tvg-logo="" group-title="",Odea Radyo
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-id="" tvg-name="FENOMEN DANS" tvg-logo="" group-title="",FENOMEN DANS
 https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8
-#EXTINF:0,Radyo Alevi Canlar
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Alevi Canlar" tvg-logo="" group-title="",Radyo Alevi Canlar
 https://alevifm.80.yayin.com.tr/
-#EXTINF:0,Radyo D
+#EXTINF:-1 tvg-id="" tvg-name="Radyo D" tvg-logo="" group-title="",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:0,Gundi FM
+#EXTINF:-1 tvg-id="" tvg-name="Gundi FM" tvg-logo="" group-title="",Gundi FM
 http://gundifm.ozelip.com:7830/;
-#EXTINF:0,TGRT FM
+#EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="",TGRT FM
 https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
-#EXTINF:0,TRK YUSUF FM
-https://stream.zeno.fm/zxdq9cx917htv
-#EXTINF:0,dinamo.fm smog
+#EXTINF:-1 tvg-id="" tvg-name="TRK YUSUF FM" tvg-logo="" group-title="",TRK YUSUF FM
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="dinamo.fm smog" tvg-logo="" group-title="",dinamo.fm smog
 http://channels.dinamo.fm/smog-mp3
-#EXTINF:0,107.4 Radio Voyage
+#EXTINF:-1 tvg-id="" tvg-name="107.4 Radio Voyage" tvg-logo="" group-title="",107.4 Radio Voyage
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue
-#EXTINF:0,Radyo Viva
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Viva" tvg-logo="" group-title="",Radyo Viva
 https://edge1.radyotvonline.net/shoutcast/play/radyoviva
-#EXTINF:0,Türkü Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Türkü Radyo" tvg-logo="" group-title="",Türkü Radyo
 https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
-#EXTINF:0,SUPER FM 2 TURKEY
+#EXTINF:-1 tvg-id="" tvg-name="SUPER FM 2 TURKEY" tvg-logo="" group-title="",SUPER FM 2 TURKEY
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/
-#EXTINF:0,Erzincan Nostalji Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Erzincan Nostalji Radyo" tvg-logo="" group-title="",Erzincan Nostalji Radyo
 https://erzincannostalji.ozelip.com/8238/stream
-#EXTINF:0,FENOMEN KARISIK
+#EXTINF:-1 tvg-id="" tvg-name="FENOMEN KARISIK" tvg-logo="" group-title="",FENOMEN KARISIK
 https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
-#EXTINF:0,HOS MİX
+#EXTINF:-1 tvg-id="" tvg-name="HOS MİX" tvg-logo="" group-title="",HOS MİX
 https://anadolu.liderhost.com.tr:10871/
-#EXTINF:0,TRT Radyo Haber
+#EXTINF:-1 tvg-id="" tvg-name="TRT Radyo Haber" tvg-logo="" group-title="",TRT Radyo Haber
 https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
-#EXTINF:0,Mydonose Türk
+#EXTINF:-1 tvg-id="" tvg-name="Mydonose Türk" tvg-logo="" group-title="",Mydonose Türk
 https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3
-#EXTINF:0,POWER XL TURKEY
+#EXTINF:-1 tvg-id="" tvg-name="POWER XL TURKEY" tvg-logo="" group-title="",POWER XL TURKEY
 https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8
-#EXTINF:0,Diyanet Kur'an Radyo
+#EXTINF:-1 tvg-id="" tvg-name="Diyanet Kur'an Radyo" tvg-logo="" group-title="",Diyanet Kur'an Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
-#EXTINF:0,Türkrap FM
-http://95.173.188.166:9984/stream
-#EXTINF:0,Power love
+#EXTINF:-1 tvg-id="" tvg-name="Türkrap FM" tvg-logo="" group-title="",Türkrap FM
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Power love" tvg-logo="" group-title="",Power love
 https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
-#EXTINF:0,Tarkan
+#EXTINF:-1 tvg-id="" tvg-name="Tarkan" tvg-logo="" group-title="",Tarkan
 https://stream.pcradio.ru/tarkan-hi
-#EXTINF:0,Radio Glamorize
+#EXTINF:-1 tvg-id="" tvg-name="Radio Glamorize" tvg-logo="" group-title="",Radio Glamorize
 https://live.radioglamorize.com/stream1
-#EXTINF:0,ALTIN ŞARKILAR
+#EXTINF:-1 tvg-id="" tvg-name="ALTIN ŞARKILAR" tvg-logo="" group-title="",ALTIN ŞARKILAR
 https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
-#EXTINF:0,Istanbul FM
+#EXTINF:-1 tvg-id="" tvg-name="Istanbul FM" tvg-logo="" group-title="",Istanbul FM
 https://yayin.istanbulfm.com.tr/istanbulfm
-#EXTINF:0,Akra FM
+#EXTINF:-1 tvg-id="" tvg-name="Akra FM" tvg-logo="" group-title="",Akra FM
 https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
-#EXTINF:0,dinamo.fm legacy
+#EXTINF:-1 tvg-id="" tvg-name="dinamo.fm legacy" tvg-logo="" group-title="",dinamo.fm legacy
 http://channels.dinamo.fm/legacy-mp3
-#EXTINF:0,Köroğlu FM
+#EXTINF:-1 tvg-id="" tvg-name="Köroğlu FM" tvg-logo="" group-title="",Köroğlu FM
 https://yayin.turkhosted.com:6068/stream?/;stream.mp3
-#EXTINF:0,Govend radyo
+#EXTINF:-1 tvg-id="" tvg-name="Govend radyo" tvg-logo="" group-title="",Govend radyo
 https://stream-56.zeno.fm/xzzu8kynq2zuv?zs=nZP7ZCRXQPOpDFenayr0bQ
-#EXTINF:0,AÇS Radyo
+#EXTINF:-1 tvg-id="" tvg-name="AÇS Radyo" tvg-logo="" group-title="",AÇS Radyo
 https://ip169.ozelip.com:10838/
-#EXTINF:0,Turkuaz Anadolu
+#EXTINF:-1 tvg-id="" tvg-name="Turkuaz Anadolu" tvg-logo="" group-title="",Turkuaz Anadolu
 https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
-#EXTINF:0,Radyo Gökçeada
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Gökçeada" tvg-logo="" group-title="",Radyo Gökçeada
 https://radyo.yayin.com.tr:6179/;
-#EXTINF:0,FENOMEN TÜRKÇE RAP
-https://live.radyofenomen.com/fenomenturkrap/abr/fenomenturkrap/128/chunks.m3u8
-#EXTINF:0,Semerkand Radyo
+#EXTINF:-1 tvg-id="" tvg-name="FENOMEN TÜRKÇE RAP" tvg-logo="" group-title="",FENOMEN TÜRKÇE RAP
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="Semerkand Radyo" tvg-logo="" group-title="",Semerkand Radyo
 http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8
-#EXTINF:0,Radyo Magico
-https://play.radioking.io/radyo-magico
-#EXTINF:0,FENOMEN POP
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Magico" tvg-logo="" group-title="",Radyo Magico
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-id="" tvg-name="FENOMEN POP" tvg-logo="" group-title="",FENOMEN POP
 https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8
-#EXTINF:0,Radyo Sinerji
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Sinerji" tvg-logo="" group-title="",Radyo Sinerji
 https://radio.guventechnology.com/9994/stream
-#EXTINF:0,Kurd1
+#EXTINF:-1 tvg-id="" tvg-name="Kurd1" tvg-logo="" group-title="",Kurd1
 https://www.radioking.com/play/kurd1-radyo
-#EXTINF:0,Radio 44
+#EXTINF:-1 tvg-id="" tvg-name="Radio 44" tvg-logo="" group-title="",Radio 44
 https://radyo44.80.yayin.com.tr/stream
-#EXTINF:0,Borusan Klasik
+#EXTINF:-1 tvg-id="" tvg-name="Borusan Klasik" tvg-logo="" group-title="",Borusan Klasik
 http://provisioning.streamtheworld.com/pls/BORUSAN_KLASIKAAC.pls
-#EXTINF:0,Number One Türk
-https://n10101m.mediatriple.net/numberoneturk
-#EXTINF:0,Sezen Radyo
-http://radyo1.radyo-dinle.tc:8038/
-#EXTINF:0,Yaren FM
+#EXTINF:-1 tvg-id="" tvg-name="Number One Türk" tvg-logo="" group-title="",Number One Türk
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sezen Radyo" tvg-logo="" group-title="",Sezen Radyo
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-id="" tvg-name="Yaren FM" tvg-logo="" group-title="",Yaren FM
 https://yarenfmn.80.yayin.com.tr//stream
-#EXTINF:0,Abuzer FM
+#EXTINF:-1 tvg-id="" tvg-name="Abuzer FM" tvg-logo="" group-title="",Abuzer FM
 http://live.radyotvonline.com:9030/;stream.nsv
-#EXTINF:0,S1lhoutte Arabesk FM
+#EXTINF:-1 tvg-id="" tvg-name="S1lhoutte Arabesk FM" tvg-logo="" group-title="",S1lhoutte Arabesk FM
 https://yayin.radyoarabesk.com.tr:8000/stream
-#EXTINF:0,Diyarbakır Çağrı FM
+#EXTINF:-1 tvg-id="" tvg-name="Diyarbakır Çağrı FM" tvg-logo="" group-title="",Diyarbakır Çağrı FM
 https://live.cagrifm.com.tr/cagrifm
-#EXTINF:0,Pir Yolu
-http://radyopiryolu.canliyayinda.com:8165/
-#EXTINF:0,BesteFM
-https://server35971.streamplus.de/stream.mp3
-#EXTINF:0,TRT Radyo 1
+#EXTINF:-1 tvg-id="" tvg-name="Pir Yolu" tvg-logo="" group-title="",Pir Yolu
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="" tvg-name="TRT Radyo 1" tvg-logo="" group-title="",TRT Radyo 1
 https://trt.radyotvonline.net/trt1
-#EXTINF:0,Kıyı Türkçe
+#EXTINF:-1 tvg-id="" tvg-name="Kıyı Türkçe" tvg-logo="" group-title="",Kıyı Türkçe
 https://kiyiturk.radioca.st/
-#EXTINF:0,Dost
-http://yayin1.yayindakiler.com:3156/
-#EXTINF:0,retro turk
+#EXTINF:-1 tvg-id="" tvg-name="Dost" tvg-logo="" group-title="",Dost
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="retro turk" tvg-logo="" group-title="",retro turk
 http://provisioning.streamtheworld.com/pls/RETROTURKAAC.pls
