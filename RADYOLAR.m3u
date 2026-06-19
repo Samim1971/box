@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name="Radio Veselina"tvg-id=""tvg-logo=""group-title="",Radio Veselina
+https://bss1.neterra.tv/veselina/veselina.m3u8
 #EXTINF:-1 tvg-name="Cem Radyo"tvg-id=""tvg-logo=""group-title="",Cem Radyo
 https://erzincan.80.yayin.com.tr/stream
 #EXTINF:-1 tvg-name="Yön Radyo"tvg-id=""tvg-logo=""group-title="",Yön Radyo
