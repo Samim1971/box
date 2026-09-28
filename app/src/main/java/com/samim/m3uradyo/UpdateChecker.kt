@@ -14,8 +14,7 @@ internal const val APP_DISPLAY_NAME = "Kanalixor Radio"
 internal const val DOWNLOAD_URL = "https://github.com/Samim1971/box/releases"
 private const val UPDATE_RELEASES_API_URL =
     "https://api.github.com/repos/Samim1971/box/releases?per_page=50"
-private const val RADIO_APK_PREFIX = "Kanalixor-Radio-"
-private const val RADIO_APK_SUFFIX = ".apk"
+private val RADIO_APK_NAME_PATTERN = Regex("""Kanalixor-Radio-(\d+\.\d+\.\d+)\.apk""")
 private const val TRUSTED_DOWNLOAD_PREFIX =
     "https://github.com/Samim1971/box/releases/download/"
 
@@ -91,16 +90,7 @@ internal fun parseRadioReleaseCandidates(body: String): List<RadioReleaseCandida
 }
 
 internal fun radioVersionFromApkName(name: String): String? {
-    if (!name.startsWith(RADIO_APK_PREFIX, ignoreCase = true) ||
-        !name.endsWith(RADIO_APK_SUFFIX, ignoreCase = true)
-    ) {
-        return null
-    }
-    val version = name.substring(
-        RADIO_APK_PREFIX.length,
-        name.length - RADIO_APK_SUFFIX.length
-    )
-    return version.takeIf { it.matches(Regex("\\d+(?:\\.\\d+)+")) }
+    return RADIO_APK_NAME_PATTERN.matchEntire(name)?.groupValues?.get(1)
 }
 
 internal fun selectLatestRadioRelease(

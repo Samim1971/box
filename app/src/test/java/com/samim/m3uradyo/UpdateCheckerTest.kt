@@ -9,10 +9,13 @@ class UpdateCheckerTest {
     @Test
     fun radioVersionFromApkNameAcceptsOnlyKanalixorRadioPackages() {
         assertEquals("0.5.7", radioVersionFromApkName("Kanalixor-Radio-0.5.7.apk"))
-        assertEquals("1.0.0", radioVersionFromApkName("kanalixor-radio-1.0.0.APK"))
+        assertNull(radioVersionFromApkName("kanalixor-radio-1.0.0.APK"))
         assertNull(radioVersionFromApkName("Kanalixor-IPTV-Demo-0.9.0.apk"))
         assertNull(radioVersionFromApkName("M3U-Radyo-0.5.3.apk"))
         assertNull(radioVersionFromApkName("Kanalixor-Radio-beta.apk"))
+        assertNull(radioVersionFromApkName("Kanalixor-Radio-0.5.apk"))
+        assertNull(radioVersionFromApkName("Kanalixor-Radio-0.5.7.1.apk"))
+        assertNull(radioVersionFromApkName("Kanalixor-Radio-0.5.7-debug.apk"))
     }
 
     @Test
