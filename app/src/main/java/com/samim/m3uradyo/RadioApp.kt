@@ -80,6 +80,7 @@ fun RadioApp() {
     var isMenuOpen by remember { mutableStateOf(false) }
     var isAboutOpen by remember { mutableStateOf(false) }
     var themeMode by remember { mutableStateOf(loadThemeMode(context)) }
+    var accentColor by remember { mutableStateOf(loadAccentColor(context)) }
     var bluetoothStatus by remember { mutableStateOf(getBluetoothStatus(context)) }
     var favorites by remember { mutableStateOf(loadFavorites(context)) }
     var recents by remember { mutableStateOf(loadRecents(context)) }
@@ -396,7 +397,10 @@ fun RadioApp() {
         searched
     }
 
-    KanalixorTheme(darkTheme = useDarkTheme) {
+    KanalixorTheme(
+        darkTheme = useDarkTheme,
+        accentColor = accentColor
+    ) {
         Surface(
             modifier = Modifier.fillMaxSize(),
             color = MaterialTheme.colorScheme.background
@@ -512,6 +516,11 @@ fun RadioApp() {
                         onThemeModeChange = { selectedMode ->
                             themeMode = selectedMode
                             saveThemeMode(context, selectedMode)
+                        },
+                        accentColor = accentColor,
+                        onAccentColorChange = { selectedColor ->
+                            accentColor = selectedColor
+                            saveAccentColor(context, selectedColor)
                         },
                         onOpenBluetooth = {
                             openBluetoothSettings(context)

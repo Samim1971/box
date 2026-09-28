@@ -7,6 +7,7 @@ private const val KEY_FAVORITES = "favorites"
 private const val KEY_RECENTS = "recents"
 private const val KEY_LAST_URL = "last_url"
 private const val KEY_THEME = "theme"
+private const val KEY_ACCENT_COLOR = "accent_color"
 private const val KEY_BROKEN_STREAMS = "broken_streams"
 private const val KEY_AUTO_PLAY_LAST = "auto_play_last"
 
@@ -100,5 +101,19 @@ fun saveThemeMode(context: Context, mode: ThemeMode) {
     context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
         .edit()
         .putString(KEY_THEME, mode.name)
+        .apply()
+}
+
+fun loadAccentColor(context: Context): AccentColor {
+    val saved = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        .getString(KEY_ACCENT_COLOR, AccentColor.Coral.name)
+    return runCatching { AccentColor.valueOf(saved ?: AccentColor.Coral.name) }
+        .getOrDefault(AccentColor.Coral)
+}
+
+fun saveAccentColor(context: Context, color: AccentColor) {
+    context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        .edit()
+        .putString(KEY_ACCENT_COLOR, color.name)
         .apply()
 }

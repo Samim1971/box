@@ -25,6 +25,15 @@ enum class ThemeMode {
     Dark
 }
 
+enum class AccentColor {
+    Coral,
+    Turquoise,
+    Blue,
+    Green,
+    Amber,
+    Purple
+}
+
 enum class PlaybackUiState(val label: String) {
     Loading("Liste yukleniyor"),
     Ready("Hazir"),

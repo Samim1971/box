@@ -94,6 +94,8 @@ fun MenuScreen(
     onOpenReleases: () -> Unit,
     themeMode: ThemeMode,
     onThemeModeChange: (ThemeMode) -> Unit,
+    accentColor: AccentColor,
+    onAccentColorChange: (AccentColor) -> Unit,
     onOpenBluetooth: () -> Unit,
     onRefreshBluetooth: () -> Unit
 ) {
@@ -267,6 +269,17 @@ fun MenuScreen(
                 )
             }
             Text(
+                text = "Buton rengi",
+                style = MaterialTheme.typography.titleSmall,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.onSurface,
+                modifier = Modifier.padding(top = 4.dp)
+            )
+            ThemeColorPicker(
+                selectedColor = accentColor,
+                onColorChange = onAccentColorChange
+            )
+            Text(
                 text = "Bluetooth",
                 style = MaterialTheme.typography.titleSmall,
                 fontWeight = FontWeight.Bold,
@@ -292,6 +305,71 @@ fun MenuScreen(
         }
     }
 }
+
+@Composable
+fun ThemeColorPicker(
+    selectedColor: AccentColor,
+    onColorChange: (AccentColor) -> Unit
+) {
+    LazyRow(
+        modifier = Modifier.fillMaxWidth(),
+        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        contentPadding = PaddingValues(horizontal = 2.dp)
+    ) {
+        items(AccentColor.entries, key = { it.name }) { accentColor ->
+            val selected = accentColor == selectedColor
+            Column(
+                horizontalAlignment = Alignment.CenterHorizontally,
+                verticalArrangement = Arrangement.spacedBy(4.dp)
+            ) {
+                Button(
+                    onClick = { onColorChange(accentColor) },
+                    shape = CircleShape,
+                    colors = ButtonDefaults.buttonColors(
+                        containerColor = accentPreviewColor(accentColor),
+                        contentColor = accentPreviewContentColor(accentColor)
+                    ),
+                    modifier = Modifier
+                        .size(44.dp)
+                        .border(
+                            width = if (selected) 3.dp else 1.dp,
+                            color = if (selected) MaterialTheme.colorScheme.onSurface
+                            else MaterialTheme.colorScheme.outline,
+                            shape = CircleShape
+                        ),
+                    contentPadding = PaddingValues(0.dp)
+                ) {
+                    if (selected) {
+                        Box(
+                            modifier = Modifier
+                                .size(12.dp)
+                                .background(
+                                    accentPreviewContentColor(accentColor),
+                                    CircleShape
+                                )
+                        )
+                    }
+                }
+                Text(
+                    text = accentColor.label,
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    maxLines = 1
+                )
+            }
+        }
+    }
+}
+
+private val AccentColor.label: String
+    get() = when (this) {
+        AccentColor.Coral -> "Mercan"
+        AccentColor.Turquoise -> "Turkuaz"
+        AccentColor.Blue -> "Mavi"
+        AccentColor.Green -> "Yesil"
+        AccentColor.Amber -> "Sari"
+        AccentColor.Purple -> "Mor"
+    }
 
 @Composable
 fun CompactMenuButton(
