@@ -396,86 +396,53 @@ fun RadioApp() {
         searched
     }
 
-    MaterialTheme(
-        colorScheme = if (useDarkTheme) {
-            darkColorScheme()
-        } else {
-            lightColorScheme(
-                primary = Color(0xFF6F4BB3),
-                primaryContainer = Color(0xFFE8DDF1),
-                secondaryContainer = Color(0xFFE9DDF0),
-                surface = Color(0xFFFFF8FF),
-                surfaceVariant = Color(0xFFECE1EC)
-            )
-        }
-    ) {
+    KanalixorTheme(darkTheme = useDarkTheme) {
         Surface(
             modifier = Modifier.fillMaxSize(),
-            color = MaterialTheme.colorScheme.surface
+            color = MaterialTheme.colorScheme.background
         ) {
             Column(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(16.dp)
+                    .padding(horizontal = 14.dp, vertical = 10.dp)
             ) {
-                Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Button(
-                        onClick = {
-                            val nextMenuState = !isMenuOpen
-                            isMenuOpen = nextMenuState
-                            if (!nextMenuState) {
-                                isAboutOpen = false
-                            }
-                        },
-                        shape = RoundedCornerShape(26.dp),
-                        modifier = Modifier.size(width = 58.dp, height = 42.dp),
-                        contentPadding = ButtonDefaults.ContentPadding
-                    ) {
-                        MenuLines()
-                    }
-                    Text(
-                        text = "Radyolar",
-                        fontSize = 26.sp,
-                        fontWeight = FontWeight.Bold,
-                        color = MaterialTheme.colorScheme.onSurface,
-                        maxLines = 1,
-                        overflow = TextOverflow.Ellipsis,
-                        modifier = Modifier
-                            .padding(start = 10.dp)
-                            .widthIn(min = 104.dp)
-                    )
-                    OutlinedTextField(
-                        value = searchText,
-                        onValueChange = { searchText = it },
-                        label = { Text("Radyo ara", color = MaterialTheme.colorScheme.onSurfaceVariant) },
-                        singleLine = true,
-                        modifier = Modifier
-                            .weight(1f)
-                            .height(58.dp)
-                    )
-                    Button(
-                        onClick = { searchText = "" },
-                        enabled = searchText.isNotBlank(),
-                        shape = CircleShape,
-                        colors = ButtonDefaults.buttonColors(
-                            containerColor = Color(0xFFE7E0E8),
-                            contentColor = Color.Black
-                        ),
-                        modifier = Modifier
-                            .padding(start = 6.dp)
-                            .size(44.dp)
-                    ) {
-                        Text("X", fontWeight = FontWeight.Bold, color = Color.Black)
-                    }
-                }
-                StatusBadge(
-                    playbackState = playbackState,
-                    status = status,
-                    modifier = Modifier.padding(top = 14.dp)
+                RadioTopBar(
+                    isMenuOpen = isMenuOpen,
+                    searchText = searchText,
+                    onMenuToggle = {
+                        val nextMenuState = !isMenuOpen
+                        isMenuOpen = nextMenuState
+                        if (!nextMenuState) {
+                            isAboutOpen = false
+                        }
+                    },
+                    onSearchChange = { searchText = it },
+                    onClearSearch = { searchText = "" }
                 )
+                if (!isMenuOpen && selectedStation != null) {
+                    val currentStation = selectedStation!!
+                    NowPlayingPanel(
+                        station = currentStation,
+                        playbackState = playbackState,
+                        isPlaying = isPlaying,
+                        isFavorite = favorites.contains(currentStation.streamUrl),
+                        onToggleFavorite = {
+                            favorites = toggleFavorite(
+                                context,
+                                favorites,
+                                currentStation.streamUrl
+                            )
+                        },
+                        onShare = { shareStation(context, currentStation) },
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
+                } else {
+                    StatusBadge(
+                        playbackState = playbackState,
+                        status = status,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
+                }
                 updateInfo?.takeIf { it.isUpdateAvailable }?.let { info ->
                     UpdateBanner(
                         updateInfo = info,
@@ -565,7 +532,12 @@ fun RadioApp() {
                         selectedCategory = categoryFilter,
                         onCategoryChange = { categoryFilter = it }
                     )
-                    Spacer(modifier = Modifier.height(8.dp))
+                    Spacer(modifier = Modifier.height(10.dp))
+                    StationSectionHeader(
+                        filter = filter,
+                        count = visibleStations.size
+                    )
+                    Spacer(modifier = Modifier.height(6.dp))
                     StationList(
                         stations = visibleStations,
                         selectedStation = selectedStation,
@@ -586,9 +558,16 @@ fun RadioApp() {
                             shareStation(context, station)
                         }
                     )
-                    VolumeControl(
+                    PlayerDock(
+                        station = selectedStation,
+                        playbackState = playbackState,
+                        isPlaying = isPlaying,
                         volume = volume,
                         isMuted = isMuted,
+                        onPrevious = { playRelativeStation(-1) },
+                        onToggle = { togglePlayback() },
+                        onStop = { stopPlayback() },
+                        onNext = { playRelativeStation(1) },
                         onVolumeChange = { requestedVolume ->
                             val appliedVolume = setMediaVolumeRatio(context, requestedVolume)
                             volume = appliedVolume
@@ -610,18 +589,6 @@ fun RadioApp() {
                             volume = appliedVolume
                             isMuted = appliedVolume <= 0f
                         }
-                    )
-                    BottomControls(
-                        isPlaying = isPlaying,
-                        onPrevious = { playRelativeStation(-1) },
-                        onPlay = {
-                            if (!isPlaying) togglePlayback()
-                        },
-                        onPause = {
-                            if (isPlaying) togglePlayback()
-                        },
-                        onStop = { stopPlayback() },
-                        onNext = { playRelativeStation(1) }
                     )
                 }
             }

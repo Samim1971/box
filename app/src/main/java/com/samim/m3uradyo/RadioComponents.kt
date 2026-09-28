@@ -35,7 +35,9 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Slider
+import androidx.compose.material3.SliderDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -52,12 +54,14 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.asImageBitmap
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.net.HttpURLConnection
@@ -98,7 +102,7 @@ fun MenuScreen(
             .fillMaxWidth()
             .then(modifier)
             .padding(top = 12.dp),
-        shape = RoundedCornerShape(18.dp),
+        shape = RoundedCornerShape(8.dp),
         colors = CardDefaults.cardColors(
             containerColor = MaterialTheme.colorScheme.surfaceVariant
         )
@@ -298,7 +302,7 @@ fun CompactMenuButton(
     Button(
         onClick = onClick,
         modifier = modifier.height(46.dp),
-        shape = RoundedCornerShape(16.dp),
+        shape = RoundedCornerShape(8.dp),
         contentPadding = ButtonDefaults.ContentPadding
     ) {
         Text(
@@ -323,6 +327,207 @@ fun MenuLines() {
                     .width(18.dp)
                     .height(2.dp)
                     .background(MaterialTheme.colorScheme.onPrimary)
+            )
+        }
+    }
+}
+
+@Composable
+fun RadioTopBar(
+    isMenuOpen: Boolean,
+    searchText: String,
+    onMenuToggle: () -> Unit,
+    onSearchChange: (String) -> Unit,
+    onClearSearch: () -> Unit
+) {
+    Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Button(
+                onClick = onMenuToggle,
+                shape = RoundedCornerShape(8.dp),
+                modifier = Modifier.size(width = 50.dp, height = 44.dp),
+                contentPadding = PaddingValues(0.dp)
+            ) {
+                MenuLines()
+            }
+            Column(
+                modifier = Modifier
+                    .weight(1f)
+                    .padding(start = 12.dp)
+            ) {
+                Text(
+                    text = "KANALIXOR",
+                    color = MaterialTheme.colorScheme.onSurface,
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.Black,
+                    maxLines = 1
+                )
+                Text(
+                    text = if (isMenuOpen) "MENU" else "RADIO",
+                    color = MaterialTheme.colorScheme.primary,
+                    fontSize = 11.sp,
+                    fontWeight = FontWeight.Bold,
+                    maxLines = 1
+                )
+            }
+            Text(
+                text = "CANLI",
+                color = MaterialTheme.colorScheme.primary,
+                style = MaterialTheme.typography.labelMedium,
+                fontWeight = FontWeight.Bold
+            )
+            Box(
+                modifier = Modifier
+                    .padding(start = 6.dp)
+                    .size(8.dp)
+                    .background(MaterialTheme.colorScheme.primary, CircleShape)
+            )
+        }
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            OutlinedTextField(
+                value = searchText,
+                onValueChange = onSearchChange,
+                placeholder = {
+                    Text(
+                        text = "Radyo ara",
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                },
+                singleLine = true,
+                shape = RoundedCornerShape(8.dp),
+                modifier = Modifier
+                    .weight(1f)
+                    .height(54.dp)
+            )
+            Button(
+                onClick = onClearSearch,
+                enabled = searchText.isNotBlank(),
+                shape = RoundedCornerShape(8.dp),
+                colors = ButtonDefaults.buttonColors(
+                    containerColor = MaterialTheme.colorScheme.surfaceVariant,
+                    contentColor = MaterialTheme.colorScheme.onSurface
+                ),
+                modifier = Modifier
+                    .padding(start = 8.dp)
+                    .size(46.dp),
+                contentPadding = PaddingValues(0.dp)
+            ) {
+                Text("X", fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}
+
+@Composable
+fun NowPlayingPanel(
+    station: RadioStation,
+    playbackState: PlaybackUiState,
+    isPlaying: Boolean,
+    isFavorite: Boolean,
+    onToggleFavorite: () -> Unit,
+    onShare: () -> Unit,
+    modifier: Modifier = Modifier
+) {
+    Card(
+        modifier = modifier.fillMaxWidth(),
+        shape = RoundedCornerShape(8.dp),
+        colors = CardDefaults.cardColors(
+            containerColor = MaterialTheme.colorScheme.surfaceVariant
+        )
+    ) {
+        Column(
+            modifier = Modifier.padding(12.dp),
+            verticalArrangement = Arrangement.spacedBy(10.dp)
+        ) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                StationLogo(
+                    name = station.name,
+                    logoUrl = station.logoUrl,
+                    modifier = Modifier.size(72.dp)
+                )
+                Column(
+                    modifier = Modifier
+                        .weight(1f)
+                        .padding(horizontal = 12.dp)
+                ) {
+                    Text(
+                        text = station.name,
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.onSurface,
+                        maxLines = 2,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                    Text(
+                        text = station.category,
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                    Row(
+                        modifier = Modifier.padding(top = 6.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Box(
+                            modifier = Modifier
+                                .size(7.dp)
+                                .background(
+                                    if (isPlaying) MaterialTheme.colorScheme.primary
+                                    else MaterialTheme.colorScheme.outline,
+                                    CircleShape
+                                )
+                        )
+                        Text(
+                            text = playbackState.label.uppercase(),
+                            style = MaterialTheme.typography.labelSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = if (isPlaying) MaterialTheme.colorScheme.primary
+                            else MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.padding(start = 6.dp)
+                        )
+                    }
+                }
+                EqualizerBars(active = isPlaying)
+            }
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
+                SmallActionButton(
+                    text = if (isFavorite) "FAVORIDEN CIKAR" else "FAVORI",
+                    modifier = Modifier.weight(1f),
+                    onClick = onToggleFavorite
+                )
+                SmallActionButton(
+                    text = "PAYLAS",
+                    modifier = Modifier.weight(1f),
+                    onClick = onShare
+                )
+            }
+        }
+    }
+}
+
+@Composable
+private fun EqualizerBars(active: Boolean) {
+    val color = if (active) MaterialTheme.colorScheme.secondary
+    else MaterialTheme.colorScheme.outline
+    Canvas(modifier = Modifier.size(width = 34.dp, height = 42.dp)) {
+        val heights = listOf(0.38f, 0.72f, 1f, 0.62f, 0.84f)
+        val barWidth = size.width / 9f
+        heights.forEachIndexed { index, factor ->
+            val barHeight = size.height * factor
+            drawRoundRect(
+                color = color,
+                topLeft = Offset(index * barWidth * 2f, (size.height - barHeight) / 2f),
+                size = Size(barWidth, barHeight)
             )
         }
     }
@@ -382,7 +587,7 @@ fun StatusBadge(
     val statusTextColor = MaterialTheme.colorScheme.onSurfaceVariant
     Card(
         modifier = modifier.fillMaxWidth(),
-        shape = RoundedCornerShape(14.dp),
+        shape = RoundedCornerShape(8.dp),
         colors = CardDefaults.cardColors(
             containerColor = MaterialTheme.colorScheme.surfaceVariant
         )
@@ -417,7 +622,7 @@ fun UpdateBanner(
 ) {
     Card(
         modifier = modifier.fillMaxWidth(),
-        shape = RoundedCornerShape(14.dp),
+        shape = RoundedCornerShape(8.dp),
         colors = CardDefaults.cardColors(
             containerColor = Color(0xFFFFF0D6)
         )
@@ -445,7 +650,7 @@ fun UpdateBanner(
             }
             Button(
                 onClick = onOpen,
-                shape = RoundedCornerShape(14.dp),
+                shape = RoundedCornerShape(6.dp),
                 modifier = Modifier.height(40.dp)
             ) {
                 Text("Indir")
@@ -467,7 +672,7 @@ fun CategoryBar(
         items(categories, key = { it }) { category ->
             Button(
                 onClick = { onCategoryChange(category) },
-                shape = RoundedCornerShape(16.dp),
+                shape = RoundedCornerShape(8.dp),
                 colors = ButtonDefaults.buttonColors(
                     containerColor = if (category == selectedCategory) {
                         MaterialTheme.colorScheme.primary
@@ -613,7 +818,7 @@ fun SmallActionButton(
 ) {
     Button(
         onClick = onClick,
-        shape = RoundedCornerShape(14.dp),
+        shape = RoundedCornerShape(6.dp),
         modifier = modifier.height(36.dp),
         contentPadding = ButtonDefaults.ContentPadding
     ) {
@@ -632,6 +837,157 @@ fun activeFilterLabel(filter: StationFilter, count: Int): String =
         StationFilter.Favorites -> "Favoriler: $count"
         StationFilter.Recents -> "Son dinlenenler: $count"
     }
+
+@Composable
+fun StationSectionHeader(
+    filter: StationFilter,
+    count: Int
+) {
+    Row(
+        modifier = Modifier.fillMaxWidth(),
+        horizontalArrangement = Arrangement.SpaceBetween,
+        verticalAlignment = Alignment.CenterVertically
+    ) {
+        Text(
+            text = "RADYO ISTASYONLARI",
+            style = MaterialTheme.typography.labelLarge,
+            fontWeight = FontWeight.Bold,
+            color = MaterialTheme.colorScheme.onSurface
+        )
+        Text(
+            text = activeFilterLabel(filter, count),
+            style = MaterialTheme.typography.labelSmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+            maxLines = 1,
+            overflow = TextOverflow.Ellipsis,
+            modifier = Modifier.padding(start = 8.dp)
+        )
+    }
+}
+
+@Composable
+fun PlayerDock(
+    station: RadioStation?,
+    playbackState: PlaybackUiState,
+    isPlaying: Boolean,
+    volume: Float,
+    isMuted: Boolean,
+    onPrevious: () -> Unit,
+    onToggle: () -> Unit,
+    onStop: () -> Unit,
+    onNext: () -> Unit,
+    onVolumeChange: (Float) -> Unit,
+    onMuteToggle: () -> Unit
+) {
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(top = 8.dp),
+        shape = RoundedCornerShape(8.dp),
+        colors = CardDefaults.cardColors(
+            containerColor = MaterialTheme.colorScheme.surfaceVariant
+        )
+    ) {
+        Column(
+            modifier = Modifier.padding(horizontal = 12.dp, vertical = 10.dp),
+            verticalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                StationLogo(
+                    name = station?.name ?: APP_DISPLAY_NAME,
+                    logoUrl = station?.logoUrl,
+                    modifier = Modifier.size(36.dp)
+                )
+                Column(
+                    modifier = Modifier
+                        .weight(1f)
+                        .padding(start = 10.dp)
+                ) {
+                    Text(
+                        text = station?.name ?: "Bir radyo secin",
+                        style = MaterialTheme.typography.titleSmall,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.onSurface,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                    Text(
+                        text = playbackState.label,
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        maxLines = 1
+                    )
+                }
+                Text(
+                    text = "${(volume * 100).roundToInt()}%",
+                    style = MaterialTheme.typography.labelLarge,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.secondary
+                )
+            }
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.SpaceEvenly,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                RoundControlButton(icon = ControlIcon.Previous, onClick = onPrevious)
+                RoundControlButton(
+                    icon = if (isPlaying) ControlIcon.Pause else ControlIcon.Play,
+                    onClick = onToggle,
+                    isPrimary = true
+                )
+                RoundControlButton(
+                    icon = ControlIcon.Stop,
+                    onClick = onStop,
+                    isStop = true
+                )
+                RoundControlButton(icon = ControlIcon.Next, onClick = onNext)
+            }
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(
+                    text = "SES",
+                    style = MaterialTheme.typography.labelSmall,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.width(34.dp)
+                )
+                Slider(
+                    value = volume,
+                    onValueChange = { onVolumeChange(it.coerceIn(0f, 1f)) },
+                    colors = SliderDefaults.colors(
+                        thumbColor = MaterialTheme.colorScheme.secondary,
+                        activeTrackColor = MaterialTheme.colorScheme.secondary,
+                        inactiveTrackColor = MaterialTheme.colorScheme.outline
+                    ),
+                    modifier = Modifier.weight(1f)
+                )
+                Button(
+                    onClick = onMuteToggle,
+                    shape = RoundedCornerShape(6.dp),
+                    colors = ButtonDefaults.buttonColors(
+                        containerColor = if (isMuted) MaterialTheme.colorScheme.primary
+                        else MaterialTheme.colorScheme.surface,
+                        contentColor = if (isMuted) MaterialTheme.colorScheme.onPrimary
+                        else MaterialTheme.colorScheme.onSurface
+                    ),
+                    modifier = Modifier
+                        .padding(start = 8.dp)
+                        .height(38.dp),
+                    contentPadding = PaddingValues(horizontal = 10.dp)
+                ) {
+                    Text(
+                        text = if (isMuted) "SES AC" else "SESSIZ",
+                        style = MaterialTheme.typography.labelSmall,
+                        fontWeight = FontWeight.Bold
+                    )
+                }
+            }
+        }
+    }
+}
 
 @Composable
 fun PlayerPanel(
@@ -704,7 +1060,8 @@ fun StationList(
 ) {
     LazyColumn(
         modifier = modifier.fillMaxWidth(),
-        verticalArrangement = Arrangement.spacedBy(14.dp)
+        verticalArrangement = Arrangement.spacedBy(6.dp),
+        contentPadding = PaddingValues(bottom = 2.dp)
     ) {
         items(stations, key = { it.streamUrl }) { station ->
             val isSelected = station == selectedStation
@@ -714,26 +1071,30 @@ fun StationList(
                 Card(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .height(86.dp)
+                        .height(70.dp)
                         .combinedClickable(
                             enabled = enabled,
                             onClick = { onSelect(station) },
                             onLongClick = { stationMenuOpen = true }
                         ),
-                    shape = RoundedCornerShape(18.dp),
+                    shape = RoundedCornerShape(8.dp),
                         colors = CardDefaults.cardColors(
                             containerColor = if (isSelected) {
-                                Color(0xFFE9D8F7)
+                                MaterialTheme.colorScheme.secondaryContainer
                         } else {
-                            Color(0xFFECE1EC)
+                            MaterialTheme.colorScheme.surfaceVariant
                         }
                     )
                 ) {
                     Row(
-                        modifier = Modifier.padding(12.dp),
+                        modifier = Modifier.padding(horizontal = 10.dp, vertical = 8.dp),
                         verticalAlignment = Alignment.CenterVertically
                     ) {
-                        StationLogo(station.name, station.logoUrl)
+                        StationLogo(
+                            station.name,
+                            station.logoUrl,
+                            modifier = Modifier.size(50.dp)
+                        )
                         Column(
                             modifier = Modifier
                                 .weight(1f)
@@ -743,29 +1104,41 @@ fun StationList(
                                 text = station.name,
                                 style = MaterialTheme.typography.titleSmall,
                                 fontWeight = FontWeight.Bold,
-                                color = Color(0xFF111111),
+                                color = MaterialTheme.colorScheme.onSurface,
                                 maxLines = 1,
                                 overflow = TextOverflow.Ellipsis
                             )
-                            Text(
-                                text = station.category,
-                                style = MaterialTheme.typography.bodySmall,
-                                color = Color(0xFF2F2634),
-                                maxLines = 1,
-                                overflow = TextOverflow.Ellipsis
-                            )
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Box(
+                                    modifier = Modifier
+                                        .size(6.dp)
+                                        .background(MaterialTheme.colorScheme.primary, CircleShape)
+                                )
+                                Text(
+                                    text = "CANLI  ${station.category}",
+                                    style = MaterialTheme.typography.bodySmall,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                    maxLines = 1,
+                                    overflow = TextOverflow.Ellipsis,
+                                    modifier = Modifier.padding(start = 6.dp)
+                                )
+                            }
                         }
                         Button(
                             onClick = { onToggleFavorite(station) },
-                            shape = RoundedCornerShape(18.dp),
-                            modifier = Modifier.size(width = 58.dp, height = 46.dp),
-                            contentPadding = ButtonDefaults.ContentPadding
+                            shape = CircleShape,
+                            colors = ButtonDefaults.buttonColors(
+                                containerColor = if (isFavorite) MaterialTheme.colorScheme.tertiary
+                                else MaterialTheme.colorScheme.surface,
+                                contentColor = if (isFavorite) MaterialTheme.colorScheme.onTertiary
+                                else MaterialTheme.colorScheme.onSurfaceVariant
+                            ),
+                            modifier = Modifier.size(42.dp),
+                            contentPadding = PaddingValues(0.dp)
                         ) {
-                            Text(
-                                if (isFavorite) "*" else "+",
-                                style = MaterialTheme.typography.titleLarge,
-                                fontWeight = FontWeight.Bold,
-                                color = MaterialTheme.colorScheme.onPrimary
+                            FavoriteGlyph(
+                                color = if (isFavorite) MaterialTheme.colorScheme.onTertiary
+                                else MaterialTheme.colorScheme.onSurfaceVariant
                             )
                         }
                     }
@@ -791,6 +1164,27 @@ fun StationList(
                 }
             }
         }
+    }
+}
+
+@Composable
+private fun FavoriteGlyph(color: Color) {
+    Canvas(modifier = Modifier.size(22.dp)) {
+        val outer = size.minDimension / 2f
+        val inner = outer * 0.46f
+        val center = Offset(size.width / 2f, size.height / 2f)
+        val path = Path()
+        repeat(10) { index ->
+            val angle = Math.toRadians((-90.0 + index * 36.0))
+            val radius = if (index % 2 == 0) outer else inner
+            val point = Offset(
+                center.x + (kotlin.math.cos(angle) * radius).toFloat(),
+                center.y + (kotlin.math.sin(angle) * radius).toFloat()
+            )
+            if (index == 0) path.moveTo(point.x, point.y) else path.lineTo(point.x, point.y)
+        }
+        path.close()
+        drawPath(path, color)
     }
 }
 
@@ -984,36 +1378,20 @@ fun StationLogo(
             contentDescription = name,
             contentScale = ContentScale.Crop,
             modifier = modifier
-                .clip(CircleShape)
-                .background(Color.White, CircleShape)
+                .clip(RoundedCornerShape(8.dp))
+                .background(Color.White, RoundedCornerShape(8.dp))
         )
         return
     }
 
-    val color = remember(name) {
-        val colors = listOf(
-            Color(0xFF006D77),
-            Color(0xFF7B2CBF),
-            Color(0xFFB23A48),
-            Color(0xFF2D6A4F),
-            Color(0xFF3A5A40),
-            Color(0xFF3D405B)
-        )
-        colors[Math.abs(name.hashCode()) % colors.size]
-    }
-    Box(
+    Image(
+        painter = painterResource(R.drawable.ic_radio_player),
+        contentDescription = "$name standart radyo logosu",
+        contentScale = ContentScale.Crop,
         modifier = modifier
-            .background(color, CircleShape),
-        contentAlignment = Alignment.Center
-    ) {
-        Text(
-            text = stationInitials(name),
-            color = Color.White,
-            style = MaterialTheme.typography.titleSmall,
-            fontWeight = FontWeight.Bold,
-            textAlign = TextAlign.Center
-        )
-    }
+            .clip(RoundedCornerShape(8.dp))
+            .background(MaterialTheme.colorScheme.surface, RoundedCornerShape(8.dp))
+    )
 }
 
 @Composable
