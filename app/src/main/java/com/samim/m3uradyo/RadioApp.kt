@@ -59,6 +59,7 @@ fun RadioApp() {
     val player = remember {
         ExoPlayer.Builder(context).build().apply {
             setWakeMode(C.WAKE_MODE_NETWORK)
+            volume = 1f
         }
     }
     val mediaSession = remember {
@@ -87,11 +88,9 @@ fun RadioApp() {
     var updateInfo by remember { mutableStateOf<UpdateInfo?>(null) }
     var updateStatus by remember { mutableStateOf("Guncelleme kontrol edilmedi") }
     var isCheckingUpdates by remember { mutableStateOf(false) }
-    var volume by remember { mutableStateOf(getMediaVolumeRatio(context)) }
-    var previousAudibleVolume by remember {
-        mutableStateOf(if (volume > 0f) volume else 0.5f)
-    }
-    var isMuted by remember { mutableStateOf(volume <= 0f) }
+    var volume by remember { mutableStateOf(1f) }
+    var previousAudibleVolume by remember { mutableStateOf(1f) }
+    var isMuted by remember { mutableStateOf(false) }
     val systemDark = isSystemInDarkTheme()
     val useDarkTheme = when (themeMode) {
         ThemeMode.System -> systemDark
@@ -109,6 +108,12 @@ fun RadioApp() {
     }
 
     LaunchedEffect(Unit) {
+        val maximumVolume = setMediaVolumeRatio(context, 1f)
+        player.volume = 1f
+        volume = maximumVolume
+        previousAudibleVolume = maximumVolume.coerceAtLeast(0.05f)
+        isMuted = false
+
         if (Build.VERSION.SDK_INT >= 33 &&
             ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) !=
             PackageManager.PERMISSION_GRANTED
